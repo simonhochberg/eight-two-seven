@@ -1,12 +1,14 @@
 import pandas as pd, numpy as np, csv, requests, datetime, time, zipfile
-from scipy import stats
 import os, shutil
 
 # this interaction checks to make sure that the user really wants to delete already existing GTFS data
 # I kept accidentally deleting files I wanted -- hence, this step
 deleteGTFS = input('Do you want to delete existing GTFS data? Y/N ')
 if deleteGTFS.upper() == 'Y':
-    shutil.rmtree('gtfs/')
+    try:
+        shutil.rmtree('gtfs/')
+    except FileNotFoundError:
+        pass
 else:
     pass
     
