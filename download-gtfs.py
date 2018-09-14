@@ -51,3 +51,8 @@ for feed in listOfAgencyIDs:
     except:
         print(path)
         os.remove(path)
+
+
+note_to_write = "downloaded from https://transitfeeds.com on %s" % str(datetime.date.today()) 
+with open("gtfs/README.txt", "w") as text_file:
+    text_file.write(note_to_write) 
