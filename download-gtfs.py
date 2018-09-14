@@ -2,6 +2,8 @@ import pandas as pd, numpy as np, csv, requests, datetime, time, zipfile
 from scipy import stats
 import os, shutil
 
+# this interaction checks to make sure that the user really wants to delete already existing GTFS data
+# I kept accidentally deleting files I wanted -- hence, this step
 deleteGTFS = input('Do you want to delete existing GTFS data? Y/N ')
 if deleteGTFS.upper() == 'Y':
     shutil.rmtree('gtfs/')
@@ -11,7 +13,7 @@ else:
 # download list of agency IDs from transit feeds
 
 listOfAgencyIDs = []
-api_key = "94413ac9-aec7-4720-a731-640e98d65763"
+api_key = "94413ac9-aec7-4720-a731-640e98d65763" # this is my API key; replace with your own
 r_url = 'https://api.transitfeeds.com/v1/getFeeds?key=%s&location=67&descendants=1&limit=100' % api_key
 r = requests.get(r_url)
 
@@ -24,7 +26,7 @@ for page in range(1,(numPages+1)):
         if feed['ty'] == 'gtfs' and feed['id'] not in listOfAgencyIDs:
             listOfAgencyIDs.append(feed['id']) # append GTFS feed to list of desired feeds
  
-# download GTFS for each agency
+# download zipped GTFS data for each agency
 for feed in listOfAgencyIDs:
     url = 'https://api.transitfeeds.com/v1/getLatestFeedVersion?key=%s&feed=%s' % (api_key, feed)
     g = requests.get(url)
@@ -34,7 +36,7 @@ for feed in listOfAgencyIDs:
         for chunk in g.iter_content(chunk_size=128):
             fd.write(chunk)
             
-# unzip downloaded GTFS data
+# unzip downloaded GTFS data in a new directory called "gtfs"
 for feed in listOfAgencyIDs:
     slashRemoval = '--'.join(feed.split('/'))
     path = "%s.zip" % slashRemoval
