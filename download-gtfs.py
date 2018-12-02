@@ -27,7 +27,7 @@ for page in range(1,(numPages+1)):
     for feed in (r.json()['results']['feeds']):
         if feed['ty'] == 'gtfs' and feed['id'] not in listOfAgencyIDs:
             listOfAgencyIDs.append(feed['id']) # append GTFS feed to list of desired feeds
- 
+
 # download zipped GTFS data for each agency
 for feed in listOfAgencyIDs:
     url = 'https://api.transitfeeds.com/v1/getLatestFeedVersion?key=%s&feed=%s' % (api_key, feed)
