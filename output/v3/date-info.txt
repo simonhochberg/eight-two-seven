@@ -1,0 +1,5 @@
+The headways represented here correspond to the following revenue days:
+
+weekday: 20190315
+saturday: 20190316
+sunday: 20190317

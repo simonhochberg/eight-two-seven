@@ -1,0 +1,912 @@
+,Unnamed: 0,stop_id,stop_name,stop_lon,stop_lat,agency
+0,0,7086,Historic Folsom Station (WB),-121.180467,38.67545,Sacramento Regional Transit.csv
+1,1,7087,Glenn Station (WB),-121.183667,38.662733,Sacramento Regional Transit.csv
+2,2,7088,Iron Point Station (WB),-121.190567,38.644317,Sacramento Regional Transit.csv
+3,3,7089,Hazel Station (WB),-121.212754,38.630217,Sacramento Regional Transit.csv
+4,4,7066,Sunrise Station (WB),-121.267248,38.606523,Sacramento Regional Transit.csv
+5,5,7067,Cordova Town Center Station (WB),-121.283655,38.598441,Sacramento Regional Transit.csv
+6,6,7068,Zinfandel Station (WB),-121.290917,38.594833,Sacramento Regional Transit.csv
+7,7,7069,Mather Field/Mills Station (WB),-121.311617,38.584483,Sacramento Regional Transit.csv
+8,8,7070,Butterfield Station (WB),-121.34708700000002,38.566977,Sacramento Regional Transit.csv
+9,9,7071,Tiber Station (WB),-121.353483,38.563817,Sacramento Regional Transit.csv
+10,10,7072,Starfire Station (WB),-121.362547,38.559245,Sacramento Regional Transit.csv
+11,11,7073,Watt/Manlove Station (WB),-121.373651,38.553684,Sacramento Regional Transit.csv
+12,12,7074,College Greens Station (WB),-121.393899,38.547035,Sacramento Regional Transit.csv
+13,13,7075,Power Inn Station (WB),-121.4081,38.547483,Sacramento Regional Transit.csv
+14,14,7076,University/65th Street Station (WB),-121.42748600000002,38.552648,Sacramento Regional Transit.csv
+15,15,7077,59th Street Station (WB),-121.436289,38.554995,Sacramento Regional Transit.csv
+16,16,7078,48th Street Station (WB),-121.449346,38.558592,Sacramento Regional Transit.csv
+17,17,7079,39th Street Station (WB),-121.457653,38.56087,Sacramento Regional Transit.csv
+18,18,7080,29th Street Station (WB),-121.47155,38.564667,Sacramento Regional Transit.csv
+19,19,7081,23rd Street Station (WB),-121.479207,38.566701,Sacramento Regional Transit.csv
+20,20,7032,16th Street Station (WB),-121.489998,38.570121,Sacramento Regional Transit.csv
+21,21,7033,13th Street Station (WB),-121.493783,38.571133,Sacramento Regional Transit.csv
+22,22,7034,Archives Plaza Station (WB),-121.494278,38.574381,Sacramento Regional Transit.csv
+23,23,7035,8th & O Station (WB),-121.498084,38.575439,Sacramento Regional Transit.csv
+24,24,7036,8th & Capitol Station (WB),-121.49773,38.577521,Sacramento Regional Transit.csv
+25,25,7091,8th & K Station (NB),-121.496515,38.580371,Sacramento Regional Transit.csv
+26,26,7095,8th & H Station (NB),-121.495389,38.58292,Sacramento Regional Transit.csv
+27,27,7092,Sacramento Valley Station (WB),-121.500439,38.58462700000001,Sacramento Regional Transit.csv
+28,28,7093,Sacramento Valley Station (EB),-121.499307,38.584323,Sacramento Regional Transit.csv
+29,29,7090,7th & I/County Center Station (SB),-121.496864,38.582585,Sacramento Regional Transit.csv
+30,30,7013,7th & Capitol Station (SB),-121.498721,38.578258,Sacramento Regional Transit.csv
+31,31,7014,8th & O Station (EB),-121.49868,38.575579,Sacramento Regional Transit.csv
+32,32,7015,Archives Plaza Station (EB),-121.494718,38.574401,Sacramento Regional Transit.csv
+33,33,7016,13th Street Station (EB),-121.492983,38.570836,Sacramento Regional Transit.csv
+34,34,7017,16th Street Station (EB),-121.489018,38.569773,Sacramento Regional Transit.csv
+35,35,7050,23rd Street Station (EB),-121.47855,38.566433,Sacramento Regional Transit.csv
+36,36,7051,29th Street Station (EB),-121.47055,38.564317,Sacramento Regional Transit.csv
+37,37,7052,39th Street Station (EB),-121.456583,38.560463,Sacramento Regional Transit.csv
+38,38,7053,48th Street Station (EB),-121.4483,38.5582,Sacramento Regional Transit.csv
+39,39,7054,59th Street Station (EB),-121.43524,38.554607,Sacramento Regional Transit.csv
+40,40,7055,University/65th Street Station (EB),-121.426566,38.5523,Sacramento Regional Transit.csv
+41,41,7056,Power Inn Station (EB),-121.406916,38.547217,Sacramento Regional Transit.csv
+42,42,7057,College Greens Station (EB),-121.392775,38.547077,Sacramento Regional Transit.csv
+43,43,7058,Watt/Manlove Station (EB),-121.372654,38.554066,Sacramento Regional Transit.csv
+44,44,7059,Starfire Station (EB),-121.361369,38.559731,Sacramento Regional Transit.csv
+45,45,7060,Tiber Station (EB),-121.352457,38.564211,Sacramento Regional Transit.csv
+46,46,7061,Butterfield Station (EB),-121.34606200000002,38.567361,Sacramento Regional Transit.csv
+47,47,7062,Mather Field/Mills Station (EB),-121.310611,38.584973,Sacramento Regional Transit.csv
+48,48,7063,Zinfandel Station (EB),-121.289773,38.595294,Sacramento Regional Transit.csv
+49,49,7064,Cordova Town Center Station (EB),-121.282502,38.59887,Sacramento Regional Transit.csv
+50,50,7065,Sunrise Station (EB),-121.266108,38.606965,Sacramento Regional Transit.csv
+51,51,7082,Hazel Station (EB),-121.211678,38.63062100000001,Sacramento Regional Transit.csv
+52,52,7083,Iron Point Station (EB),-121.189683,38.644967,Sacramento Regional Transit.csv
+53,53,7084,Glenn Station (EB),-121.183633,38.663667,Sacramento Regional Transit.csv
+54,54,7085,Historic Folsom Station (EB),-121.180717,38.67635,Sacramento Regional Transit.csv
+55,55,7096,Township 9 Station (EB),-121.491473,38.596128,Sacramento Regional Transit.csv
+56,56,7094,Township 9 Station (WB),-121.491698,38.596304,Sacramento Regional Transit.csv
+57,57,7037,St Rose of Lima Park Station (EB),-121.495491,38.579557,Sacramento Regional Transit.csv
+58,58,7000,Watt/I-80 Station (WB),-121.384812,38.644922,Sacramento Regional Transit.csv
+59,59,7001,Watt/I-80 West Station (WB),-121.39505,38.642622,Sacramento Regional Transit.csv
+60,60,7002,Roseville Road Station (WB),-121.40266499999998,38.638011,Sacramento Regional Transit.csv
+61,61,7003,Marconi/Arcade Station (WB),-121.425055,38.621087,Sacramento Regional Transit.csv
+62,62,7004,Employee Platform Station (WB),-121.430783,38.61585,Sacramento Regional Transit.csv
+63,63,7005,Swanston Station (WB),-121.439848,38.607435,Sacramento Regional Transit.csv
+64,64,7006,Royal Oaks Station (WB),-121.448177,38.606247,Sacramento Regional Transit.csv
+65,65,7007,Arden/Del Paso Station (WB),-121.457376,38.606316,Sacramento Regional Transit.csv
+66,66,7008,Globe Avenue Station (WB),-121.4664,38.602633,Sacramento Regional Transit.csv
+67,67,7009,Alkali Flat/La Valentina Station (SB),-121.4883,38.585212,Sacramento Regional Transit.csv
+68,68,7010,12th & I Station (SB),-121.490233,38.580833,Sacramento Regional Transit.csv
+69,69,7011,Cathedral Square Station (WB),-121.493576,38.579171,Sacramento Regional Transit.csv
+70,70,7018,Broadway Station (EB),-121.488238,38.559182,Sacramento Regional Transit.csv
+71,71,7019,4th Ave/Wayne Hultgren Station (EB),-121.488002,38.550966,Sacramento Regional Transit.csv
+72,72,7020,City College Station (EB),-121.485293,38.541652,Sacramento Regional Transit.csv
+73,73,7021,Fruitridge Station (EB),-121.479969,38.525188,Sacramento Regional Transit.csv
+74,74,7022,47th Avenue Station (EB),-121.475827,38.511452,Sacramento Regional Transit.csv
+75,75,7023,Florin Station (EB),-121.471467,38.497317,Sacramento Regional Transit.csv
+76,76,7024,Meadowview Station (EB),-121.466981,38.482687,Sacramento Regional Transit.csv
+77,77,7101,Franklin Station (EB),-121.448058,38.462785,Sacramento Regional Transit.csv
+78,78,7103,Center Parkway Station (EB),-121.429365,38.458599,Sacramento Regional Transit.csv
+79,79,7097,CRC Station (SB),-121.418322,38.453234,Sacramento Regional Transit.csv
+80,80,7098,CRC Station (NB),-121.41826299999998,38.454141,Sacramento Regional Transit.csv
+81,81,7104,Center Parkway Station (WB),-121.430422,38.458941,Sacramento Regional Transit.csv
+82,82,7102,Franklin Station (WB),-121.449009,38.463285,Sacramento Regional Transit.csv
+83,83,7025,Meadowview Station (WB),-121.467258,38.483607,Sacramento Regional Transit.csv
+84,84,7026,Florin Station (WB),-121.471646,38.498243,Sacramento Regional Transit.csv
+85,85,7027,47th Avenue Station (WB),-121.476017,38.512383,Sacramento Regional Transit.csv
+86,86,7028,Fruitridge Station (WB),-121.480233,38.526083,Sacramento Regional Transit.csv
+87,87,7029,City College Station (WB),-121.485473,38.542579,Sacramento Regional Transit.csv
+88,88,7030,4th Ave/Wayne Hultgren Station (WB),-121.488192,38.551899,Sacramento Regional Transit.csv
+89,89,7031,Broadway Station (WB),-121.487752,38.56002700000001,Sacramento Regional Transit.csv
+90,90,7038,Cathedral Square Station (EB),-121.492009,38.578637,Sacramento Regional Transit.csv
+91,91,7039,12th & I Station (NB),-121.489933,38.581667,Sacramento Regional Transit.csv
+92,92,7040,Alkali Flat/La Valentina Station (NB),-121.487946,38.585994,Sacramento Regional Transit.csv
+93,93,7041,Globe Avenue Station (EB),-121.465426,38.603098,Sacramento Regional Transit.csv
+94,94,7042,Arden/Del Paso Station (EB),-121.456274,38.606207,Sacramento Regional Transit.csv
+95,95,7043,Royal Oaks Station (EB),-121.4474,38.605943,Sacramento Regional Transit.csv
+96,96,7044,Swanston Station (EB),-121.439033,38.60805,Sacramento Regional Transit.csv
+97,97,7045,Employee Platform Station (EB),-121.430707,38.615787,Sacramento Regional Transit.csv
+98,98,7046,Marconi/Arcade Station (EB),-121.424278,38.621688,Sacramento Regional Transit.csv
+99,99,7047,Roseville Road Station (EB),-121.40145,38.638483,Sacramento Regional Transit.csv
+100,100,7048,Watt/I-80 West Station (EB),-121.394052,38.643081,Sacramento Regional Transit.csv
+101,101,7049,Watt/I-80 Station (EB),-121.383651,38.645012,Sacramento Regional Transit.csv
+102,0,80122,7th Street / Metro Center Station - Metro Blue & Expo Lines,-118.258822,34.04861,Metro - Los Angeles.csv
+103,1,80121,Pico Station,-118.266118,34.040735,Metro - Los Angeles.csv
+104,2,80123,LATTC / Ortho Institute Station,-118.273603,34.029112,Metro - Los Angeles.csv
+105,3,80124,Jefferson / USC Station,-118.278118,34.022123,Metro - Los Angeles.csv
+106,4,80125,Expo Park / USC Station,-118.285734,34.018227,Metro - Los Angeles.csv
+107,5,80126,Expo / Vermont Station,-118.29154,34.018245,Metro - Los Angeles.csv
+108,6,80127,Expo / Western Station,-118.30891,34.018331,Metro - Los Angeles.csv
+109,7,80128,Expo / Crenshaw Station,-118.335078,34.022526,Metro - Los Angeles.csv
+110,8,80129,Farmdale Station,-118.346095,34.023981,Metro - Los Angeles.csv
+111,9,80130,Expo / La Brea / Ethel Bradley Station,-118.355159,34.02480300000001,Metro - Los Angeles.csv
+112,10,80131,La Cienega / Jefferson Station,-118.37212,34.026355,Metro - Los Angeles.csv
+113,11,80132,Culver City Station,-118.38898600000002,34.027896000000005,Metro - Los Angeles.csv
+114,12,80133,Palms Station,-118.404255,34.029323,Metro - Los Angeles.csv
+115,13,80134,Westwood / Rancho Park Station,-118.424576,34.036815999999995,Metro - Los Angeles.csv
+116,14,80135,Expo / Sepulveda Station,-118.434234,34.035408000000004,Metro - Los Angeles.csv
+117,15,80136,Expo / Bundy Station,-118.452896,34.031705,Metro - Los Angeles.csv
+118,16,80113,103rd Street / Watts Towers  Station,-118.243159,33.94222,Metro - Los Angeles.csv
+119,17,80114,Firestone Station,-118.243205,33.959610999999995,Metro - Los Angeles.csv
+120,18,80115,Florence Station,-118.243271,33.97374,Metro - Los Angeles.csv
+121,19,80116,Slauson Station,-118.243398,33.98876,Metro - Los Angeles.csv
+122,20,80117,Vernon Station,-118.243303,34.00292,Metro - Los Angeles.csv
+123,21,80118,Washington Station,-118.243084,34.01965,Metro - Los Angeles.csv
+124,22,80119,San Pedro Street Station,-118.255505,34.026807,Metro - Los Angeles.csv
+125,23,80120,Grand / LATTC Station,-118.269333,34.033155,Metro - Los Angeles.csv
+126,24,80137,26th Street / Bergamot Station,-118.46912,34.027995000000004,Metro - Los Angeles.csv
+127,25,80138,17th Street / SMC Station,-118.480372,34.023155,Metro - Los Angeles.csv
+128,26,80139,Downtown Santa Monica Station,-118.491384,34.01401,Metro - Los Angeles.csv
+129,27,80214,Union Station - Metro Red & Purple Lines,-118.234249,34.056197,Metro - Los Angeles.csv
+130,28,80213,Civic Center / Grand Park Station,-118.246057,34.0549,Metro - Los Angeles.csv
+131,29,80212,Pershing Square Station,-118.251259,34.049316,Metro - Los Angeles.csv
+132,30,80211,7th Street / Metro Center Station - Metro Red & Purple Lines,-118.258682,34.048634,Metro - Los Angeles.csv
+133,31,80210,Westlake / MacArthur Park Station,-118.274879,34.056368,Metro - Los Angeles.csv
+134,32,80209,Wilshire / Vermont Station,-118.290082,34.062701000000004,Metro - Los Angeles.csv
+135,33,80208,Vermont / Beverly Station,-118.291686,34.076526,Metro - Los Angeles.csv
+136,34,80207,Vermont / Santa Monica Station,-118.29173,34.08991,Metro - Los Angeles.csv
+137,35,80206,Vermont / Sunset Station,-118.291756,34.097708000000004,Metro - Los Angeles.csv
+138,36,80205,Hollywood / Western Station,-118.308117,34.101737,Metro - Los Angeles.csv
+139,37,80204,Hollywood / Vine Station,-118.32518,34.10163,Metro - Los Angeles.csv
+140,38,80203,Hollywood / Highland Station,-118.338549,34.101547,Metro - Los Angeles.csv
+141,39,80202,Universal / Studio City Station,-118.362699,34.140002,Metro - Los Angeles.csv
+142,40,80201,North Hollywood Station,-118.376808,34.168504,Metro - Los Angeles.csv
+143,41,80215,Wilshire / Normandie Station,-118.301458,34.061753,Metro - Los Angeles.csv
+144,42,80216,Wilshire / Western Station,-118.308756,34.061689,Metro - Los Angeles.csv
+145,43,80301,Redondo Beach Station,-118.369196,33.89464,Metro - Los Angeles.csv
+146,44,80302,Douglas Station,-118.383113,33.905299,Metro - Los Angeles.csv
+147,45,80303,El Segundo Station,-118.38653899999998,33.916063,Metro - Los Angeles.csv
+148,46,80304,Mariposa Station,-118.387572,33.9232,Metro - Los Angeles.csv
+149,47,80305,Aviation / LAX Station,-118.377134,33.929621000000004,Metro - Los Angeles.csv
+150,48,80306,Hawthorne / Lennox Station,-118.351602,33.933408,Metro - Los Angeles.csv
+151,49,80307,Crenshaw Station,-118.32655,33.925201,Metro - Los Angeles.csv
+152,50,80308,Vermont / Athens Station,-118.291733,33.928683,Metro - Los Angeles.csv
+153,51,80309,Harbor Freeway Station,-118.2811,33.928714,Metro - Los Angeles.csv
+154,52,80310,Avalon Station,-118.265217,33.927465000000005,Metro - Los Angeles.csv
+155,53,80311,Willowbrook - Rosa Parks Station - Metro Green Line,-118.238052,33.928258,Metro - Los Angeles.csv
+156,54,80312,Long Beach Blvd Station,-118.209945,33.92488,Metro - Los Angeles.csv
+157,55,80313,Lakewood Blvd Station,-118.1406,33.913070000000005,Metro - Los Angeles.csv
+158,56,80314,Norwalk Station,-118.104717,33.914033,Metro - Los Angeles.csv
+159,57,80409,Union Station - Metro Gold Line,-118.234759,34.056061,Metro - Los Angeles.csv
+160,58,80408,Little Tokyo / Arts District Station,-118.237901,34.0501,Metro - Los Angeles.csv
+161,59,80407,Pico / Aliso Station,-118.22594,34.047634,Metro - Los Angeles.csv
+162,60,80406,Mariachi Plaza / Boyle Heights Station,-118.219648,34.047215,Metro - Los Angeles.csv
+163,61,80405,Soto Station,-118.210061,34.043747,Metro - Los Angeles.csv
+164,62,80404,Indiana Station,-118.192182,34.0343,Metro - Los Angeles.csv
+165,63,80403,Maravilla Station,-118.16814,34.033319,Metro - Los Angeles.csv
+166,64,80402,East LA Civic Center Station,-118.161206,34.033364,Metro - Los Angeles.csv
+167,65,80401,Atlantic Station,-118.154469,34.033398,Metro - Los Angeles.csv
+168,66,80410,Chinatown Station,-118.23584,34.063861,Metro - Los Angeles.csv
+169,67,80411,Lincoln Heights / Cypress Park Station,-118.220429,34.080949,Metro - Los Angeles.csv
+170,68,80412,Heritage Square / Arroyo Station,-118.21321299999998,34.087227,Metro - Los Angeles.csv
+171,69,80413,Southwest Museum Station,-118.206712,34.098243,Metro - Los Angeles.csv
+172,70,80414,Highland Park Station,-118.192606,34.111179,Metro - Los Angeles.csv
+173,71,80415,South Pasadena Station,-118.157886,34.115186,Metro - Los Angeles.csv
+174,72,80416,Fillmore Station,-118.148126,34.133521,Metro - Los Angeles.csv
+175,73,80417,Del Mar Station,-118.148214,34.14191,Metro - Los Angeles.csv
+176,74,80418,Memorial Park Station,-118.147512,34.148356,Metro - Los Angeles.csv
+177,75,80419,Lake Station,-118.13139,34.151806,Metro - Los Angeles.csv
+178,76,80420,Allen Station,-118.114348,34.152417,Metro - Los Angeles.csv
+179,77,80421,Sierra Madre Villa Station,-118.081212,34.147752000000004,Metro - Los Angeles.csv
+180,78,80422,Arcadia Station,-118.029199,34.14286,Metro - Los Angeles.csv
+181,79,80423,Monrovia Station,-118.003473,34.133155,Metro - Los Angeles.csv
+182,80,80424,Duarte / City of Hope Station,-117.96768,34.132518,Metro - Los Angeles.csv
+183,81,80425,Irwindale Station,-117.932506,34.129048,Metro - Los Angeles.csv
+184,82,80426,Azusa Downtown Station,-117.906631,34.135863,Metro - Los Angeles.csv
+185,83,80427,APU / Citrus College Station,-117.891636,34.136814,Metro - Los Angeles.csv
+186,0,3400001,SKT STOCKTON STATION,-121.278948,37.957058,Altamont Corridor Express.csv
+187,1,3400002,LAT LATHROP/MANTECA STATION,-121.263664,37.797908,Altamont Corridor Express.csv
+188,2,3400003,TRC TRACY STATION,-121.433869,37.696468,Altamont Corridor Express.csv
+189,3,3400004,VAR VASCO ROAD STATION,-121.7193829951,37.7013875182,Altamont Corridor Express.csv
+190,4,3400005,LVA LIVERMORE STATION,-121.76749517379999,37.6851052949,Altamont Corridor Express.csv
+191,5,3400006,PLD PLEASANTON STATION,-121.8829617257,37.6575485374,Altamont Corridor Express.csv
+192,6,3400007,FMT FREMONT STATION,-122.0075983747,37.5585585499,Altamont Corridor Express.csv
+193,7,3400008,GAC GREAT AMERICA STATION,-121.9666714969,37.4063980804,Altamont Corridor Express.csv
+194,8,3400009,SCC SANTA CLARA STATION,-121.936346,37.352892,Altamont Corridor Express.csv
+195,9,3400010,SJD SAN JOSE STATION,-121.9031883625,37.329568326,Altamont Corridor Express.csv
+196,0,75000,San Ysidro/Intl Border,-117.029539035018,32.54456597544,MTS.csv
+197,1,75002,Beyer Blvd Station,-117.04706184256001,32.557656016844,MTS.csv
+198,2,75004,Iris Ave Station,-117.067176155865,32.569761999751,MTS.csv
+199,3,75006,Palm Avenue Station,-117.08375293401501,32.584779871288,MTS.csv
+200,4,75008,Palomar Street Station,-117.085081849441,32.603293988127,MTS.csv
+201,5,75010,H Street Station,-117.09557711870899,32.630177911165,MTS.csv
+202,6,75012,E Street Station,-117.099056928771,32.639104994037,MTS.csv
+203,7,75014,24th Street Station,-117.108006068876,32.661964912193,MTS.csv
+204,8,75016,8th Street Station,-117.11309507784401,32.675019108911,MTS.csv
+205,9,75106,Pacific Fleet Station,-117.124790890451,32.686098888261,MTS.csv
+206,10,75104,Harborside Station,-117.132863899597,32.691325895251005,MTS.csv
+207,11,75018,Barrio Logan Station,-117.14666504345,32.698126983977,MTS.csv
+208,12,75102,12th & Imperial Transit Center,-117.153217902166,32.705870089517,MTS.csv
+209,13,75092,Park & Market Station,-117.15372102845801,32.7110599917,MTS.csv
+210,14,75090,City College Station,-117.154172920554,32.716289022674,MTS.csv
+211,15,75088,Fifth Avenue Station,-117.15967790667,32.716789999486,MTS.csv
+212,16,75087,Civic Center Station,-117.162428955368,32.71677297614,MTS.csv
+213,17,75085,America Plaza Station,-117.16881390409901,32.716626903293,MTS.csv
+214,18,75086,Civic Center Station,-117.16247089504401,32.71670999973,MTS.csv
+215,19,75089,Fifth Avenue Station,-117.15972014222,32.716723998477995,MTS.csv
+216,20,75091,City College Station,-117.15422206039699,32.716230119095,MTS.csv
+217,21,75093,Park & Market Station,-117.153800870071,32.710920057038,MTS.csv
+218,22,75103,12th & Imperial Transit Center,-117.153325933377,32.705784918918,MTS.csv
+219,23,75019,Barrio Logan Station,-117.146455857087,32.69788608641,MTS.csv
+220,24,75105,Harborside Station,-117.13263886024099,32.691151876888,MTS.csv
+221,25,75107,Pacific Fleet Station,-117.124637067239,32.685893017275,MTS.csv
+222,26,75017,8th Street Station,-117.113081879271,32.674733082496,MTS.csv
+223,27,75015,24th Street Station,-117.10800515605499,32.66170408617,MTS.csv
+224,28,75013,E Street Station,-117.099066119896,32.63884492334,MTS.csv
+225,29,75011,H Street Station,-117.095572113764,32.629892927075,MTS.csv
+226,30,75009,Palomar Street Station,-117.085088090838,32.603027068038,MTS.csv
+227,31,75007,Palm Avenue Station,-117.08385990825701,32.584454001795,MTS.csv
+228,32,75005,Iris Ave Station,-117.066964838137,32.569514939972,MTS.csv
+229,33,75003,Beyer Blvd Station,-117.04683899973101,32.557452973394,MTS.csv
+230,34,75074,25th/Commercial St Station,-117.13873095083099,32.705276948028995,MTS.csv
+231,35,75073,32nd St/Commercial Station,-117.124523899513,32.705777049910004,MTS.csv
+232,36,75070,47th Street Station,-117.094819083289,32.708439083632996,MTS.csv
+233,37,75069,Euclid Ave Station,-117.085761026186,32.709507027347996,MTS.csv
+234,38,75067,Encanto/62nd St Station,-117.063109948473,32.71008391769,MTS.csv
+235,39,75040,Massachusetts Ave Station,-117.03948894735399,32.723559040135,MTS.csv
+236,40,75038,Lemon Grove Depot,-117.030653916046,32.743481891128,MTS.csv
+237,41,75036,Spring Street Station,-117.01738502098101,32.756907112413,MTS.csv
+238,42,75034,La Mesa Blvd Station,-117.02056497088101,32.765136878304,MTS.csv
+239,43,75030,Grossmont Transit Center,-117.011267018897,32.781642073683,MTS.csv
+240,44,75029,Amaya Drive Station,-117.001605997827,32.785413110082004,MTS.csv
+241,45,75026,El Cajon Transit Center,-116.976138989526,32.792064886269,MTS.csv
+242,46,75024,Arnele Avenue Station,-116.97568504894899,32.804661087193,MTS.csv
+243,47,75027,El Cajon Transit Center,-116.976216853578,32.791878905865005,MTS.csv
+244,48,75028,Amaya Drive Station,-117.001863017733,32.785409895665005,MTS.csv
+245,49,75031,Grossmont Transit Center,-117.01147007696899,32.781608114117,MTS.csv
+246,50,75035,La Mesa Blvd Station,-117.02053106412501,32.764905117721,MTS.csv
+247,51,75037,Spring Street Station,-117.017531034511,32.756753938123005,MTS.csv
+248,52,75039,Lemon Grove Depot,-117.030783009087,32.743296100962,MTS.csv
+249,53,75041,Massachusetts Ave Station,-117.039679914797,32.723461895414,MTS.csv
+250,54,75066,Encanto/62nd St Station,-117.063361026404,32.710130085802,MTS.csv
+251,55,75068,Euclid Ave Station,-117.08612911693999,32.709583963853,MTS.csv
+252,56,75071,47th Street Station,-117.09507209294901,32.708448069293,MTS.csv
+253,57,75072,32nd St/Commercial Station,-117.124753014074,32.705769927914,MTS.csv
+254,58,75075,25th/Commercial St Station,-117.141153933526,32.705289970767005,MTS.csv
+255,59,75109,Courthouse Station,-117.16602361347601,32.716715547109,MTS.csv
+256,60,75062,SDSU Transit Center,-117.070638153054,32.77327502046,MTS.csv
+257,61,75061,Grantville Station,-117.09755913206101,32.780539868127,MTS.csv
+258,62,75058,Mission San Diego Station,-117.111104982007,32.780982888032,MTS.csv
+259,63,75057,Qualcomm Stadium Station,-117.119710918486,32.781025065742995,MTS.csv
+260,64,75054,Fenton Parkway Station,-117.12723710897801,32.778270018084,MTS.csv
+261,65,75052,Rio Vista Station,-117.141967044286,32.773632970061,MTS.csv
+262,66,75051,Mission Valley Center Station,-117.15013501285601,32.771093131946,MTS.csv
+263,67,75049,Hazard Center Station,-117.15841000146798,32.770237902094,MTS.csv
+264,68,75046,Fashion Valley Transit Center,-117.16915192135001,32.765471039802996,MTS.csv
+265,69,75045,Morena/Linda Vista Station,-117.19684914488,32.763586130167,MTS.csv
+266,70,75043,Old Town Transit Center,-117.199547989014,32.754696999319,MTS.csv
+267,71,75077,Washington St Station,-117.184290039171,32.741541964515,MTS.csv
+268,72,75079,Middletown Station,-117.174792973299,32.733513911325005,MTS.csv
+269,73,75081,County Center/Little Italy Station,-117.16998502441002,32.721362937207,MTS.csv
+270,74,75082,Santa Fe Depot,-117.16986094382901,32.717324917628005,MTS.csv
+271,75,75094,Seaport Village Station,-117.16845215981701,32.711739988057,MTS.csv
+272,76,75097,Convention Center Station,-117.16331997478599,32.708819876008,MTS.csv
+273,77,75099,Gaslamp Quarter Station,-117.159599160461,32.706765102154996,MTS.csv
+274,78,75100,12th & Imperial Transit Center (Bayside),-117.15389991339599,32.705234034133,MTS.csv
+275,79,75020,Santee Town Center Station,-116.98113185014,32.841558077793,MTS.csv
+276,80,75023,Gillespie Field Station,-116.98204188227699,32.826763941207,MTS.csv
+277,81,75025,Arnele Avenue Station,-116.975773128973,32.804489064329,MTS.csv
+278,82,75033,70th St Station,-117.04248409778299,32.772290084691,MTS.csv
+279,83,75065,Alvarado Station,-117.056918134874,32.777421991614,MTS.csv
+280,84,75098,Gaslamp Quarter Station,-117.159762880959,32.706941998119,MTS.csv
+281,85,75096,Convention Center Station,-117.16346306175699,32.708980978579,MTS.csv
+282,86,75095,Seaport Village Station,-117.16862003460301,32.71200094613,MTS.csv
+283,87,75083,Santa Fe Depot,-117.16977900042801,32.717323879643004,MTS.csv
+284,88,75080,County Center/Little Italy Station,-117.16989795174801,32.72149386633,MTS.csv
+285,89,75078,Middletown Station,-117.174922976592,32.733785864544004,MTS.csv
+286,90,75076,Washington St Station,-117.18446791254401,32.741723943701,MTS.csv
+287,91,75042,Old Town Transit Center,-117.199487161047,32.754908004471,MTS.csv
+288,92,75044,Morena/Linda Vista Station,-117.196558016751,32.763527071545,MTS.csv
+289,93,75047,Fashion Valley Transit Center,-117.168905151453,32.765453088262,MTS.csv
+290,94,75048,Hazard Center Station,-117.158151892139,32.770257117407,MTS.csv
+291,95,75050,Mission Valley Center Station,-117.149856104718,32.771083072473004,MTS.csv
+292,96,75053,Rio Vista Station,-117.141698844876,32.773620890746,MTS.csv
+293,97,75055,Fenton Parkway Station,-117.12700808031299,32.778370042378,MTS.csv
+294,98,75056,Qualcomm Stadium Station,-117.119491977246,32.780929036284,MTS.csv
+295,99,75059,Mission San Diego Station,-117.110979041641,32.780813908949,MTS.csv
+296,100,75060,Grantville Station,-117.097384023337,32.780397873468,MTS.csv
+297,101,75063,SDSU Transit Center,-117.07037198116001,32.773164926235,MTS.csv
+298,102,75064,Alvarado Station,-117.05670692542299,32.777309034943,MTS.csv
+299,103,75032,70th St Station,-117.042295096065,32.772147002397,MTS.csv
+300,104,75022,Gillespie Field Station,-116.982079945489,32.826995962137,MTS.csv
+301,0,114,Palmdale Metrolink Station,-118.119293,34.590771000000004,Metrolink Trains.csv
+302,1,107,Newhall Metrolink Station,-118.527306,34.379913,Metrolink Trains.csv
+303,2,126,Santa Clarita Metrolink Station,-118.524818,34.413437,Metrolink Trains.csv
+304,3,129,Sylmar/San Fernando Metrolink Station,-118.450172,34.292590999999994,Metrolink Trains.csv
+305,4,128,Sun Valley Metrolink Station,-118.373398,34.222401,Metrolink Trains.csv
+306,5,86,Downtown Burbank Metrolink Station,-118.312866,34.178944,Metrolink Trains.csv
+307,6,98,Glendale Metrolink Station,-118.258926,34.123341,Metrolink Trains.csv
+308,7,131,L. A. Union Station Metrolink Station,-118.233513,34.055729,Metrolink Trains.csv
+309,8,117,Via Princessa Metrolink Station,-118.469406,34.408817,Metrolink Trains.csv
+310,9,134,Vincent Grade/Acton Metrolink Station,-118.118301,34.49786,Metrolink Trains.csv
+311,10,102,Lancaster Metrolink Station,-118.136131,34.696579,Metrolink Trains.csv
+312,11,87,Cal State LA Metrolink Station,-118.171646,34.062119,Metrolink Trains.csv
+313,12,95,El Monte Metrolink Station,-118.0355,34.076805,Metrolink Trains.csv
+314,13,83,Baldwin Park Metrolink Station,-117.957397,34.086426,Metrolink Trains.csv
+315,14,92,Covina Metrolink Station,-117.888893,34.09214,Metrolink Trains.csv
+316,15,116,Pomona (North) Metrolink Station,-117.753052,34.093639,Metrolink Trains.csv
+317,16,90,Claremont Metrolink Station,-117.716354,34.093884,Metrolink Trains.csv
+318,17,104,Montclair Metrolink Station,-117.69558,34.094086,Metrolink Trains.csv
+319,18,132,Upland Metrolink Station,-117.647507,34.094501,Metrolink Trains.csv
+320,19,118,Rancho Cucamonga Metrolink Station,-117.559937,34.091854,Metrolink Trains.csv
+321,20,96,Fontana Metrolink Station,-117.438095,34.095165,Metrolink Trains.csv
+322,21,119,Rialto Metrolink Station,-117.37188700000002,34.096786,Metrolink Trains.csv
+323,22,122,San Bernardino Depot Metrolink Station,-117.310089,34.10453,Metrolink Trains.csv
+324,23,500,San Bernardino - Downtown Metrolink Station,-117.2960167,34.0995034,Metrolink Trains.csv
+325,24,101,Laguna Niguel/ Mission Viejo Metrolink Station,-117.675003,33.553902,Metrolink Trains.csv
+326,25,100,Irvine Metrolink Station,-117.732933,33.657055,Metrolink Trains.csv
+327,26,130,Tustin Metrolink Station,-117.806015,33.707966,Metrolink Trains.csv
+328,27,125,Santa Ana Metrolink Station,-117.85598,33.751521999999994,Metrolink Trains.csv
+329,28,112,Orange Metrolink Station,-117.8573,33.78878,Metrolink Trains.csv
+330,29,82,Anaheim Canyon Metrolink Station,-117.840523,33.854176,Metrolink Trains.csv
+331,30,135,West Corona Metrolink Station,-117.613586,33.885760999999995,Metrolink Trains.csv
+332,31,108,North Main Corona Metrolink Station,-117.563454,33.882195,Metrolink Trains.csv
+333,32,121,Riverside-La Sierra Metrolink Station,-117.4702,33.899925,Metrolink Trains.csv
+334,33,120,Riverside-Downtown Metrolink Station,-117.369888,33.975552,Metrolink Trains.csv
+335,34,124,San Juan Capistrano Metrolink Station,-117.663696,33.5014,Metrolink Trains.csv
+336,35,123,San Clemente Metrolink Station,-117.632736,33.432076,Metrolink Trains.csv
+337,36,111,Oceanside Metrolink Station,-117.379875,33.192554,Metrolink Trains.csv
+338,37,106,Moorpark Metrolink Station,-118.877876,34.285324,Metrolink Trains.csv
+339,38,127,Simi Valley Metrolink Station,-118.695549,34.270412,Metrolink Trains.csv
+340,39,89,Chatsworth Metrolink Station,-118.599411,34.253197,Metrolink Trains.csv
+341,40,109,Northridge Metrolink Station,-118.545097,34.230614,Metrolink Trains.csv
+342,41,133,Van Nuys Metrolink Station,-118.448219,34.211559,Metrolink Trains.csv
+343,42,85,Burbank Airport - South (VC Line) Metrolink Station,-118.3526,34.192795000000004,Metrolink Trains.csv
+344,43,103,East Ventura Metrolink Station,-119.205025,34.250793,Metrolink Trains.csv
+345,44,113,Oxnard Metrolink Station,-119.176308,34.199276,Metrolink Trains.csv
+346,45,88,Camarillo Metrolink Station,-119.033829,34.216656,Metrolink Trains.csv
+347,46,115,Jurupa Valley/Pedley Metrolink Station,-117.476273,33.978119,Metrolink Trains.csv
+348,47,94,East Ontario Metrolink Station,-117.579521,34.039909,Metrolink Trains.csv
+349,48,93,Downtown Pomona Metrolink Station,-117.750549,34.058765,Metrolink Trains.csv
+350,49,99,Industry Metrolink Station,-117.845581,34.007927,Metrolink Trains.csv
+351,50,105,Montebello/ Commerce Metrolink Station,-118.12561,34.006962,Metrolink Trains.csv
+352,51,145,South Perris,-117.205711,33.763752000000004,Metrolink Trains.csv
+353,52,144,Perris Downtown,-117.229836,33.785282,Metrolink Trains.csv
+354,53,143,Moreno Valley/March Field,-117.28921499999998,33.911469,Metrolink Trains.csv
+355,54,142,Riverside-Hunter Park/UCR,-117.335518,33.997516999999995,Metrolink Trains.csv
+356,55,97,Fullerton Metrolink Station,-117.922295,33.868697999999995,Metrolink Trains.csv
+357,56,84,Buena Park Metrolink Station,-117.986855,33.875969,Metrolink Trains.csv
+358,57,110,Norwalk/ Santa Fe Springs Metrolink Station,-118.06016499999998,33.916203,Metrolink Trains.csv
+359,58,81,Anaheim-ARTIC Metrolink Station,-117.877998,33.802582,Metrolink Trains.csv
+360,59,91,Commerce Metrolink Station,-118.143776,33.990734,Metrolink Trains.csv
+361,60,141,San Clemente Pier Metrolink Station,-117.619598,33.419476,Metrolink Trains.csv
+362,61,510,Burbank Airport - North (AV Line) Metrolink Station,-118.35,34.206389,Metrolink Trains.csv
+363,0,27000,Oceanside Transit Center,-117.37834971299999,33.1908754779,North County Transit District.csv
+364,1,27001,Coast Hwy Station,-117.36834956700001,33.181865754,North County Transit District.csv
+365,2,27002,Crouch St Station,-117.353513764,33.1946115702,North County Transit District.csv
+366,3,27003,El Camino Real Station,-117.332477634,33.1996563218,North County Transit District.csv
+367,4,27004,Rancho Del Oro Station,-117.31123089299999,33.2015440185,North County Transit District.csv
+368,5,27005,College Blvd Station,-117.288142748,33.204545635900004,North County Transit District.csv
+369,6,27006,Melrose Dr Station,-117.259087133,33.2195529836,North County Transit District.csv
+370,7,27007,Vista Transit Center,-117.24473142,33.202787840700005,North County Transit District.csv
+371,8,27008,Civic Center - Vista Station,-117.23747607700001,33.190535416799996,North County Transit District.csv
+372,9,27009,Buena Creek Station,-117.207393065,33.1734999488,North County Transit District.csv
+373,10,27010,Palomar College Station,-117.185314167,33.146953349,North County Transit District.csv
+374,11,27011,San Marcos Civic Center Station,-117.160669925,33.1419560101,North County Transit District.csv
+375,12,27012,Cal State San Marcos Station,-117.153584868,33.1347711489,North County Transit District.csv
+376,13,27013,Nordahl Rd Station,-117.124154141,33.1311124082,North County Transit District.csv
+377,14,27014,Escondido Transit Center,-117.092159957,33.1184189609,North County Transit District.csv
+378,15,28000,Oceanside Transit Center,-117.379711001,33.192253830300004,North County Transit District.csv
+379,16,28001,Carlsbad Village Station,-117.35077350799999,33.1607055984,North County Transit District.csv
+380,17,28002,Carlsbad Poinsettia Station,-117.318983734,33.1086329202,North County Transit District.csv
+381,18,28003,Encinitas Station,-117.29320990000002,33.0471099082,North County Transit District.csv
+382,19,28004,Solana Beach Station,-117.271605438,32.9932650684,North County Transit District.csv
+383,20,28005,Sorrento Valley Station,-117.225204798,32.9028557614,North County Transit District.csv
+384,21,28006,San Diego - Old Town,-117.1994048,32.7541772556,North County Transit District.csv
+385,22,28007,San Diego - Santa Fe Depot,-117.17008950600001,32.7175114861,North County Transit District.csv
+386,0,OKJ,Oakland Jack London,-122.27152099999999,37.793715,Capitol Corridor Joint Powers Authority.csv
+387,1,EMY,Emeryville,-122.291808,37.840423,Capitol Corridor Joint Powers Authority.csv
+388,2,BKY,Berkeley,-122.300908,37.867439000000005,Capitol Corridor Joint Powers Authority.csv
+389,3,RIC,Richmond,-122.35389599999999,37.936766,Capitol Corridor Joint Powers Authority.csv
+390,4,MTZ,Martinez,-122.13883,38.019079,Capitol Corridor Joint Powers Authority.csv
+391,5,SUI,Suisun-Fairfield,-122.041192,38.243446,Capitol Corridor Joint Powers Authority.csv
+392,6,FFV,Fairfield-Vacaville,-121.9680691,38.2853976,Capitol Corridor Joint Powers Authority.csv
+393,7,DAV,Davis,-121.737758,38.543494,Capitol Corridor Joint Powers Authority.csv
+394,8,SAC,Sacramento,-121.500699,38.584004,Capitol Corridor Joint Powers Authority.csv
+395,9,OAC,Oakland Coliseum,-122.198218,37.752481,Capitol Corridor Joint Powers Authority.csv
+396,10,HAY,Hayward,-122.099321,37.665962,Capitol Corridor Joint Powers Authority.csv
+397,11,FMT,Fremont,-122.007382,37.559142,Capitol Corridor Joint Powers Authority.csv
+398,12,GAC,Great America-Santa Clara,-121.967132,37.406877,Capitol Corridor Joint Powers Authority.csv
+399,13,SCC,University-Santa Clara,-121.936453,37.353218,Capitol Corridor Joint Powers Authority.csv
+400,14,SJC,San Jose,-121.902496,37.329935,Capitol Corridor Joint Powers Authority.csv
+401,15,ARN,Auburn-Conheim,-121.082922,38.903831,Capitol Corridor Joint Powers Authority.csv
+402,16,RLN,Rocklin,-121.237397,38.791051,Capitol Corridor Joint Powers Authority.csv
+403,17,RSV,Roseville,-121.286271,38.749959000000004,Capitol Corridor Joint Powers Authority.csv
+404,0,LAFY,Lafayette,-122.12463,37.893176,Bay Area Rapid Transit.csv
+405,1,ORIN,Orinda,-122.183791,37.878361,Bay Area Rapid Transit.csv
+406,2,ROCK,Rockridge,-122.251371,37.84470200000001,Bay Area Rapid Transit.csv
+407,3,MCAR,MacArthur,-122.26704,37.829065,Bay Area Rapid Transit.csv
+408,4,19TH,19th St. Oakland,-122.268602,37.80835,Bay Area Rapid Transit.csv
+409,5,12TH,12th St. Oakland City Center,-122.27145,37.803768,Bay Area Rapid Transit.csv
+410,6,WOAK,West Oakland,-122.29514,37.804872,Bay Area Rapid Transit.csv
+411,7,EMBR,Embarcadero,-122.39702,37.792874,Bay Area Rapid Transit.csv
+412,8,MONT,Montgomery St.,-122.401066,37.789405,Bay Area Rapid Transit.csv
+413,9,POWL,Powell St.,-122.407974,37.784471,Bay Area Rapid Transit.csv
+414,10,CIVC,Civic Center/UN Plaza,-122.414123,37.779732,Bay Area Rapid Transit.csv
+415,11,16TH,16th St. Mission,-122.419694,37.765062,Bay Area Rapid Transit.csv
+416,12,24TH,24th St. Mission,-122.418143,37.75247,Bay Area Rapid Transit.csv
+417,13,GLEN,Glen Park,-122.433817,37.733064,Bay Area Rapid Transit.csv
+418,14,BALB,Balboa Park,-122.447506,37.721585,Bay Area Rapid Transit.csv
+419,15,DALY,Daly City,-122.469081,37.706121,Bay Area Rapid Transit.csv
+420,16,COLM,Colma,-122.466233,37.684638,Bay Area Rapid Transit.csv
+421,17,SSAN,South San Francisco,-122.44396,37.664245,Bay Area Rapid Transit.csv
+422,18,SBRN,San Bruno,-122.416287,37.637761,Bay Area Rapid Transit.csv
+423,19,SFIA,San Francisco International Airport,-122.392409,37.615966,Bay Area Rapid Transit.csv
+424,20,ANTC,Antioch,-121.78042,37.995388,Bay Area Rapid Transit.csv
+425,21,PCTR,Pittsburg Center,-121.889457,38.016941,Bay Area Rapid Transit.csv
+426,22,PITT,Pittsburg/Bay Point,-121.945154,38.018914,Bay Area Rapid Transit.csv
+427,23,NCON,North Concord/Martinez,-122.024653,38.003193,Bay Area Rapid Transit.csv
+428,24,CONC,Concord,-122.029095,37.973737,Bay Area Rapid Transit.csv
+429,25,PHIL,Pleasant Hill/Contra Costa Centre,-122.056012,37.928468,Bay Area Rapid Transit.csv
+430,26,WCRK,Walnut Creek,-122.067527,37.905522,Bay Area Rapid Transit.csv
+431,27,MLBR,Millbrae,-122.386702,37.600271,Bay Area Rapid Transit.csv
+432,28,LAKE,Lake Merritt,-122.26518,37.797027,Bay Area Rapid Transit.csv
+433,29,FTVL,Fruitvale,-122.224175,37.774836,Bay Area Rapid Transit.csv
+434,30,COLS,Coliseum,-122.196869,37.753661,Bay Area Rapid Transit.csv
+435,31,SANL,San Leandro,-122.160844,37.721947,Bay Area Rapid Transit.csv
+436,32,BAYF,Bay Fair,-122.126514,37.696924,Bay Area Rapid Transit.csv
+437,33,CAST,Castro Valley,-122.075602,37.690746,Bay Area Rapid Transit.csv
+438,34,WDUB,West Dublin/Pleasanton,-121.92824,37.699756,Bay Area Rapid Transit.csv
+439,35,DUBL,Dublin/Pleasanton,-121.899179,37.701687,Bay Area Rapid Transit.csv
+440,36,OAKL,Oakland International Airport,-122.212191,37.713238,Bay Area Rapid Transit.csv
+441,37,ASHB,Ashby,-122.270062,37.852803,Bay Area Rapid Transit.csv
+442,38,DBRK,Downtown Berkeley,-122.268133,37.870104,Bay Area Rapid Transit.csv
+443,39,NBRK,North Berkeley,-122.28343999999998,37.873967,Bay Area Rapid Transit.csv
+444,40,PLZA,El Cerrito Plaza,-122.298904,37.902632,Bay Area Rapid Transit.csv
+445,41,DELN,El Cerrito del Norte,-122.316794,37.925086,Bay Area Rapid Transit.csv
+446,42,RICH,Richmond,-122.353099,37.936853,Bay Area Rapid Transit.csv
+447,43,WARM,Warm Springs/South Fremont,-121.93931299999998,37.502171,Bay Area Rapid Transit.csv
+448,44,FRMT,Fremont,-121.976608,37.557465,Bay Area Rapid Transit.csv
+449,45,UCTY,Union City,-122.01738799999998,37.59063,Bay Area Rapid Transit.csv
+450,46,SHAY,South Hayward,-122.057189,37.634375,Bay Area Rapid Transit.csv
+451,47,HAYW,Hayward,-122.087018,37.669723,Bay Area Rapid Transit.csv
+452,0,4729,ALMADEN STATION (0),-121.8701639,37.24522937,VTA.csv
+453,1,4730,OAKRIDGE STATION (0),-121.8668227,37.25394366,VTA.csv
+454,2,4733,OHLONE-CHYNOWETH STATION (1),-121.8602788,37.25742301,VTA.csv
+455,3,4734,OAKRIDGE STATION (1),-121.8670319,37.25322094,VTA.csv
+456,4,4735,ALMADEN STATION (1),-121.870638,37.244539,VTA.csv
+457,5,4736,SANTA TERESA STATION (0),-121.78914089999999,37.23666813,VTA.csv
+458,6,4737,COTTLE STATION (0),-121.8031591,37.2427316,VTA.csv
+459,7,4738,SNELL STATION (0),-121.8313386,37.24805458,VTA.csv
+460,8,4739,BLOSSOM HILL STATION (0),-121.8418112,37.25314972,VTA.csv
+461,9,4731,OHLONE-CHYNOWETH STATION (0),-121.8596663,37.25799296,VTA.csv
+462,10,4740,BRANHAM STATION (0),-121.8593814,37.26729563,VTA.csv
+463,11,4741,CAPITOL STATION (0),-121.8632686,37.27529305,VTA.csv
+464,12,4742,CURTNER STATION (0),-121.8726218,37.29375248,VTA.csv
+465,13,4743,TAMIEN STATION (0),-121.88480870000001,37.31192747,VTA.csv
+466,14,4744,VIRGINIA STATION (0),-121.8901044,37.31982806,VTA.csv
+467,15,4745,CHILDRENS DISC. MUSEUM STA (0),-121.89366499999998,37.32776463,VTA.csv
+468,16,4746,CONVENTION CENTER STATION (0),-121.8897543,37.33016764,VTA.csv
+469,17,4747,SAN ANTONIO STATION (0),-121.887979,37.332782,VTA.csv
+470,18,4748,SANTA CLARA STATION (0),-121.890354,37.335924,VTA.csv
+471,19,4749,ST JAMES STATION (0),-121.892183,37.338402,VTA.csv
+472,20,4750,JAPANTOWN/AYER STATION (0),-121.8975592,37.34555669,VTA.csv
+473,21,4751,CIVIC CENTER STATION (0),-121.90243429999998,37.35201587,VTA.csv
+474,22,4752,GISH STATION (0),-121.91016,37.36254409,VTA.csv
+475,23,4753,METRO/AIRPORT STATION (0),-121.9159899,37.37036352,VTA.csv
+476,24,4754,KARINA COURT STATION (0),-121.9204054,37.37627768,VTA.csv
+477,25,4755,COMPONENT STATION (0),-121.9257771,37.38348339,VTA.csv
+478,26,4756,BONAVENTURA STATION (0),-121.9297416,37.38874886,VTA.csv
+479,27,4757,ORCHARD STATION (0),-121.9348686,37.39572991,VTA.csv
+480,28,4758,RIVER OAKS STATION (0),-121.94002739999999,37.40284689,VTA.csv
+481,29,4759,TASMAN STATION (0),-121.94446299999998,37.40866852,VTA.csv
+482,30,4801,BAYPOINTE STATION (0),-121.94152340000002,37.41087684,VTA.csv
+483,31,4802,CISCO STATION (0),-121.9283116,37.41234825,VTA.csv
+484,32,4803,I-880 STATION (0),-121.9171179,37.41357159,VTA.csv
+485,33,5235,GREAT MALL STATION (0),-121.90143429999999,37.41392531,VTA.csv
+486,34,5236,MONTAGUE STATION (0),-121.89061809999998,37.40854922,VTA.csv
+487,35,5237,CROPLEY STATION (0),-121.88106859999999,37.40264405,VTA.csv
+488,36,5238,HOSTETTER STATION (0),-121.87028959999999,37.39564878,VTA.csv
+489,37,5239,BERRYESSA STATION (0),-121.8614771,37.38738595,VTA.csv
+490,38,5240,PENITENCIA CREEK STATION (0),-121.8544173,37.38095849,VTA.csv
+491,39,5241,MCKEE STATION (0),-121.84403640000001,37.37105676,VTA.csv
+492,40,5242,ALUM ROCK STATION (0),-121.83212040000001,37.35813414,VTA.csv
+493,41,4770,CIVIC CENTER STATION (1),-121.9019565,37.35138019,VTA.csv
+494,42,4771,JAPANTOWN/AYER STATION (1),-121.8971159,37.34496372,VTA.csv
+495,43,4772,ST JAMES STATION (1),-121.89080520000002,37.33835841,VTA.csv
+496,44,4773,SANTA CLARA STATION (1),-121.8889102,37.33579586,VTA.csv
+497,45,4774,SAN ANTONIO STATION (1),-121.88718829999999,37.33348095,VTA.csv
+498,46,4775,CONVENTION CENTER STATION (1),-121.8905384,37.32980922,VTA.csv
+499,47,4776,CHILDRENS DISCOVERY MUSEUM STA (1),-121.8931137,37.32722261,VTA.csv
+500,48,4777,VIRGINIA STATION (1),-121.8899478,37.31916432,VTA.csv
+501,49,4778,TAMIEN STATION (1),-121.8843005,37.31125678,VTA.csv
+502,50,4779,CURTNER STATION (1),-121.8723429,37.29304367,VTA.csv
+503,51,4780,CAPITOL STATION (1),-121.8629638,37.27390098,VTA.csv
+504,52,4781,BRANHAM STATION (1),-121.85921299999998,37.26657773,VTA.csv
+505,53,4782,BLOSSOM HILL STATION (1),-121.8410246,37.25276704,VTA.csv
+506,54,4783,SNELL STATION (1),-121.8305466,37.24764079,VTA.csv
+507,55,4784,COTTLE STATION (1),-121.8022523,37.24250479,VTA.csv
+508,56,4785,SANTA TERESA STATION (1),-121.789491,37.235966299999994,VTA.csv
+509,57,5243,ALUM ROCK STATION (1),-121.832239,37.358369,VTA.csv
+510,58,5244,MCKEE STATION (1),-121.845477,37.37264794,VTA.csv
+511,59,5245,PENITENCIA CREEK STATION (1),-121.8554,37.382025,VTA.csv
+512,60,5246,BERRYESSA STATION (1),-121.8631128,37.38908538,VTA.csv
+513,61,5247,HOSTETTER STATION (1),-121.8696291,37.39511599,VTA.csv
+514,62,5248,CROPLEY STATION (1),-121.8830769,37.40400581,VTA.csv
+515,63,5249,MONTAGUE STATION (1),-121.8913653,37.40894503,VTA.csv
+516,64,5250,GREAT MALL STATION (1),-121.9021233,37.41438968,VTA.csv
+517,65,4804,I-880 STATION (1),-121.9177001,37.41312935,VTA.csv
+518,66,4805,CISCO STATION (1),-121.9290511,37.41265891,VTA.csv
+519,67,4806,BAYPOINTE STATION (1),-121.9423169,37.41053128,VTA.csv
+520,68,4762,TASMAN STATION (1),-121.94399779999999,37.40805589,VTA.csv
+521,69,4763,RIVER OAKS STATION (1),-121.9389719,37.40118806,VTA.csv
+522,70,4764,ORCHARD STATION (1),-121.9338373,37.39408216,VTA.csv
+523,71,4765,BONAVENTURA STATION (1),-121.92871459999999,37.38719698,VTA.csv
+524,72,4766,COMPONENT STATION (1),-121.9247555,37.38193695,VTA.csv
+525,73,4767,KARINA COURT STATION (1),-121.9193174,37.3746091,VTA.csv
+526,74,4768,METROAIRPORT STATION (1),-121.9148835,37.36866385,VTA.csv
+527,75,4769,GISH STATION (1),-121.9090988,37.36093819,VTA.csv
+528,76,5380,WINCHESTER STATION (0),-121.9479065,37.27960951,VTA.csv
+529,77,5379,CAMPBELL STATION (0),-121.94302739999999,37.28589993,VTA.csv
+530,78,5378,HAMILTON STATION (0),-121.9361668,37.29406405,VTA.csv
+531,79,5377,BASCOM STATION (0),-121.9298301,37.29985056,VTA.csv
+532,80,5376,FRUITDALE STATION (0),-121.9180169,37.31048176,VTA.csv
+533,81,5375,RACE STATION (0),-121.91031370000002,37.31756735,VTA.csv
+534,82,5374,DIRIDON STATION (0),-121.90351129999999,37.32894718,VTA.csv
+535,83,5388,SAN FERNANDO STATION (0),-121.8981163,37.33036666,VTA.csv
+536,84,4807,CHAMPION STATION (0),-121.9526164,37.40942297,VTA.csv
+537,85,4808,LICK MILL STATION (0),-121.9636789,37.407616299999994,VTA.csv
+538,86,4809,GREAT AMERICA STATION (0),-121.9749084,37.40346833,VTA.csv
+539,87,4810,OLD IRONSIDES STATION (0),-121.979862,37.40330894,VTA.csv
+540,88,4811,REAMWOOD STATION (0),-121.9896634,37.40357223,VTA.csv
+541,89,4812,VIENNA STATION (0),-122.0008744,37.40339631,VTA.csv
+542,90,4813,FAIR OAKS STATION (0),-122.00955069999999,37.40277696,VTA.csv
+543,91,4814,CROSSMAN STATION (0),-122.0117028,37.40946634,VTA.csv
+544,92,4815,BORREGAS STATION (0),-122.0193149,37.41198493,VTA.csv
+545,93,4816,LOCKHEED MARTIN STATION (0),-122.02713229999999,37.40940354,VTA.csv
+546,94,5024,MOFFETT PARK STATION (0),-122.03433100000001,37.4024394,VTA.csv
+547,95,4817,BAYSHORE NASA STATION (0),-122.049989,37.404703000000005,VTA.csv
+548,96,4818,MIDDLEFIELD STATION (0),-122.05220990000002,37.39542816,VTA.csv
+549,97,4819,WHISMAN STATION (0),-122.059,37.39177263,VTA.csv
+550,98,4821,MOUNTAIN VIEW STATION (0),-122.0767886,37.394951500000005,VTA.csv
+551,99,4786,MOUNTAIN VIEW STATION (1),-122.0775962,37.39528324,VTA.csv
+552,100,4788,WHISMAN STATION (1),-122.0582203,37.39220467,VTA.csv
+553,101,4789,MIDDLEFIELD STATION (1),-122.0519595,37.39606973,VTA.csv
+554,102,4790,BAYSHORE NASA STATION (1),-122.049167,37.40432726,VTA.csv
+555,103,5023,MOFFETT PARK STATION (1),-122.0334599,37.40236702,VTA.csv
+556,104,4791,LOCKHEED MARTIN STATION (1),-122.0268913,37.41004799,VTA.csv
+557,105,4792,BORREGAS STATION (1),-122.01670159999998,37.41132583,VTA.csv
+558,106,4793,CROSSMAN STATION (1),-122.0111803,37.408840600000005,VTA.csv
+559,107,4794,FAIR OAKS STATION (1),-122.008638,37.4025781,VTA.csv
+560,108,4795,VIENNA STATION (1),-121.9982543,37.40335429,VTA.csv
+561,109,4796,REAMWOOD STATION (1),-121.9874074,37.40350963,VTA.csv
+562,110,4797,OLD IRONSIDES STATION (1),-121.97887060000001,37.40329905,VTA.csv
+563,111,4798,GREAT AMERICA STATION (1),-121.9740578,37.4035545,VTA.csv
+564,112,4799,LICK MILL STATION (1),-121.9629247,37.40779522,VTA.csv
+565,113,4800,CHAMPION STATION (1),-121.9519363,37.40889839,VTA.csv
+566,114,5389,SAN FERNANDO STATION (1),-121.8990446,37.33024849,VTA.csv
+567,115,5381,DIRIDON STATION (1),-121.90358799999998,37.328296,VTA.csv
+568,116,5382,RACE STATION (1),-121.9107529,37.31715496,VTA.csv
+569,117,5383,FRUITDALE STATION (1),-121.91848279999999,37.31012168,VTA.csv
+570,118,5384,BASCOM STATION (1),-121.93030420000001,37.29946665,VTA.csv
+571,119,5385,HAMILTON STATION (1),-121.93657639999999,37.29369104,VTA.csv
+572,120,5386,CAMPBELL STATION (1),-121.9433954,37.28548307,VTA.csv
+573,121,5387,WINCHESTER STATION (1),-121.94830659999998,37.27917796,VTA.csv
+574,0,SCA,Sonoma County Airport Station,-122.7839,38.50956,Sonoma Marin Area Rail Transit.csv
+575,1,SRN,Santa Rosa North Station,-122.7367,38.4556,Sonoma Marin Area Rail Transit.csv
+576,2,SRD,Santa Rosa Downtown Station,-122.7217,38.43752,Sonoma Marin Area Rail Transit.csv
+577,3,RPK,Rohnert Park Station,-122.7012,38.34748,Sonoma Marin Area Rail Transit.csv
+578,4,COT,Cotati Station,-122.6912,38.33135,Sonoma Marin Area Rail Transit.csv
+579,5,PET,Petaluma Downtown Station,-122.6344,38.23708,Sonoma Marin Area Rail Transit.csv
+580,6,NSM,Novato San Marin Station,-122.5661,38.12063,Sonoma Marin Area Rail Transit.csv
+581,7,HAM,Novato Hamilton Station,-122.5239,38.05632,Sonoma Marin Area Rail Transit.csv
+582,8,MCC,Marin Civic Center Station,-122.5373,38.00156,Sonoma Marin Area Rail Transit.csv
+583,9,DSR,San Rafael Station,-122.5228,37.9719,Sonoma Marin Area Rail Transit.csv
+584,0,70261,San Jose Diridon Caltrain,-121.903011,37.329239,Caltrain.csv
+585,1,70241,Santa Clara Caltrain,-121.93608,37.353238,Caltrain.csv
+586,2,70231,Lawrence Caltrain,-121.997114,37.370598,Caltrain.csv
+587,3,70221,Sunnyvale Caltrain,-122.031372,37.378916,Caltrain.csv
+588,4,70211,Mountain View Caltrain,-122.075956,37.39445900000001,Caltrain.csv
+589,5,70201,San Antonio Caltrain,-122.107069,37.407323,Caltrain.csv
+590,6,70191,California Ave Caltrain,-122.141927,37.429365,Caltrain.csv
+591,7,70171,Palo Alto Caltrain,-122.164614,37.443475,Caltrain.csv
+592,8,70161,Menlo Park Caltrain,-122.182297,37.454856,Caltrain.csv
+593,9,70141,Redwood City Caltrain,-122.231936,37.486159,Caltrain.csv
+594,10,70131,San Carlos Caltrain,-122.26015,37.50805,Caltrain.csv
+595,11,70121,Belmont Caltrain,-122.275738,37.52089,Caltrain.csv
+596,12,70111,Hillsdale Caltrain,-122.297349,37.537868,Caltrain.csv
+597,13,70101,Hayward Park Caltrain,-122.30933799999998,37.552938,Caltrain.csv
+598,14,70091,San Mateo Caltrain,-122.323851,37.568087,Caltrain.csv
+599,15,70081,Burlingame Caltrain,-122.3449,37.580197,Caltrain.csv
+600,16,70061,Millbrae Caltrain,-122.386647,37.59988,Caltrain.csv
+601,17,70051,San Bruno Caltrain,-122.411968,37.631128,Caltrain.csv
+602,18,70041,South San Francisco Caltrain,-122.40487,37.65589,Caltrain.csv
+603,19,70031,Bayshore Caltrain,-122.401586,37.709537,Caltrain.csv
+604,20,70021,22nd Street Caltrain,-122.39188,37.757599,Caltrain.csv
+605,21,70011,San Francisco Caltrain,-122.394992,37.77639,Caltrain.csv
+606,22,70271,Tamien Caltrain,-121.883721,37.31174,Caltrain.csv
+607,23,70321,Gilroy Caltrain,-121.566088,37.003538,Caltrain.csv
+608,24,70311,San Martin Caltrain,-121.610049,37.085225,Caltrain.csv
+609,25,70301,Morgan Hill Caltrain,-121.650244,37.129363,Caltrain.csv
+610,26,70291,Blossom Hill Caltrain,-121.797643,37.252422,Caltrain.csv
+611,27,70281,Capitol Caltrain,-121.841955,37.284102,Caltrain.csv
+612,28,70251,College Park Caltrain,-121.9146,37.342384,Caltrain.csv
+613,29,70012,San Francisco Caltrain,-122.394935,37.776348,Caltrain.csv
+614,30,70022,22nd Street Caltrain,-122.392404,37.757583,Caltrain.csv
+615,31,70032,Bayshore Caltrain,-122.40198,37.709544,Caltrain.csv
+616,32,70042,South San Francisco Caltrain,-122.405018,37.655946,Caltrain.csv
+617,33,70052,San Bruno Caltrain,-122.412076,37.63110800000001,Caltrain.csv
+618,34,70062,Millbrae Caltrain,-122.386832,37.599797,Caltrain.csv
+619,35,70082,Burlingame Caltrain,-122.345075,37.580186,Caltrain.csv
+620,36,70092,San Mateo Caltrain,-122.324092,37.568294,Caltrain.csv
+621,37,70102,Hayward Park Caltrain,-122.309608,37.552994,Caltrain.csv
+622,38,70112,Hillsdale Caltrain,-122.297461,37.537814,Caltrain.csv
+623,39,70122,Belmont Caltrain,-122.275816,37.520844,Caltrain.csv
+624,40,70132,San Carlos Caltrain,-122.260266,37.507933,Caltrain.csv
+625,41,70142,Redwood City Caltrain,-122.232,37.486101,Caltrain.csv
+626,42,70162,Menlo Park Caltrain,-122.182405,37.454745,Caltrain.csv
+627,43,70172,Palo Alto Caltrain,-122.164697,37.443405,Caltrain.csv
+628,44,70192,California Ave Caltrain,-122.141978,37.429333,Caltrain.csv
+629,45,70202,San Antonio Caltrain,-122.107125,37.407277,Caltrain.csv
+630,46,70212,Mountain View Caltrain,-122.075994,37.394402,Caltrain.csv
+631,47,70222,Sunnyvale Caltrain,-122.031423,37.37878900000001,Caltrain.csv
+632,48,70232,Lawrence Caltrain,-121.997135,37.37048400000001,Caltrain.csv
+633,49,70242,Santa Clara Caltrain,-121.936135,37.353189,Caltrain.csv
+634,50,70262,San Jose Diridon Caltrain,-121.903173,37.329231,Caltrain.csv
+635,51,70272,Tamien Caltrain,-121.883999,37.31175,Caltrain.csv
+636,52,70252,College Park Caltrain,-121.914677,37.342338,Caltrain.csv
+637,53,70282,Capitol Caltrain,-121.842037,37.284062,Caltrain.csv
+638,54,70292,Blossom Hill Caltrain,-121.797683,37.252379,Caltrain.csv
+639,55,70302,Morgan Hill Caltrain,-121.650304,37.129321,Caltrain.csv
+640,56,70312,San Martin Caltrain,-121.610936,37.08665300000001,Caltrain.csv
+641,57,70322,Gilroy Caltrain,-121.566225,37.003485,Caltrain.csv
+642,58,70151,Atherton Caltrain,-122.19779,37.464645,Caltrain.csv
+643,59,70071,Broadway Caltrain,-122.36265,37.58764,Caltrain.csv
+644,60,70072,Broadway Caltrain,-122.362708,37.587552,Caltrain.csv
+645,61,70152,Atherton Caltrain,-122.197869,37.464584,Caltrain.csv
+646,0,5184,Jones St & Beach St  ,-122.417324,37.807132,San Francisco Municipal Transportation Agency.csv
+647,1,3092,Beach St & Mason St  ,-122.414125,37.807407,San Francisco Municipal Transportation Agency.csv
+648,2,3095,Beach St & Stockton St  ,-122.41081,37.807841,San Francisco Municipal Transportation Agency.csv
+649,3,4502,The Embarcadero & Bay St  ,-122.40603,37.806629,San Francisco Municipal Transportation Agency.csv
+650,4,4529,The Embarcadero & Sansome St  ,-122.403314,37.805022,San Francisco Municipal Transportation Agency.csv
+651,5,4516,The Embarcadero & Greenwich St,-122.401029,37.80296,San Francisco Municipal Transportation Agency.csv
+652,6,4518,The Embarcadero & Green St  ,-122.39892,37.800605,San Francisco Municipal Transportation Agency.csv
+653,7,4504,THE EMBARCADERO & BROADWAY,-122.397434,37.798901,San Francisco Municipal Transportation Agency.csv
+654,8,4534,The Embarcadero & Washington St,-122.395181,37.796355,San Francisco Municipal Transportation Agency.csv
+655,9,7283,The Embarcadero & Ferry Building ,-122.39377,37.794828,San Francisco Municipal Transportation Agency.csv
+656,10,4726,Don Chee Way/Steuart St,-122.393449,37.794052,San Francisco Municipal Transportation Agency.csv
+657,11,5669,Market St & Drumm St   ,-122.396178,37.793473,San Francisco Municipal Transportation Agency.csv
+658,12,5657,Market St & Battery St   ,-122.399069,37.79111,San Francisco Municipal Transportation Agency.csv
+659,13,5639,Market St & 2nd St   ,-122.401306,37.78935300000001,San Francisco Municipal Transportation Agency.csv
+660,14,5678,Market St & Kearny St   ,-122.40337,37.78773,San Francisco Municipal Transportation Agency.csv
+661,15,5694,Market St & Stockton St   ,-122.405859,37.785777,San Francisco Municipal Transportation Agency.csv
+662,16,5655,Market St & 5th  St   ,-122.407992,37.784082,San Francisco Municipal Transportation Agency.csv
+663,17,5695,Market St & Taylor St   ,-122.410228,37.782316,San Francisco Municipal Transportation Agency.csv
+664,18,5656,Market St & 7th St   ,-122.412441,37.780568,San Francisco Municipal Transportation Agency.csv
+665,19,5676,Market St & Hyde St   ,-122.414379,37.779105,San Francisco Municipal Transportation Agency.csv
+666,20,5680,Market St & Larkin St   ,-122.416236,37.777598,San Francisco Municipal Transportation Agency.csv
+667,21,5696,Market St & Van Ness Ave   ,-122.419252,37.775198,San Francisco Municipal Transportation Agency.csv
+668,22,5672,Market St & Gough St   ,-122.421768,37.773269,San Francisco Municipal Transportation Agency.csv
+669,23,5681,Market St & Laguna St   ,-122.424666,37.77095300000001,San Francisco Municipal Transportation Agency.csv
+670,24,5659,Market St & Buchanan St   ,-122.426149,37.769786,San Francisco Municipal Transportation Agency.csv
+671,25,5661,Market St & Church St   ,-122.429306,37.767402,San Francisco Municipal Transportation Agency.csv
+672,26,5690,Market St & Sanchez St   ,-122.430707,37.766185,San Francisco Municipal Transportation Agency.csv
+673,27,5686,Market St & Noe St   ,-122.432812,37.76448900000001,San Francisco Municipal Transportation Agency.csv
+674,28,3311,17th St & Castro St  ,-122.434979,37.762576,San Francisco Municipal Transportation Agency.csv
+675,29,3318,17th St & Noe St ,-122.432991,37.762645,San Francisco Municipal Transportation Agency.csv
+676,30,5687,Market St & Noe St   ,-122.433323,37.763958,San Francisco Municipal Transportation Agency.csv
+677,31,5691,Market St & Sanchez St   ,-122.43113999999998,37.765689,San Francisco Municipal Transportation Agency.csv
+678,32,5662,Market St & Church St   ,-122.428801,37.767589,San Francisco Municipal Transportation Agency.csv
+679,33,5668,Market St & Dolores St   ,-122.427103,37.76888,San Francisco Municipal Transportation Agency.csv
+680,34,5675,Market St & Guerrero St   ,-122.424971,37.77057,San Francisco Municipal Transportation Agency.csv
+681,35,5673,Market St & Gough St   ,-122.421991,37.772875,San Francisco Municipal Transportation Agency.csv
+682,36,5692,Market St & South Van Ness Ave ,-122.419321,37.775056,San Francisco Municipal Transportation Agency.csv
+683,37,5652,Market St & 9th St   ,-122.41634,37.77741,San Francisco Municipal Transportation Agency.csv
+684,38,5651,Market St & 8th St   ,-122.414826,37.778606,San Francisco Municipal Transportation Agency.csv
+685,39,5650,Market St & 7th St   ,-122.412613,37.780363,San Francisco Municipal Transportation Agency.csv
+686,40,5647,Market St & 6th St   ,-122.4104,37.782102,San Francisco Municipal Transportation Agency.csv
+687,41,5645,Market St & 5th St   ,-122.408141,37.783886,San Francisco Municipal Transportation Agency.csv
+688,42,5643,Market St & 4th St   ,-122.405847,37.785705,San Francisco Municipal Transportation Agency.csv
+689,43,5640,Market St & 3rd St   ,-122.403519,37.787525,San Francisco Municipal Transportation Agency.csv
+690,44,5685,Market St & New Montgomery St  ,-122.402163,37.788613,San Francisco Municipal Transportation Agency.csv
+691,45,7264,Market St & 1st St ,-122.399195,37.79094,San Francisco Municipal Transportation Agency.csv
+692,46,5682,Market St & Main St   ,-122.396627,37.792984,San Francisco Municipal Transportation Agency.csv
+693,47,4727,Don Chee Way/Steuart St ,-122.393438,37.793918,San Francisco Municipal Transportation Agency.csv
+694,48,4513,THE EMBARCADERO/Ferry Building,-122.393552,37.79489,San Francisco Municipal Transportation Agency.csv
+695,49,4532,The Embarcadero & Washington St,-122.39567,37.797085,San Francisco Municipal Transportation Agency.csv
+696,50,4503,THE EMBARCADERO & BROADWAY,-122.397869,37.799552,San Francisco Municipal Transportation Agency.csv
+697,51,4517,The Embarcadero & Green St  ,-122.399369,37.801264,San Francisco Municipal Transportation Agency.csv
+698,52,4515,The Embarcadero & Greenwich St,-122.401113,37.803263,San Francisco Municipal Transportation Agency.csv
+699,53,7281,Embarcadero & Sansome St ,-122.403233,37.805146,San Francisco Municipal Transportation Agency.csv
+700,54,4501,The Embarcadero & Bay St  ,-122.406278,37.806945,San Francisco Municipal Transportation Agency.csv
+701,55,4530,The Embarcadero & Stockton St ,-122.410287,37.808351,San Francisco Municipal Transportation Agency.csv
+702,56,5174,Jefferson St & Powell St  ,-122.413357,37.808594,San Francisco Municipal Transportation Agency.csv
+703,57,5175,Jefferson St & Taylor St  ,-122.415514,37.80832,San Francisco Municipal Transportation Agency.csv
+704,58,7859,Duboce Ave & Church St,-122.429122,37.769463,San Francisco Municipal Transportation Agency.csv
+705,59,7316,Church St & 14th St,-122.428996,37.767786,San Francisco Municipal Transportation Agency.csv
+706,60,3984,Church St & 16th St  ,-122.428722,37.76462100000001,San Francisco Municipal Transportation Agency.csv
+707,61,3987,Church St & 18th St  ,-122.428416,37.761467,San Francisco Municipal Transportation Agency.csv
+708,62,6214,Right Of Way/20th St  ,-122.427924,37.758264,San Francisco Municipal Transportation Agency.csv
+709,63,6221,Right Of Way/Liberty St  ,-122.426999,37.757451,San Francisco Municipal Transportation Agency.csv
+710,64,6216,Right Of Way/21st St  ,-122.426922,37.756643,San Francisco Municipal Transportation Agency.csv
+711,65,6218,Right Of Way/22nd St  ,-122.42775,37.754607,San Francisco Municipal Transportation Agency.csv
+712,66,3995,Church St & 24th St  ,-122.427497,37.7518,San Francisco Municipal Transportation Agency.csv
+713,67,4002,Church St & Clipper St  ,-122.427289,37.749388,San Francisco Municipal Transportation Agency.csv
+714,68,3997,Church St & 27th St  ,-122.427073,37.746985,San Francisco Municipal Transportation Agency.csv
+715,69,4004,Church St & Day St  ,-122.426654,37.742811,San Francisco Municipal Transportation Agency.csv
+716,70,3538,30th St & Dolores St  ,-122.424457,37.74217,San Francisco Municipal Transportation Agency.csv
+717,71,6280,San Jose Ave & Randall St   ,-122.42432,37.739385,San Francisco Municipal Transportation Agency.csv
+718,72,4788,San Jose Ave/Glen Park Station ,-122.433855,37.732401,San Francisco Municipal Transportation Agency.csv
+719,73,6285,San Jose Ave & Santa Rosa Ave  ,-122.440016,37.728996,San Francisco Municipal Transportation Agency.csv
+720,74,6287,San Jose Ave & Santa Ynez Ave  ,-122.442359,37.725877,San Francisco Municipal Transportation Agency.csv
+721,75,6274,San Jose Ave & Ocean Ave  ,-122.444699,37.723085,San Francisco Municipal Transportation Agency.csv
+722,76,7155,SAN JOSE AVE & GENEVA AVE,-122.447436,37.721907,San Francisco Municipal Transportation Agency.csv
+723,77,7217,Metro Embarcadero Station,-122.396465,37.793179,San Francisco Municipal Transportation Agency.csv
+724,78,6994,Metro Montgomery Station/Outbound ,-122.402127,37.788791,San Francisco Municipal Transportation Agency.csv
+725,79,6995,Metro Powell Station/Outbound ,-122.407822,37.7843,San Francisco Municipal Transportation Agency.csv
+726,80,6997,Metro Civic Center Station/Outbd ,-122.414995,37.778675,San Francisco Municipal Transportation Agency.csv
+727,81,6996,Van Ness Station Outbound ,-122.41934,37.77523400000001,San Francisco Municipal Transportation Agency.csv
+728,82,4510,The Embarcadero & Folsom St  ,-122.389841,37.790749,San Francisco Municipal Transportation Agency.csv
+729,83,7778,San Jose Ave & Geneva Ave,-122.446222,37.721238,San Francisco Municipal Transportation Agency.csv
+730,84,6275,San Jose Ave & Ocean Ave  ,-122.44479,37.722862,San Francisco Municipal Transportation Agency.csv
+731,85,6288,San Jose Ave & Santa Ynez Ave  ,-122.442442,37.725681,San Francisco Municipal Transportation Agency.csv
+732,86,6284,San Jose Ave & Santa Rosa Ave  ,-122.439922,37.728991,San Francisco Municipal Transportation Agency.csv
+733,87,4787,San Jose Ave/Glen Park Station,-122.433416,37.732525,San Francisco Municipal Transportation Agency.csv
+734,88,6277,San Jose Ave & Randall St   ,-122.424157,37.739741,San Francisco Municipal Transportation Agency.csv
+735,89,3537,30th St & Dolores St  ,-122.424026,37.742304,San Francisco Municipal Transportation Agency.csv
+736,90,4000,Church St & 30th St   ,-122.426459,37.742222,San Francisco Municipal Transportation Agency.csv
+737,91,3999,Church St & 29th St  ,-122.426585,37.743587,San Francisco Municipal Transportation Agency.csv
+738,92,3998,Church St & 27th St  ,-122.426893,37.746781,San Francisco Municipal Transportation Agency.csv
+739,93,4003,Church St & Clipper St  ,-122.427122,37.749182,San Francisco Municipal Transportation Agency.csv
+740,94,3996,Church St & 24th St  ,-122.42735,37.751591,San Francisco Municipal Transportation Agency.csv
+741,95,3994,Church St & 22nd St  ,-122.427796,37.75632,San Francisco Municipal Transportation Agency.csv
+742,96,6217,Right Of Way/21st St  ,-122.426822,37.756436,San Francisco Municipal Transportation Agency.csv
+743,97,6222,Right Of Way/Liberty St  ,-122.426867,37.757239,San Francisco Municipal Transportation Agency.csv
+744,98,6215,Right Of Way/20th St  ,-122.427795,37.758229,San Francisco Municipal Transportation Agency.csv
+745,99,6213,Right Of Way/18th St  ,-122.428184,37.761192,San Francisco Municipal Transportation Agency.csv
+746,100,3985,Church St & 16th St  ,-122.428609,37.764382,San Francisco Municipal Transportation Agency.csv
+747,101,7073,Church St & Market St,-122.428927,37.767509,San Francisco Municipal Transportation Agency.csv
+748,102,4006,Church St & Duboce Ave  ,-122.429087,37.769302,San Francisco Municipal Transportation Agency.csv
+749,103,5419,Metro Van Ness Station,-122.419252,37.77512700000001,San Francisco Municipal Transportation Agency.csv
+750,104,5727,Metro Civic Center Station/Downtn,-122.414813,37.778542,San Francisco Municipal Transportation Agency.csv
+751,105,5417,Metro Powell Station/Downtown,-122.407695,37.784199,San Francisco Municipal Transportation Agency.csv
+752,106,5731,Metro Montgomery Station/Downtown,-122.401925,37.788702,San Francisco Municipal Transportation Agency.csv
+753,107,6992,Metro Embarcadero Station,-122.396431,37.793134,San Francisco Municipal Transportation Agency.csv
+754,108,6998,Metro Church Station/Outbound,-122.429321,37.767327,San Francisco Municipal Transportation Agency.csv
+755,109,6991,Metro Castro Station/Outbound,-122.43528899999998,37.762683,San Francisco Municipal Transportation Agency.csv
+756,110,6993,Forest Hill Station Outbound ,-122.459192,37.74817,San Francisco Municipal Transportation Agency.csv
+757,111,6739,West Portal Station   ,-122.4658,37.740947,San Francisco Municipal Transportation Agency.csv
+758,112,7125,West Portal Ave & 14th Ave,-122.468984,37.738064,San Francisco Municipal Transportation Agency.csv
+759,113,6503,West Portal/Sloat/St Francis Circle,-122.471618,37.734807,San Francisco Municipal Transportation Agency.csv
+760,114,7114,Junipero Serra Blvd & Ocean Ave,-122.471818,37.731271,San Francisco Municipal Transportation Agency.csv
+761,115,5807,Ocean Ave & San Leandro Way   ,-122.469475,37.729945,San Francisco Municipal Transportation Agency.csv
+762,116,5780,Ocean Ave & Aptos Ave   ,-122.467871,37.728383,San Francisco Municipal Transportation Agency.csv
+763,117,5786,Ocean Ave & Cerritos Ave   ,-122.46676,37.727252,San Francisco Municipal Transportation Agency.csv
+764,118,5808,Ocean Ave & Victoria St  ,-122.464337,37.726029,San Francisco Municipal Transportation Agency.csv
+765,119,5793,Ocean Ave & Jules Ave  ,-122.46139,37.724955,San Francisco Municipal Transportation Agency.csv
+766,120,5798,Ocean Ave & Miramar Ave  ,-122.458306,37.724262,San Francisco Municipal Transportation Agency.csv
+767,121,5795,Ocean Ave & Lee St  ,-122.454423,37.723397,San Francisco Municipal Transportation Agency.csv
+768,122,5785,OCEAN AVE/CCSF Pedestrian Bridge,-122.450866,37.722947,San Francisco Municipal Transportation Agency.csv
+769,123,5418,Balboa Park BART/Mezzanine Level,-122.447425,37.721809,San Francisco Municipal Transportation Agency.csv
+770,124,7354,Third Street & 23rd St,-122.388001,37.755414,San Francisco Municipal Transportation Agency.csv
+771,125,7355,Third Street & 20th St,-122.388558,37.760518,San Francisco Municipal Transportation Agency.csv
+772,126,7356,Third Street & Mariposa St ,-122.388853,37.764391,San Francisco Municipal Transportation Agency.csv
+773,127,7357,UCSF/Mission Bay,-122.389308,37.769049,San Francisco Municipal Transportation Agency.csv
+774,128,7358,Third Street & Mission Rock St ,-122.389683,37.772984,San Francisco Municipal Transportation Agency.csv
+775,129,7166,4th St & King St,-122.393864,37.77627800000001,San Francisco Municipal Transportation Agency.csv
+776,130,5237,King St & 2nd St   ,-122.389824,37.779621,San Francisco Municipal Transportation Agency.csv
+777,131,7145,The Embarcadero & Brannan St,-122.387977,37.784627,San Francisco Municipal Transportation Agency.csv
+778,132,7058,West Portal Ave & Ulloa St,-122.465846,37.740893,San Francisco Municipal Transportation Agency.csv
+779,133,5240,King St & 4th St   ,-122.394082,37.776269,San Francisco Municipal Transportation Agency.csv
+780,134,5784,OCEAN AVE/CCSF Pedestrian Bridge,-122.451448,37.72304000000001,San Francisco Municipal Transportation Agency.csv
+781,135,5794,Ocean Ave & Lee St  ,-122.453999,37.72345900000001,San Francisco Municipal Transportation Agency.csv
+782,136,5797,Ocean Ave & Miramar Ave  ,-122.458077,37.724387,San Francisco Municipal Transportation Agency.csv
+783,137,5787,Ocean Ave & Dorado Ter  ,-122.461059,37.724957,San Francisco Municipal Transportation Agency.csv
+784,138,5788,Ocean Ave & Fairfield Way  ,-122.464072,37.726008,San Francisco Municipal Transportation Agency.csv
+785,139,5809,Ocean Ave & Westgate Dr ,-122.46648,37.727199,San Francisco Municipal Transportation Agency.csv
+786,140,5779,Ocean Ave & Aptos Ave   ,-122.467561,37.728285,San Francisco Municipal Transportation Agency.csv
+787,141,5806,Ocean Ave & San Leandro Way   ,-122.469097,37.729989,San Francisco Municipal Transportation Agency.csv
+788,142,7113,Junipero Serra Blvd & Ocean Ave,-122.471707,37.731628,San Francisco Municipal Transportation Agency.csv
+789,143,7109,West Portal/Sloat/St Francis Circle,-122.471446,37.734825,San Francisco Municipal Transportation Agency.csv
+790,144,6898,West Portal Ave & 14th Ave   ,-122.469042,37.737859,San Francisco Municipal Transportation Agency.csv
+791,145,6740,West Portal Station  ,-122.465457,37.74125,San Francisco Municipal Transportation Agency.csv
+792,146,5730,Metro Forest Hill Station/Downtown,-122.458623,37.748351,San Francisco Municipal Transportation Agency.csv
+793,147,5728,Metro Castro Station/Downtown,-122.435231,37.76262,San Francisco Municipal Transportation Agency.csv
+794,148,5726,Metro Church Station/Downtown,-122.429168,37.767194,San Francisco Municipal Transportation Agency.csv
+795,149,6736,Ulloa St & Forest Side Ave  ,-122.46847,37.741535,San Francisco Municipal Transportation Agency.csv
+796,150,3266,15th Ave & Taraval St  ,-122.471297,37.743124,San Francisco Municipal Transportation Agency.csv
+797,151,6616,Taraval St & 19th Ave  ,-122.475444,37.74311,San Francisco Municipal Transportation Agency.csv
+798,152,6620,Taraval St & 23rd Ave  ,-122.48045,37.742872,San Francisco Municipal Transportation Agency.csv
+799,153,6622,Taraval St & 26th Ave  ,-122.483068,37.74278,San Francisco Municipal Transportation Agency.csv
+800,154,6626,Taraval St & 30th Ave  ,-122.487338,37.74259,San Francisco Municipal Transportation Agency.csv
+801,155,6628,Taraval St & 32nd Ave  ,-122.489489,37.74249,San Francisco Municipal Transportation Agency.csv
+802,156,6640,Taraval St & Sunset Blvd  ,-122.494361,37.742287,San Francisco Municipal Transportation Agency.csv
+803,157,6632,Taraval St & 40th Ave  ,-122.498055,37.742124,San Francisco Municipal Transportation Agency.csv
+804,158,6634,Taraval St & 42nd Ave  ,-122.500202,37.742021,San Francisco Municipal Transportation Agency.csv
+805,159,6636,Taraval St & 44th Ave  ,-122.502346,37.741924,San Francisco Municipal Transportation Agency.csv
+806,160,6638,Taraval St & 46th Ave  ,-122.50449,37.741823,San Francisco Municipal Transportation Agency.csv
+807,161,3600,46th Ave & Ulloa St  ,-122.504579,37.739998,San Francisco Municipal Transportation Agency.csv
+808,162,3602,46th Ave & Vicente St  ,-122.50444,37.738142,San Francisco Municipal Transportation Agency.csv
+809,163,7869,47th Ave & Cutler Ave ,-122.505413,37.736991,San Francisco Municipal Transportation Agency.csv
+810,164,6932,Wawona/46th Ave /SF Zoo,-122.504351,37.736125,San Francisco Municipal Transportation Agency.csv
+811,165,3603,46th Ave & Vicente St  ,-122.504268,37.737973,San Francisco Municipal Transportation Agency.csv
+812,166,3601,46th Ave & Ulloa St  ,-122.504407,37.739829,San Francisco Municipal Transportation Agency.csv
+813,167,3599,46th Ave & Taraval St  ,-122.504534,37.741685,San Francisco Municipal Transportation Agency.csv
+814,168,6637,Taraval St & 44th Ave  ,-122.502606,37.741804,San Francisco Municipal Transportation Agency.csv
+815,169,6635,Taraval St & 42nd Ave  ,-122.50046100000002,37.7419,San Francisco Municipal Transportation Agency.csv
+816,170,6633,Taraval St & 40th Ave  ,-122.498316,37.74199,San Francisco Municipal Transportation Agency.csv
+817,171,6641,Taraval St & Sunset Blvd  ,-122.49451,37.742188,San Francisco Municipal Transportation Agency.csv
+818,172,6629,Taraval St & 32nd Ave  ,-122.489749,37.742355,San Francisco Municipal Transportation Agency.csv
+819,173,6627,Taraval St & 30th Ave  ,-122.487615,37.742461,San Francisco Municipal Transportation Agency.csv
+820,174,6623,Taraval St & 26th Ave  ,-122.483324,37.742653,San Francisco Municipal Transportation Agency.csv
+821,175,6619,Taraval St & 22nd Ave  ,-122.478426,37.74289,San Francisco Municipal Transportation Agency.csv
+822,176,6617,Taraval St & 19th Ave  ,-122.475821,37.742971,San Francisco Municipal Transportation Agency.csv
+823,177,6615,Taraval St & 17th Ave  ,-122.47366,37.743069,San Francisco Municipal Transportation Agency.csv
+824,178,3267,15th Ave & Taraval St  ,-122.471405,37.743069,San Francisco Municipal Transportation Agency.csv
+825,179,6737,Ulloa St & Forest Side Ave  ,-122.4688,37.741435,San Francisco Municipal Transportation Agency.csv
+826,180,4509,The Embarcadero & Folsom St   ,-122.389692,37.790481,San Francisco Municipal Transportation Agency.csv
+827,181,6226,West Portal Ave & Sloat Blvd  ,-122.471956,37.734299,San Francisco Municipal Transportation Agency.csv
+828,182,6223,Right Of Way/Ocean Ave   ,-122.473719,37.732022,San Francisco Municipal Transportation Agency.csv
+829,183,6219,Right Of Way/Eucalyptus Dr  ,-122.47435,37.73119000000001,San Francisco Municipal Transportation Agency.csv
+830,184,3403,19th Ave & Winston Dr  ,-122.474937,37.727017,San Francisco Municipal Transportation Agency.csv
+831,185,3358,19th Ave & Holloway Ave  ,-122.475245,37.721342,San Francisco Municipal Transportation Agency.csv
+832,186,3376,19th Ave & Randolph St  ,-122.47167,37.7162,San Francisco Municipal Transportation Agency.csv
+833,187,3387,19th Ave & Randolph St   ,-122.469998,37.714443,San Francisco Municipal Transportation Agency.csv
+834,188,6173,Randolph St & Arch St  ,-122.467218,37.714201,San Francisco Municipal Transportation Agency.csv
+835,189,6175,Randolph St & Bright St  ,-122.463675,37.71425,San Francisco Municipal Transportation Agency.csv
+836,190,5825,Orizaba Ave & Broad St  ,-122.462585,37.713328,San Francisco Municipal Transportation Agency.csv
+837,191,3716,Broad St & Capitol Ave  ,-122.459159,37.713152,San Francisco Municipal Transportation Agency.csv
+838,192,3719,Broad St & Plymouth Ave  ,-122.45618,37.713161,San Francisco Municipal Transportation Agency.csv
+839,193,6259,San Jose Ave & Farallones St   ,-122.45208,37.71407,San Francisco Municipal Transportation Agency.csv
+840,194,6266,San Jose Ave & Lakeview Ave   ,-122.450435,37.71608300000001,San Francisco Municipal Transportation Agency.csv
+841,195,6268,San Jose Ave & Mt Vernon Ave   ,-122.448593,37.718284,San Francisco Municipal Transportation Agency.csv
+842,196,6269,San Jose Ave & Niagra Ave   ,-122.447459,37.719507,San Francisco Municipal Transportation Agency.csv
+843,197,6262,San Jose Ave & Geneva Ave  ,-122.447196,37.72009600000001,San Francisco Municipal Transportation Agency.csv
+844,198,7111,San Jose Ave & Mt Vernon Ave,-122.44864,37.71847,San Francisco Municipal Transportation Agency.csv
+845,199,6265,San Jose Ave & Lakeview Ave   ,-122.450368,37.71633,San Francisco Municipal Transportation Agency.csv
+846,200,6257,San Jose Ave & Farallones St   ,-122.452148,37.714153,San Francisco Municipal Transportation Agency.csv
+847,201,3718,Broad St & Plymouth Ave  ,-122.455927,37.713222,San Francisco Municipal Transportation Agency.csv
+848,202,3715,Broad St & Capitol Ave  ,-122.458921,37.713191,San Francisco Municipal Transportation Agency.csv
+849,203,3717,Broad St & Orizaba Ave  ,-122.462331,37.713178000000006,San Francisco Municipal Transportation Agency.csv
+850,204,6174,Randolph St & Bright St  ,-122.463392,37.714348,San Francisco Municipal Transportation Agency.csv
+851,205,6172,Randolph St & Arch St  ,-122.466982,37.714342,San Francisco Municipal Transportation Agency.csv
+852,206,3385,19th Ave & Randolph St   ,-122.469618,37.714282,San Francisco Municipal Transportation Agency.csv
+853,207,3361,19th Ave & Junipero Serra Blvd ,-122.472275,37.716889,San Francisco Municipal Transportation Agency.csv
+854,208,7065,19th Ave & Holloway Ave,-122.475176,37.721342,San Francisco Municipal Transportation Agency.csv
+855,209,7449,19th Ave & Winston Dr,-122.474846,37.727195,San Francisco Municipal Transportation Agency.csv
+856,210,6220,Right Of Way/Eucalyptus Dr  ,-122.474366,37.730987,San Francisco Municipal Transportation Agency.csv
+857,211,6224,Right Of Way/Ocean Ave   ,-122.473815,37.731808,San Francisco Municipal Transportation Agency.csv
+858,212,6225,West Portal Ave & Sloat Blvd  ,-122.47189,37.734298,San Francisco Municipal Transportation Agency.csv
+859,213,4447,Duboce Ave & Church St  ,-122.429408,37.769472,San Francisco Municipal Transportation Agency.csv
+860,214,7252,Duboce St/Noe St/Duboce Park,-122.433557,37.769357,San Francisco Municipal Transportation Agency.csv
+861,215,3909,Carl St & Cole St  ,-122.449804,37.765863,San Francisco Municipal Transportation Agency.csv
+862,216,3914,Carl St & Stanyan St  ,-122.45259,37.765495,San Francisco Municipal Transportation Agency.csv
+863,217,3912,Carl St & Hillway Ave  ,-122.456561,37.765003,San Francisco Municipal Transportation Agency.csv
+864,218,5118,Irving St & 2nd Ave  ,-122.458643,37.764441,San Francisco Municipal Transportation Agency.csv
+865,219,5119,Irving St & 4th Ave  ,-122.460824,37.764299,San Francisco Municipal Transportation Agency.csv
+866,220,5121,Irving St & 7th Ave  ,-122.464034,37.764155,San Francisco Municipal Transportation Agency.csv
+867,221,5123,Irving St & 9th Ave  ,-122.466165,37.764106,San Francisco Municipal Transportation Agency.csv
+868,222,5193,Judah St & 9th Ave  ,-122.466688,37.762227,San Francisco Municipal Transportation Agency.csv
+869,223,5195,Judah St & 12th Ave  ,-122.469324,37.762069,San Francisco Municipal Transportation Agency.csv
+870,224,5219,Judah St & Funston Ave  ,-122.470329,37.762075,San Francisco Municipal Transportation Agency.csv
+871,225,5198,Judah St & 16th Ave   ,-122.473632,37.76194,San Francisco Municipal Transportation Agency.csv
+872,226,5199,Judah St & 19th Ave  ,-122.476921,37.761743,San Francisco Municipal Transportation Agency.csv
+873,227,5202,Judah St & 23rd Ave  ,-122.481164,37.761547,San Francisco Municipal Transportation Agency.csv
+874,228,5203,Judah St & 25th Ave  ,-122.4833,37.761452,San Francisco Municipal Transportation Agency.csv
+875,229,5205,Judah St & 28th Ave  ,-122.48651,37.76131,San Francisco Municipal Transportation Agency.csv
+876,230,5207,Judah St & 31st Ave  ,-122.489719,37.761172,San Francisco Municipal Transportation Agency.csv
+877,231,5209,Judah St & 34th Ave  ,-122.49293,37.761028,San Francisco Municipal Transportation Agency.csv
+878,232,5224,Judah St & Sunset Blvd  ,-122.495668,37.760917,San Francisco Municipal Transportation Agency.csv
+879,233,5211,Judah St & 40th Ave  ,-122.499359,37.760743,San Francisco Municipal Transportation Agency.csv
+880,234,5213,Judah St & 43rd Ave  ,-122.502574,37.760598,San Francisco Municipal Transportation Agency.csv
+881,235,5215,Judah St & 46th Ave  ,-122.505832,37.760493,San Francisco Municipal Transportation Agency.csv
+882,236,7219,Judah/La Playa/Ocean Beach,-122.508685,37.760349,San Francisco Municipal Transportation Agency.csv
+883,237,4506,The Embarcadero & Brannan St   ,-122.38813799999998,37.784359,San Francisco Municipal Transportation Agency.csv
+884,238,5234,King St & 2nd St   ,-122.389872,37.77972000000001,San Francisco Municipal Transportation Agency.csv
+885,239,5239,King St & 4th St   ,-122.394173,37.776269,San Francisco Municipal Transportation Agency.csv
+886,240,4448,Duboce Ave & Church St  ,-122.4294,37.769409,San Francisco Municipal Transportation Agency.csv
+887,241,5223,Judah/La Playa/Ocean Beach,-122.508181,37.760304,San Francisco Municipal Transportation Agency.csv
+888,242,5216,Judah St & 46th Ave  ,-122.506064,37.760392,San Francisco Municipal Transportation Agency.csv
+889,243,5214,Judah St & 43rd Ave  ,-122.502839,37.760518,San Francisco Municipal Transportation Agency.csv
+890,244,5212,Judah St & 40th Ave  ,-122.499154,37.760679,San Francisco Municipal Transportation Agency.csv
+891,245,5225,Judah St & Sunset Blvd  ,-122.495805,37.760845,San Francisco Municipal Transportation Agency.csv
+892,246,5210,Judah St & 34th Ave  ,-122.493199,37.760955,San Francisco Municipal Transportation Agency.csv
+893,247,5208,Judah St & 31st Ave  ,-122.4895,37.761105,San Francisco Municipal Transportation Agency.csv
+894,248,5206,Judah St & 28th Ave  ,-122.48676299999998,37.761232,San Francisco Municipal Transportation Agency.csv
+895,249,5204,Judah St & 25th Ave  ,-122.48356,37.761373,San Francisco Municipal Transportation Agency.csv
+896,250,5201,Judah St & 22nd Ave  ,-122.479855,37.76153400000001,San Francisco Municipal Transportation Agency.csv
+897,251,5200,Judah St & 19th Ave  ,-122.477194,37.761655,San Francisco Municipal Transportation Agency.csv
+898,252,5197,Judah St & 15th Ave  ,-122.472777,37.761848,San Francisco Municipal Transportation Agency.csv
+899,253,5220,Judah St & Funston Ave  ,-122.470572,37.76195,San Francisco Municipal Transportation Agency.csv
+900,254,5196,Judah St & 12th Ave  ,-122.469526,37.761988,San Francisco Municipal Transportation Agency.csv
+901,255,5194,Judah St & 9th Ave  ,-122.46631200000002,37.76213900000001,San Francisco Municipal Transportation Agency.csv
+902,256,3212,9th Ave & Irving St  ,-122.466241,37.763913,San Francisco Municipal Transportation Agency.csv
+903,257,5122,Irving St & 7th Ave  ,-122.464282,37.764092,San Francisco Municipal Transportation Agency.csv
+904,258,5120,Irving St & 4th Ave  ,-122.46106100000002,37.764226,San Francisco Municipal Transportation Agency.csv
+905,259,5124,Irving St & Arguello Blvd  ,-122.458024,37.764366,San Francisco Municipal Transportation Agency.csv
+906,260,3913,Carl St & Hillway Ave  ,-122.45651200000002,37.764932,San Francisco Municipal Transportation Agency.csv
+907,261,3915,Carl St & Stanyan St  ,-122.452928,37.765371,San Francisco Municipal Transportation Agency.csv
+908,262,3911,Carl St & Cole St  ,-122.450131,37.765745,San Francisco Municipal Transportation Agency.csv
+909,263,7318,Sunset Tunnel East Portal ,-122.433511,37.769285,San Francisco Municipal Transportation Agency.csv
+910,264,3410,20th St & 3rd St  ,-122.388707,37.760536,San Francisco Municipal Transportation Agency.csv

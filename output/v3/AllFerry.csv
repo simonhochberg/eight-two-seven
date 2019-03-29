@@ -1,0 +1,22 @@
+,Unnamed: 0,stop_id,stop_name,stop_lon,stop_lat,agency
+0,0,43003,Sausalito Ferry Terminal,-122.478249,37.856403,Golden Gate Transit.csv
+1,1,43000,San Francisco Ferry Terminal,-122.391617,37.796169,Golden Gate Transit.csv
+2,2,43004,Larkspur Ferry Terminal,-122.508736,37.945316,Golden Gate Transit.csv
+3,3,43007,Tiburon Ferry,-122.456276,37.873226,Golden Gate Transit.csv
+4,0,818733,"Berkeley Marina, Berkeley CA",-122.31393184362,37.864539695513,Tideline Water Taxi.csv
+5,1,818727,San Francisco Pier 1.5,-122.3950251,37.7974815,Tideline Water Taxi.csv
+6,0,99440,Broadway Pier,-117.1734067,32.71603823,MTS.csv
+7,1,99439,Coronado Ferry Landing,-117.1697197,32.69920913,MTS.csv
+8,2,99441,5th Av Pier,-117.1615507,32.70453869,MTS.csv
+9,0,890003,San Francisco Ferry Building (Gate F),-122.39107,37.79472,San Francisco Bay Ferry.csv
+10,1,12048536,Harbor Bay Ferry Terminal,-122.256966,37.736528,San Francisco Bay Ferry.csv
+11,2,12030042,Alameda Main Street,-122.29415690000002,37.79115331,San Francisco Bay Ferry.csv
+12,3,12030043,Oakland Terminal,-122.279777,37.795032,San Francisco Bay Ferry.csv
+13,4,12030041,South San Francisco,-122.377245,37.662676,San Francisco Bay Ferry.csv
+14,5,890002,San Francisco Ferry Building (Gate G),-122.39079,37.79436,San Francisco Bay Ferry.csv
+15,6,12048538,Pier 41,-122.412272,37.809594,San Francisco Bay Ferry.csv
+16,7,890001,San Francisco Ferry Building (Gate E),-122.391612,37.795106,San Francisco Bay Ferry.csv
+17,8,12149044,Vallejo Ferry Terminal,-122.26307659999998,38.09988432,San Francisco Bay Ferry.csv
+18,9,12048537,San Francisco Ferry Building (Gate B),-122.393209,37.796869,San Francisco Bay Ferry.csv
+19,10,1222694,Mare Island Terminal,-122.2687821,38.10131755,San Francisco Bay Ferry.csv
+20,11,890004,Richmond,-122.359051,37.909093,San Francisco Bay Ferry.csv
