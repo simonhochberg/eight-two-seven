@@ -1,0 +1,230 @@
+,stop_id,stop_name,stop_lon,stop_lat,agency,route_id,route_short_name,route_long_name
+0,1000430,12th St:Broadway (12th St BART Station),-122.272624,37.803168,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+1,1000460,12th St:Fallon St,-122.26287909999999,37.7994386,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+2,1000490,12th St:Jackson St,-122.2663291,37.8007816,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+3,1000520,12th St:Oak St,-122.264052,37.7999002,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+4,1008260,International Blvd:104th Av,-122.16723229999998,37.7402318,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+5,1008280,International Blvd:10th Av,-122.249521,37.7920156,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+6,1008300,International Blvd:14th Av,-122.24577679999999,37.7893347,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+7,1008320,International Blvd:17th Av,-122.2429465,37.7877086,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+8,1008350,International Blvd:19th Av,-122.24084180000001,37.786442,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+9,1008370,International Blvd:21st Av,-122.23875220000001,37.78519910000001,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+10,1008400,International Blvd:23rd Av,-122.2357087,37.783376000000004,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+11,1008430,International Blvd:29th Av,-122.2288719,37.779281,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+12,1008490,International Blvd:38th Av,-122.2197652,37.774832200000006,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+13,1008500,International Blvd:40th Av,-122.21780420000002,37.7738822,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+14,1008530,International Blvd:46th Av,-122.21136070000001,37.7708177,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+15,1008680,International Blvd:69th Av,-122.1901355,37.760772700000004,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+16,1008830,International Blvd:90th Av,-122.17415030000001,37.749510799999996,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+17,1008860,International Blvd:98th Av,-122.170701,37.744818,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+18,1008900,International Blvd:Fruitvale Av,-122.22566210000001,37.7776403,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+19,1008920,International Blvd:Havenscourt Blvd,-122.19255859999998,37.761924,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+20,1008980,International Blvd:Mitchell St,-122.23095670000001,37.780530600000006,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+21,1008990,International Blvd:Seminary Av,-122.1993023,37.765134,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+22,1030630,International Blvd:8th Av,-122.25158490000001,37.7938374,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+23,1030650,International Blvd:5th Av,-122.2540341,37.7960066,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+24,1030720,International Blvd:73rd Av,-122.1875159,37.759539600000004,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+25,1030730,International Blvd:High St,-122.21506240000001,37.7725759,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+26,1030740,12th St:Webster St,-122.2699966,37.802197799999995,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+27,1030750,12th St:Harrison St,-122.26877069999999,37.8017305,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+28,1030820,International Blvd:34th Av,-122.2241335,37.7768869,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+29,1032180,International Blvd:2nd Av,-122.25616459999999,37.797917299999995,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+30,1500850,Davis St:Hays St,-122.1582976,37.7250953,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+31,1501370,E 14th St:Broadmoor Blvd,-122.16325049999999,37.7348028,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+32,1501420,E 14th St:Dutton Av,-122.1605648,37.7310924,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+33,1502820,San Leandro BART Station,-122.16039540000001,37.7216123,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+34,9904390,E 14th St:Haas Av,-122.1587608,37.728741799999995,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+35,9904430,11th St:Clay St,-122.2753054,37.803308799999996,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+36,9904630,International Blvd:100th Av,-122.1693947,37.7430658,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+37,9904640,International Blvd:94th Av,-122.17269830000001,37.7475486,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+38,9904650,International Blvd:Auseon Av,-122.1761321,37.7522196,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+39,9904660,International Blvd:82nd Av,-122.1791283,37.7555283,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+40,9904670,International Blvd:74th Av,-122.1859895,37.7588083,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+41,9904680,International Blvd:62th Av,-122.1974044,37.7642237,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+42,9904690,International Blvd:57th Av,-122.20195290000001,37.7663706,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+43,9904700,International Blvd:53rd Av,-122.2064855,37.7685095,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+44,1000350,11th St:Broadway (12th St BART Station),-122.2719002,37.801842799999996,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+45,1008290,International Blvd:10th Av,-122.2499037,37.7921598,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+46,1008310,International Blvd:14th Av,-122.24591459999999,37.7891969,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+47,1008330,International Blvd:17th Av,-122.242865,37.7874456,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+48,1008340,International Blvd:19th Av,-122.24085729999999,37.7862474,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+49,1008380,International Blvd:21st Av,-122.23914009999999,37.7852167,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+50,1008420,International Blvd:26th Av,-122.2328113,37.7813836,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+51,1008440,International Blvd:29th Av,-122.2286939,37.778955200000006,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+52,1008450,International Blvd:2nd Av,-122.2564967,37.7979668,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+53,1008480,International Blvd:38th Av,-122.21976869999999,37.774589299999995,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+54,1008520,International Blvd:46th Av,-122.21197920000002,37.770872,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+55,1008690,International Blvd:69th Av,-122.1904777,37.76069570000001,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+56,1008790,International Blvd:85th Av,-122.17731540000001,37.753393700000004,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+57,1008890,International Blvd:Fruitvale Av,-122.22604040000002,37.7775826,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+58,1008910,International Blvd:Havenscourt Blvd,-122.1926096,37.76170379999999,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+59,1008930,International Blvd:Hegenberger Rd,-122.18636609999999,37.7587268,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+60,1030640,International Blvd:8th Av,-122.2511831,37.7933064,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+61,1030660,International Blvd:5th Av,-122.2536818,37.7955047,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+62,1030690,11th St:Madison St,-122.265574,37.799455200000004,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+63,1030710,International Blvd:Seminary Av,-122.1993054,37.7648842,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+64,1030760,11th St:Harrison St,-122.26858759999999,37.8006373,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+65,1030770,International Blvd:98th Av,-122.1704541,37.7440343,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+66,1030810,International Blvd:34th Av,-122.22355049999999,37.7764003,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+67,1031640,International Blvd:90th Av,-122.174282,37.74923629999999,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+68,1501340,E 14th St:Best Av (Dutton Av),-122.16030890000002,37.7304857,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+69,1502810,San Leandro BART Station,-122.1605105,37.7218008,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+70,9902750,International Blvd:23rd Av,-122.23567290000001,37.7831365,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+71,9904400,E 14th St:Belleview Dr,-122.16239679999998,37.733288,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+72,9904410,E 14th St:Lorraine Blvd,-122.1591331,37.728861,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+73,9904430,11th St:Clay St,-122.2753054,37.803308799999996,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+74,9904510,International Blvd:High St,-122.215216,37.7723945,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+75,9904530,International Blvd:57th Av,-122.201388,37.765871000000004,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+76,9904540,International Blvd:62nd Av,-122.1969993,37.7637896,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+77,9904550,International Blvd:81st Av,-122.1803666,37.7558964,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+78,9904560,International Blvd:87th Av,-122.175953,37.7514667,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+79,9904570,International Blvd:94th Av,-122.17256979999999,37.746911100000005,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+80,9904580,International Blvd:101st Av,-122.16882009999999,37.741848499999996,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+81,9904590,International Blvd:105th Av,-122.16696270000001,37.7393331,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+82,9904600,International Blvd:107th Av,-122.16583329999999,37.737814,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+83,9904620,Davis St:Clarke St,-122.1589083,37.725047100000005,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+84,9904710,International Blvd:53rd Av,-122.206272,37.7681278,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+85,0100470,Broadway:Tilden Way,-122.2351626,37.7674598,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+86,0103150,Santa Clara Av:8th St,-122.2725943,37.7733026,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+87,0103190,Santa Clara Av:Bay St,-122.26492040000001,37.77307570000001,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+88,0103200,Santa Clara Av:Broadway,-122.23858200000001,37.76368,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+89,0103230,Santa Clara Av:Chestnut St,-122.2517608,37.7697276,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+90,0103270,Santa Clara Av:Grand St,-122.25602649999999,37.7715518,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+91,0103340,Santa Clara Av:Park St,-122.24169199999999,37.765284,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+92,0103370,Santa Clara Av:Stanton St,-122.2598869,37.7729128,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+93,0103430,Santa Clara Av:Willow St,-122.24890409999999,37.768483200000006,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+94,0103830,Webster St:Lincoln Av,-122.27664509999998,37.7754907,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+95,0104310,Webster St:Santa Clara Av,-122.2767112,37.7736109,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+96,0104460,Broadway:Blanding Av,-122.2342222,37.7685902,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+97,0104600,Webster St:Atlantic Av,-122.27636580000001,37.780202100000004,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+98,0104800,Webster St:Willie Stargell Av,-122.2763881,37.7831694,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+99,1004130,8th St:Broadway,-122.27347920000001,37.8001701,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+100,1004140,8th St:Harrison St,-122.2705469,37.7990581,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+101,1006350,Broadway:13th St (12th St BART Station),-122.27133799999999,37.80384779999999,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+102,1006450,Broadway:20th St (19th St BART Station),-122.26793899999998,37.809324,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+103,1006530,Broadway:28th St,-122.26343590000002,37.8164929,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+104,1006640,Broadway:40th St,-122.2566713,37.827341,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+105,1006780,Broadway:Grand Av,-122.2663808,37.8117988,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+106,1006820,Broadway:Piedmont Av,-122.260797,37.820723,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+107,1007440,College Av:Broadway,-122.25121599999999,37.836855,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+108,1007500,College Av:Lawton Av,-122.25153829999999,37.8427909,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+109,1007520,College Av:Manila Av,-122.25126100000001,37.840021,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+110,1011370,Fruitvale BART Station,-122.22456869999999,37.7750001,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+111,1031610,Broadway:W MacArthur Blvd,-122.25817409999999,37.824915999999995,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+112,1031890,Keith Av:College Av,-122.2514328,37.8440961,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+113,9902170,Broadway:Mather St,-122.25409979999999,37.831499,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+114,9903220,Santa Clara Av:Walnut St,-122.24648400000001,37.767415899999996,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+115,9903250,Santa Clara Av:Oak St,-122.2436002,37.7661675,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+116,9903260,Santa Clara Av:Morton St,-122.2623761,37.772979,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+117,9903280,Santa Clara Av:Mozart St,-122.2688652,37.7732031,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+118,9903290,Webster St:Buena Vista Av,-122.2765358,37.7776416,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+119,9903380,Broadway:30th St,-122.2620313,37.8188484,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+120,9903390,Broadway:Kaiser Hospital Entrance,-122.2590169,37.823541999999996,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+121,9903400,Broadway:Pleasant Valley Av,-122.2519889,37.8346865,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+122,9903490,Broadway:10th St,-122.27263119999999,37.801799100000004,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+123,9905350,Broadway:17th St (19th St BART Station),-122.26947679999999,37.806894899999996,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+124,0100340,Blanding Av:Broadway,-122.23376999999999,37.7685807,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+125,0100460,Broadway:Santa Clara Av,-122.23806189999999,37.763731,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+126,0103140,Santa Clara Av:8th St,-122.2728666,37.7731592,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+127,0103180,Santa Clara Av:Bay St,-122.26477240000001,37.772878999999996,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+128,0103220,Santa Clara Av:Caroline St,-122.2682168,37.7730218,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+129,0103280,Santa Clara Av:Grand St,-122.25631680000001,37.7715369,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+130,0103330,Santa Clara Av:Oak St,-122.2437945,37.766038,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+131,0103350,Santa Clara Av:Park St,-122.242085,37.765368,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+132,0103360,Santa Clara Av:Stanton St,-122.25978810000001,37.7727734,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+133,0103380,Santa Clara Av:Walnut St,-122.24633359999999,37.7671924,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+134,0103420,Santa Clara Av:Webster St,-122.27643559999999,37.773271799999996,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+135,0103790,Webster St:Ralph Appezzato Memorial Pkwy,-122.2766923,37.779082200000005,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+136,0103800,Webster St:Buena Vista Av,-122.2767695,37.7770346,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+137,0104270,Webster St:Lincoln Av,-122.2768192,37.7748926,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+138,0104790,Webster St:Willie Stargell Av,-122.27677,37.7828596,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+139,1003480,7th St:Franklin St,-122.27317659999999,37.7990139,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+140,1006270,Broadway:Mosswood Park,-122.25968,37.822987,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+141,1006310,Broadway:12th St (12th St BART Station),-122.272065,37.803051,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+142,1006540,Broadway:28th St,-122.2639233,37.8162277,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+143,1006650,Broadway:42nd St (Oakland Technical High School),-122.2544506,37.831387299999996,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+144,1006860,Broadway:W Grand Av,-122.26704409999999,37.8111752,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+145,1006880,Broadway:W MacArthur Blvd,-122.2589821,37.824130100000005,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+146,1007430,College Av:Broadway,-122.251347,37.836724,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+147,1011370,Fruitvale BART Station,-122.22456869999999,37.7750001,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+148,1030970,Broadway:Thomas L Berkley Way (20th St),-122.26858689999999,37.8085852,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+149,1031130,College Av:Miles Av,-122.25196629999999,37.8445417,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+150,9901580,Broadway:25th St,-122.265351,37.813968700000004,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+151,9902070,Broadway:17th St (19th St BART Station),-122.2700784,37.8063229,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+152,9903210,Santa Clara Av:Chestnut St,-122.25159369999999,37.769484000000006,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+153,9903230,Santa Clara Av:Everett St,-122.24039409999999,37.7644655,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+154,9903240,Broadway:Eagle Av,-122.2353417,37.7669756,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+155,9903270,Santa Clara Av:Morton St,-122.26185900000002,37.772816299999995,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+156,9903300,Santa Clara Av:Willow St,-122.24889879999999,37.768304799999996,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+157,9903440,College Av:Manila Av,-122.2513707,37.8397473,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+158,9903450,College Av:Lawton Av,-122.2516226,37.841926799999996,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+159,9903460,Broadway:40th St,-122.2571028,37.8271864,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+160,9903500,Broadway:9th St,-122.2733132,37.8011974,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+161,9903930,Broadway:30th St,-122.26260309999999,37.818394700000006,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+162,9905360,Broadway:51st St,-122.25227690000001,37.8349117,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+163,0301120,Bancroft Way:College Av,-122.25512920000001,37.869294000000004,AC Transit,51B,51B,RockRidge - 3RUN
+164,0301130,Bancroft Way:Dana St,-122.2619131,37.86845770000001,AC Transit,51B,51B,RockRidge - 3RUN
+165,0301170,Bancroft Way:Telegraph Av,-122.25990890000001,37.86866,AC Transit,51B,51B,RockRidge - 3RUN
+166,0301660,College Av:Ashby Av,-122.2529884,37.85728710000001,AC Transit,51B,51B,RockRidge - 3RUN
+167,0301700,College Av:Derby St,-122.25348229999999,37.8620271,AC Transit,51B,51B,RockRidge - 3RUN
+168,0301730,College Av:Haste St,-122.25404499999999,37.866775,AC Transit,51B,51B,RockRidge - 3RUN
+169,0301760,College Av:Parker St,-122.2537122,37.8641769,AC Transit,51B,51B,RockRidge - 3RUN
+170,0301770,College Av:Russell St,-122.25314499999999,37.8588152,AC Transit,51B,51B,RockRidge - 3RUN
+171,0301820,College Av:Woolsey St,-122.25270259999998,37.8541628,AC Transit,51B,51B,RockRidge - 3RUN
+172,0304730,Seawall Dr:University Av,-122.31727849999999,37.8628126,AC Transit,51B,51B,RockRidge - 3RUN
+173,0305760,University Av:3rd St,-122.30067700000001,37.867275,AC Transit,51B,51B,RockRidge - 3RUN
+174,0305770,University Av:4th St,-122.29973030000001,37.8677265,AC Transit,51B,51B,RockRidge - 3RUN
+175,0305800,University Av:6th St,-122.2974137,37.86815670000001,AC Transit,51B,51B,RockRidge - 3RUN
+176,0305810,University Av:9th St,-122.29430500000001,37.868790999999995,AC Transit,51B,51B,RockRidge - 3RUN
+177,0305860,University Av:Bait Shop,-122.3138199,37.8638342,AC Transit,51B,51B,RockRidge - 3RUN
+178,0305880,University Av:Bonar St,-122.2874175,37.8698362,AC Transit,51B,51B,RockRidge - 3RUN
+179,0305940,University Av:Grant St,-122.27517399999999,37.8714122,AC Transit,51B,51B,RockRidge - 3RUN
+180,0305950,University Av:Marina Blvd,-122.31153729999998,37.864764799999996,AC Transit,51B,51B,RockRidge - 3RUN
+181,0305980,University Av:Martin Luther King Jr Way,-122.27287179999999,37.8717,AC Transit,51B,51B,RockRidge - 3RUN
+182,0306040,University Av:Sacramento St,-122.28162730000001,37.8705864,AC Transit,51B,51B,RockRidge - 3RUN
+183,0306090,University Av:W Frontage Rd,-122.3060351,37.8663995,AC Transit,51B,51B,RockRidge - 3RUN
+184,0306410,University Av:San Pablo Av,-122.29254409999999,37.869114,AC Transit,51B,51B,RockRidge - 3RUN
+185,0306530,Bancroft Way:Ellsworth St,-122.26408329999998,37.8681685,AC Transit,51B,51B,RockRidge - 3RUN
+186,0306650,University Av:Shattuck Av,-122.268776,37.8722013,AC Transit,51B,51B,RockRidge - 3RUN
+187,1007460,College Av:Chabot Rd,-122.25196969999999,37.847031799999996,AC Transit,51B,51B,RockRidge - 3RUN
+188,1007550,College Av:Rockridge BART Station,-122.25168670000001,37.844550399999996,AC Transit,51B,51B,RockRidge - 3RUN
+189,9903410,College Av:Claremont Av,-122.2523076,37.8500623,AC Transit,51B,51B,RockRidge - 3RUN
+190,9903420,College Av:Alcatraz Av,-122.2523643,37.851618200000004,AC Transit,51B,51B,RockRidge - 3RUN
+191,9903580,University Av:Acton St,-122.2846543,37.8701805,AC Transit,51B,51B,RockRidge - 3RUN
+192,9903620,University Av:California St,-122.28027649999999,37.870745299999996,AC Transit,51B,51B,RockRidge - 3RUN
+193,9905380,Shattuck Av:Allston Way (Transit Hub),-122.26770060000001,37.86911920000001,AC Transit,51B,51B,RockRidge - 3RUN
+194,0301670,College Av:Ashby Av,-122.25311459999999,37.85682429999999,AC Transit,51B,51B,RockRidge - 3RUN
+195,0301690,College Av:Derby St,-122.2535971,37.8618959,AC Transit,51B,51B,RockRidge - 3RUN
+196,0301740,College Av:Haste St,-122.2542,37.866707299999995,AC Transit,51B,51B,RockRidge - 3RUN
+197,0301780,College Av:Russell St,-122.2532678,37.8585914,AC Transit,51B,51B,RockRidge - 3RUN
+198,0301810,College Av:Woolsey St,-122.25282109999999,37.8537015,AC Transit,51B,51B,RockRidge - 3RUN
+199,0301980,Durant Av:College Av,-122.25462830000001,37.8683017,AC Transit,51B,51B,RockRidge - 3RUN
+200,0304670,University Av:San Pablo Av,-122.29172520000002,37.869063700000005,AC Transit,51B,51B,RockRidge - 3RUN
+201,0304730,Seawall Dr:University Av,-122.31727849999999,37.8628126,AC Transit,51B,51B,RockRidge - 3RUN
+202,0304790,Shattuck Av:Allston Way,-122.26812690000001,37.86947979999999,AC Transit,51B,51B,RockRidge - 3RUN
+203,0304960,Shattuck Av:Kittredge St,-122.26799,37.868192,AC Transit,51B,51B,RockRidge - 3RUN
+204,0305760,University Av:3rd St,-122.30067700000001,37.867275,AC Transit,51B,51B,RockRidge - 3RUN
+205,0305780,University Av:4th St,-122.29955679999999,37.867465,AC Transit,51B,51B,RockRidge - 3RUN
+206,0305790,University Av:6th St,-122.297351,37.8679427,AC Transit,51B,51B,RockRidge - 3RUN
+207,0305820,University Av:9th St,-122.29407890000002,37.8685999,AC Transit,51B,51B,RockRidge - 3RUN
+208,0305840,University Av:Acton St,-122.28391880000001,37.870091200000005,AC Transit,51B,51B,RockRidge - 3RUN
+209,0305850,University Av:Bait Shop,-122.31349469999999,37.8637432,AC Transit,51B,51B,RockRidge - 3RUN
+210,0305930,University Av:Grant St,-122.27489150000001,37.8712154,AC Transit,51B,51B,RockRidge - 3RUN
+211,0305960,University Av:Marina Blvd,-122.3106828,37.8650961,AC Transit,51B,51B,RockRidge - 3RUN
+212,0305990,University Av:Martin Luther King Jr Way,-122.2726715,37.871544,AC Transit,51B,51B,RockRidge - 3RUN
+213,0306050,University Av:Sacramento St,-122.2813466,37.8703678,AC Transit,51B,51B,RockRidge - 3RUN
+214,0306080,University Av:Shattuck Av,-122.2685686,37.872031799999995,AC Transit,51B,51B,RockRidge - 3RUN
+215,0306100,University Av:W Frontage Rd,-122.3056991,37.8661659,AC Transit,51B,51B,RockRidge - 3RUN
+216,1007450,College Av:Chabot Rd,-122.2521325,37.847199100000005,AC Transit,51B,51B,RockRidge - 3RUN
+217,1007470,College Av:Claremont Av,-122.2522945,37.848778,AC Transit,51B,51B,RockRidge - 3RUN
+218,1007540,College Av:Oak Grove Av (Opp. Claremont Mid. Sch.),-122.2519953,37.84572429999999,AC Transit,51B,51B,RockRidge - 3RUN
+219,1007550,College Av:Rockridge BART Station,-122.25168670000001,37.844550399999996,AC Transit,51B,51B,RockRidge - 3RUN
+220,1031880,Miles Av:College Av,-122.2521622,37.84518679999999,AC Transit,51B,51B,RockRidge - 3RUN
+221,9903430,College Av:Alcatraz Av,-122.25256680000001,37.8509305,AC Transit,51B,51B,RockRidge - 3RUN
+222,9903590,University Av:California St,-122.2794554,37.8706182,AC Transit,51B,51B,RockRidge - 3RUN
+223,9903600,Durant Av:Telegragh Av,-122.2586398,37.8678393,AC Transit,51B,51B,RockRidge - 3RUN
+224,9903610,College Av:Parker St,-122.25375079999999,37.8633574,AC Transit,51B,51B,RockRidge - 3RUN
+225,9903630,Durant Av:Ellsworth St,-122.2632173,37.8672006,AC Transit,51B,51B,RockRidge - 3RUN
+226,9903710,Durant Av:Dana St,-122.2608438,37.8674914,AC Transit,51B,51B,RockRidge - 3RUN
+227,9903740,University Av:Bonar St,-122.28696509999999,37.8696542,AC Transit,51B,51B,RockRidge - 3RUN
+228,9904470,Durant Av:Shattuck Av,-122.26715120000001,37.866695,AC Transit,51B,51B,RockRidge - 3RUN

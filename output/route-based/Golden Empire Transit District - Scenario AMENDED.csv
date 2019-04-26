@@ -1,0 +1,25 @@
+,stop_id,stop_name,stop_lon,stop_lat,agency,route_id,route_short_name,route_long_name
+0,11,University & Mt Vernon,-118.96823899999998,35.405031,Golden Empire Transit District,21,21,CSUB/Bakersfield College
+1,92,California & Business Center Drive,-119.060938,35.355587,Golden Empire Transit District,21,21,CSUB/Bakersfield College
+2,93,California & Mohawk,-119.05960400000001,35.361481,Golden Empire Transit District,21,21,CSUB/Bakersfield College
+3,95,California & Chester Lane,-119.04726699999999,35.367283,Golden Empire Transit District,21,21,CSUB/Bakersfield College
+4,96,California & Oak,-119.03800600000001,35.368496,Golden Empire Transit District,21,21,CSUB/Bakersfield College
+5,370,East California & Beverly,-118.97528700000001,35.368401,Golden Empire Transit District,21,21,CSUB/Bakersfield College
+6,656,Stockdale & Town & Country,-119.09543700000002,35.354267,Golden Empire Transit District,21,21,CSUB/Bakersfield College
+7,752,Mt Vernon & Columbus,-118.967395,35.398045,Golden Empire Transit District,21,21,CSUB/Bakersfield College
+8,782,California & G,-119.02213,35.368347,Golden Empire Transit District,21,21,CSUB/Bakersfield College
+9,783,California & Chester Avenue,-119.01830700000001,35.368328000000005,Golden Empire Transit District,21,21,CSUB/Bakersfield College
+10,784,California & P,-119.01137800000001,35.368305,Golden Empire Transit District,21,21,CSUB/Bakersfield College
+11,785,East California & Union,-119.00196799999999,35.368303999999995,Golden Empire Transit District,21,21,CSUB/Bakersfield College
+12,786,East California & King,-118.99363400000001,35.368323,Golden Empire Transit District,21,21,CSUB/Bakersfield College
+13,787,East California & Martin Luther King,-118.984958,35.368352,Golden Empire Transit District,21,21,CSUB/Bakersfield College
+14,788,Mt Vernon & East California,-118.96738,35.369234999999996,Golden Empire Transit District,21,21,CSUB/Bakersfield College
+15,790,Mt Vernon & Niles,-118.967327,35.377046,Golden Empire Transit District,21,21,CSUB/Bakersfield College
+16,792,Mt Vernon & Flower,-118.967322,35.381287,Golden Empire Transit District,21,21,CSUB/Bakersfield College
+17,796,Mt Vernon & Del Amo,-118.96734099999999,35.391401,Golden Empire Transit District,21,21,CSUB/Bakersfield College
+18,839,CSUB,-119.10413799999999,35.351738,Golden Empire Transit District,21,21,CSUB/Bakersfield College
+19,840,Stockdale & El Rio,-119.081979,35.354224,Golden Empire Transit District,21,21,CSUB/Bakersfield College
+20,841,Stockdale & Ashe,-119.07308,35.354185,Golden Empire Transit District,21,21,CSUB/Bakersfield College
+21,1028,California & Easton,-119.05406299999999,35.365338,Golden Empire Transit District,21,21,CSUB/Bakersfield College
+22,1041,Bakersfield College,-118.971773,35.411414,Golden Empire Transit District,21,21,CSUB/Bakersfield College
+23,1092,Homeless Center,-118.978771,35.372721000000006,Golden Empire Transit District,21,21,CSUB/Bakersfield College

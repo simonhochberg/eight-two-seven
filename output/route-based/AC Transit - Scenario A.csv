@@ -1,0 +1,985 @@
+,stop_id,stop_name,stop_lon,stop_lat,agency,route_id,route_short_name,route_long_name
+0,1000430,12th St:Broadway (12th St BART Station),-122.272624,37.803168,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+1,1000460,12th St:Fallon St,-122.26287909999999,37.7994386,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+2,1000490,12th St:Jackson St,-122.2663291,37.8007816,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+3,1000520,12th St:Oak St,-122.264052,37.7999002,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+4,1008260,International Blvd:104th Av,-122.16723229999998,37.7402318,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+5,1008280,International Blvd:10th Av,-122.249521,37.7920156,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+6,1008300,International Blvd:14th Av,-122.24577679999999,37.7893347,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+7,1008320,International Blvd:17th Av,-122.2429465,37.7877086,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+8,1008350,International Blvd:19th Av,-122.24084180000001,37.786442,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+9,1008370,International Blvd:21st Av,-122.23875220000001,37.78519910000001,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+10,1008400,International Blvd:23rd Av,-122.2357087,37.783376000000004,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+11,1008430,International Blvd:29th Av,-122.2288719,37.779281,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+12,1008490,International Blvd:38th Av,-122.2197652,37.774832200000006,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+13,1008500,International Blvd:40th Av,-122.21780420000002,37.7738822,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+14,1008530,International Blvd:46th Av,-122.21136070000001,37.7708177,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+15,1008680,International Blvd:69th Av,-122.1901355,37.760772700000004,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+16,1008830,International Blvd:90th Av,-122.17415030000001,37.749510799999996,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+17,1008860,International Blvd:98th Av,-122.170701,37.744818,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+18,1008900,International Blvd:Fruitvale Av,-122.22566210000001,37.7776403,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+19,1008920,International Blvd:Havenscourt Blvd,-122.19255859999998,37.761924,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+20,1008980,International Blvd:Mitchell St,-122.23095670000001,37.780530600000006,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+21,1008990,International Blvd:Seminary Av,-122.1993023,37.765134,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+22,1030630,International Blvd:8th Av,-122.25158490000001,37.7938374,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+23,1030650,International Blvd:5th Av,-122.2540341,37.7960066,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+24,1030720,International Blvd:73rd Av,-122.1875159,37.759539600000004,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+25,1030730,International Blvd:High St,-122.21506240000001,37.7725759,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+26,1030740,12th St:Webster St,-122.2699966,37.802197799999995,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+27,1030750,12th St:Harrison St,-122.26877069999999,37.8017305,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+28,1030820,International Blvd:34th Av,-122.2241335,37.7768869,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+29,1032180,International Blvd:2nd Av,-122.25616459999999,37.797917299999995,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+30,1500850,Davis St:Hays St,-122.1582976,37.7250953,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+31,1501370,E 14th St:Broadmoor Blvd,-122.16325049999999,37.7348028,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+32,1501420,E 14th St:Dutton Av,-122.1605648,37.7310924,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+33,1502820,San Leandro BART Station,-122.16039540000001,37.7216123,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+34,9904390,E 14th St:Haas Av,-122.1587608,37.728741799999995,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+35,9904430,11th St:Clay St,-122.2753054,37.803308799999996,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+36,9904630,International Blvd:100th Av,-122.1693947,37.7430658,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+37,9904640,International Blvd:94th Av,-122.17269830000001,37.7475486,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+38,9904650,International Blvd:Auseon Av,-122.1761321,37.7522196,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+39,9904660,International Blvd:82nd Av,-122.1791283,37.7555283,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+40,9904670,International Blvd:74th Av,-122.1859895,37.7588083,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+41,9904680,International Blvd:62th Av,-122.1974044,37.7642237,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+42,9904690,International Blvd:57th Av,-122.20195290000001,37.7663706,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+43,9904700,International Blvd:53rd Av,-122.2064855,37.7685095,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+44,1000350,11th St:Broadway (12th St BART Station),-122.2719002,37.801842799999996,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+45,1008290,International Blvd:10th Av,-122.2499037,37.7921598,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+46,1008310,International Blvd:14th Av,-122.24591459999999,37.7891969,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+47,1008330,International Blvd:17th Av,-122.242865,37.7874456,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+48,1008340,International Blvd:19th Av,-122.24085729999999,37.7862474,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+49,1008380,International Blvd:21st Av,-122.23914009999999,37.7852167,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+50,1008420,International Blvd:26th Av,-122.2328113,37.7813836,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+51,1008440,International Blvd:29th Av,-122.2286939,37.778955200000006,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+52,1008450,International Blvd:2nd Av,-122.2564967,37.7979668,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+53,1008480,International Blvd:38th Av,-122.21976869999999,37.774589299999995,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+54,1008520,International Blvd:46th Av,-122.21197920000002,37.770872,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+55,1008690,International Blvd:69th Av,-122.1904777,37.76069570000001,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+56,1008790,International Blvd:85th Av,-122.17731540000001,37.753393700000004,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+57,1008890,International Blvd:Fruitvale Av,-122.22604040000002,37.7775826,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+58,1008910,International Blvd:Havenscourt Blvd,-122.1926096,37.76170379999999,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+59,1008930,International Blvd:Hegenberger Rd,-122.18636609999999,37.7587268,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+60,1030640,International Blvd:8th Av,-122.2511831,37.7933064,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+61,1030660,International Blvd:5th Av,-122.2536818,37.7955047,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+62,1030690,11th St:Madison St,-122.265574,37.799455200000004,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+63,1030710,International Blvd:Seminary Av,-122.1993054,37.7648842,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+64,1030760,11th St:Harrison St,-122.26858759999999,37.8006373,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+65,1030770,International Blvd:98th Av,-122.1704541,37.7440343,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+66,1030810,International Blvd:34th Av,-122.22355049999999,37.7764003,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+67,1031640,International Blvd:90th Av,-122.174282,37.74923629999999,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+68,1501340,E 14th St:Best Av (Dutton Av),-122.16030890000002,37.7304857,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+69,1502810,San Leandro BART Station,-122.1605105,37.7218008,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+70,9902750,International Blvd:23rd Av,-122.23567290000001,37.7831365,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+71,9904400,E 14th St:Belleview Dr,-122.16239679999998,37.733288,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+72,9904410,E 14th St:Lorraine Blvd,-122.1591331,37.728861,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+73,9904430,11th St:Clay St,-122.2753054,37.803308799999996,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+74,9904510,International Blvd:High St,-122.215216,37.7723945,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+75,9904530,International Blvd:57th Av,-122.201388,37.765871000000004,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+76,9904540,International Blvd:62nd Av,-122.1969993,37.7637896,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+77,9904550,International Blvd:81st Av,-122.1803666,37.7558964,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+78,9904560,International Blvd:87th Av,-122.175953,37.7514667,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+79,9904570,International Blvd:94th Av,-122.17256979999999,37.746911100000005,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+80,9904580,International Blvd:101st Av,-122.16882009999999,37.741848499999996,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+81,9904590,International Blvd:105th Av,-122.16696270000001,37.7393331,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+82,9904600,International Blvd:107th Av,-122.16583329999999,37.737814,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+83,9904620,Davis St:Clarke St,-122.1589083,37.725047100000005,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+84,9904710,International Blvd:53rd Av,-122.206272,37.7681278,AC Transit,1,1,San Leandro Bart\ Dtn. Oakland
+85,0800700,C St:Mission Blvd,-122.08305990000001,37.670917700000004,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+86,0802020,Hayward BART Station,-122.08718049999999,37.6702385,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+87,0803450,Mission Blvd:Grace St,-122.0872452,37.6749875,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+88,0803600,Mission Blvd:Sunset Blvd,-122.090728,37.677816299999996,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+89,1500770,Coelho Dr:Mooney Av,-122.1247497,37.6983919,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+90,1501240,E 14th St:141st Av,-122.1392003,37.7128407,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+91,1501260,E 14th St:143rd Av,-122.1378588,37.7119138,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+92,1501280,E 14th St:145th Av,-122.1358085,37.7104757,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+93,1501290,E 14th St:148th Av,-122.13287,37.70843120000001,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+94,1501310,E 14th St:150th Av,-122.1295252,37.7060896,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+95,1501350,E 14th St:Blossom Way,-122.14634050000001,37.7180348,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+96,1501400,E 14th St:Dolores Av,-122.1531521,37.723104600000006,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+97,1501460,E 14th St:Joaquin Av,-122.15468100000001,37.7242181,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+98,1501500,E 14th St:San Leandro Blvd,-122.14283059999998,37.7155128,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+99,1502800,San Leandro BART Station,-122.16058000000001,37.7219385,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+100,1504170,E 14th St:Ashland Av,-122.11900659999999,37.698644200000004,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+101,1504220,Bay Fair BART Station,-122.12571770000001,37.6967002,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+102,9800020,159th Av:E 14th St,-122.12119740000001,37.69934179999999,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+103,9800720,Coelho Dr:Mooney Av,-122.1245125,37.698266,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+104,9800840,E 14th St:153rd Av,-122.12630049999999,37.7038262,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+105,9800870,E 14th St:163rd Av,-122.1151527,37.6960081,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+106,9800890,E 14th St:164th Av,-122.1137006,37.6949557,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+107,9800910,E 14th St:165th Av,-122.11204450000001,37.69381129999999,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+108,9800920,E 14th St:167th Av,-122.11015729999998,37.6925011,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+109,9800930,E 14th St:170th Av,-122.1076029,37.6907148,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+110,9800970,E 14th St:Bayfair Dr,-122.1239311,37.7021643,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+111,9802210,Mission Blvd:Blossom Way,-122.09578570000001,37.6818706,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+112,9802240,Mission Blvd:Cherry Way,-122.0974758,37.68322070000001,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+113,9802250,Mission Blvd:E Lewelling Blvd,-122.10405520000002,37.688213,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+114,9802270,Mission Blvd:Grove Way,-122.09419229999999,37.6805736,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+115,9802290,Mission Blvd:Medford Av,-122.09957309999999,37.68493839999999,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+116,9902120,E 14th St:Estabrook St,-122.148246,37.7194506,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+117,9902540,Main St:B St,-122.0829632,37.6732368,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+118,9904620,Davis St:Clarke St,-122.1589083,37.725047100000005,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+119,0800580,B St:Mission Blvd,-122.08439309999999,37.671949700000006,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+120,0802020,Hayward BART Station,-122.08718049999999,37.6702385,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+121,0803460,Mission Blvd:Grace St,-122.08744850000001,37.6749088,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+122,0803610,Mission Blvd:Sunset Blvd,-122.0908812,37.6776899,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+123,1500610,Bayfair BART Station,-122.1258847,37.696772499999994,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+124,1500770,Coelho Dr:Mooney Av,-122.1247497,37.6983919,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+125,1500850,Davis St:Hays St,-122.1582976,37.7250953,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+126,1501250,E 14th St:141st Av,-122.1391875,37.712529499999995,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+127,1501270,E 14th St:144th Av,-122.13645490000002,37.7106199,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+128,1501300,E 14th St:148th Av,-122.13381310000001,37.7087857,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+129,1501380,E 14th St:Castro St,-122.15016979999999,37.7206773,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+130,1501390,E 14th St:Cornwall Way,-122.1459622,37.7174958,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+131,1501440,E 14th St:Fairmont Dr,-122.12640149999999,37.7035979,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+132,1501480,E 14th St:Parrott St,-122.15254499999999,37.722487799999996,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+133,1501490,E 14th St:San Leandro Blvd,-122.14326129999999,37.7154838,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+134,1501510,E 14th St:San Leandro Hospital,-122.1416721,37.7143257,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+135,1501570,E 14th St:W Estudillo Av,-122.1563666,37.72521,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+136,1502800,San Leandro BART Station,-122.16058000000001,37.7219385,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+137,1504160,E 14th St:159th Av,-122.12067739999999,37.699597499999996,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+138,1504180,E 14th St:Bayfair Dr,-122.12344170000001,37.701508200000006,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+139,1504200,E 14th St:W Juana Av,-122.1541088,37.723612599999996,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+140,1504510,E 14th St:150th Av,-122.1290604,37.7054465,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+141,9800020,159th Av:E 14th St,-122.12119740000001,37.69934179999999,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+142,9800720,Coelho Dr:Mooney Av,-122.1245125,37.698266,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+143,9800860,E 14th St:163rd Av,-122.1152903,37.6957951,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+144,9800900,E 14th St:165th Av,-122.11175859999999,37.6932749,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+145,9800940,E 14th St:170th Av,-122.10799540000002,37.6906611,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+146,9800950,E 14th St:Ashland Av,-122.1185814,37.698131700000005,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+147,9800980,E 14th St:Elgin St,-122.1096355,37.6918184,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+148,9802220,Mission Blvd:Blossom Way,-122.0960929,37.68177539999999,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+149,9802230,Mission Blvd:Cherry Way,-122.0976534,37.6830283,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+150,9802260,Mission Blvd:E Lewelling Blvd,-122.10464309999999,37.688328799999994,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+151,9802280,Mission Blvd:Grove Way,-122.0938139,37.6799282,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+152,9802300,Mission Blvd:Medford Av,-122.0991793,37.68424520000001,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+153,9902110,E 14th St:Estabrook St,-122.14786570000001,37.7189919,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+154,9904190,E 14th St:164th St,-122.1134737,37.6945188,AC Transit,10,10,San Leandro Bart\ Hayward Bart
+155,1000720,14th Av:E 21st St,-122.2401318,37.7936312,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+156,1000840,14th St:Adeline St,-122.2858639,37.809355700000005,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+157,1000870,14th St:Broadway (12th St BART Station),-122.271746,37.804446999999996,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+158,1000880,14th St:Brush St,-122.27924879999999,37.8073203,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+159,1000900,14th St:Clay St,-122.27335249999999,37.8050901,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+160,1000920,14th St:Filbert St,-122.28310259999998,37.8087472,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+161,1000950,14th St:Franklin St,-122.27019309999999,37.803832299999996,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+162,1000970,14th St:Harrison St,-122.2679187,37.8029564,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+163,1000980,14th St:Jackson St,-122.2654393,37.8019849,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+164,1001010,14th St:Mandela Pkwy,-122.2910108,37.8105938,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+165,1001030,14th St:Market St,-122.2811547,37.808164,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+166,1001050,14th St:Martin Luther King Jr Way,-122.2761605,37.806195100000004,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+167,1001080,14th St:Oak St,-122.26308440000001,37.801061,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+168,1001100,14th St:Poplar St,-122.2890561,37.81008189999999,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+169,1001220,1st Av:International Blvd,-122.25651210000001,37.7990607,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+170,1001490,23rd Av:E 24th St,-122.22917290000001,37.7906981,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+171,1001510,23rd Av:E 26th St,-122.22762720000001,37.7921312,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+172,1001520,23rd Av:E 27th St,-122.22668689999999,37.793465600000005,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+173,1001990,35th Av:International Blvd,-122.2229865,37.775888200000004,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+174,1002190,35th Av:Quigley St,-122.20262340000002,37.79248270000001,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+175,1002220,35th Av:Suter St,-122.2045348,37.791340500000004,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+176,1003530,7th St:Peralta St,-122.29794199999999,37.8061143,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+177,1003570,7th St:Willow St (Opp. U.S. Post Office),-122.3011504,37.8068258,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+178,1008490,International Blvd:38th Av,-122.2197652,37.774832200000006,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+179,1008500,International Blvd:40th Av,-122.21780420000002,37.7738822,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+180,1009080,E 18th St:10th Av,-122.2461477,37.7947701,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+181,1009090,E 18th St:12th Av,-122.2444953,37.7932974,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+182,1009120,E 18th St:14th Av,-122.24299440000001,37.7919719,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+183,1009130,E 18th St:3rd Av,-122.2523001,37.7997266,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+184,1009140,E 18th St:6th Av,-122.2494537,37.797692600000005,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+185,1009170,E 18th St:8th Av,-122.24778640000001,37.7962124,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+186,1009210,E 21st St:17th Av,-122.2385635,37.7927526,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+187,1009230,E 21st St:19th Av,-122.23648490000002,37.791494799999995,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+188,1009250,E 21st St:21st Av,-122.23437390000001,37.7902316,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+189,1009360,E 27th St:26th Av,-122.22252590000001,37.7914074,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+190,1009380,E 27th St:Fruitvale Av,-122.22039380000001,37.790552399999996,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+191,1011270,Fruitvale Av:School St,-122.21797079999999,37.7955895,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+192,1011300,Fruitvale BART Station,-122.2253693,37.7753346,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+193,1012590,High St:Brookdale Av,-122.20443059999998,37.7824058,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+194,1012610,High St:Carrington St,-122.2096185,37.7769551,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+195,1012650,High St:Culver St,-122.19929840000002,37.7851354,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+196,1012700,High St:International Blvd,-122.21471880000001,37.7725529,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+197,1012730,High St:Fleming Av,-122.20193400000001,37.783772799999994,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+198,1012820,High St:MacArthur Blvd,-122.19541729999999,37.7871415,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+199,1012870,High St:Porter St,-122.19721059999999,37.7862026,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+200,1012880,High St:San Carlos Av (San Carlos Walk),-122.2081189,37.778548799999996,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+201,1012900,High St:Santa Rita St,-122.2068098,37.7799135,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+202,1013670,Lakeshore Av:E 18th St,-122.2544202,37.8002752,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+203,1014410,MacArthur Blvd:38th Av,-122.19809099999999,37.7908374,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+204,1015100,MacArthur Blvd:Maybelle Av,-122.19606670000002,37.788598799999995,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+205,1018630,School St:Curran Av,-122.21002299999999,37.7935683,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+206,1018650,School St:Laurel Av,-122.2079991,37.792669000000004,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+207,1021190,West Oakland BART Station,-122.29528590000001,37.8046987,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+208,1030140,14th St:Willow St,-122.29629440000001,37.812442299999994,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+209,1030150,14th St:Center St,-122.2927139,37.8109956,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+210,1031370,Wood St:8th St,-122.3017935,37.8082239,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+211,1031420,Wood St:12th St,-122.29899270000001,37.811723,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+212,9902610,Fruitvale Av:Lynde St,-122.2196318,37.7913951,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+213,9902620,Fruitvale Av:Brookdale Av,-122.21882079999999,37.793439,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+214,9903130,23rd Av:E 23rd St,-122.2302176,37.790146899999996,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+215,9903700,High St:Foothill Blvd,-122.2122554,37.7744169,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+216,1000850,14th St:Adeline St,-122.2859598,37.809625700000005,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+217,1000860,14th St:Broadway (12th St BART Station),-122.2720121,37.8047472,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+218,1000890,14th St:Brush St,-122.27896809999999,37.80746370000001,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+219,1000910,14th St:Clay St,-122.2739084,37.80552,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+220,1000930,14th St:Filbert St,-122.28278700000001,37.808968,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+221,1000940,14th St:Franklin St,-122.26974150000001,37.8038709,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+222,1000960,14th St:Harrison St,-122.267375,37.802933,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+223,1001000,14th St:Mandela Pkwy,-122.2905885,37.810697999999995,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+224,1001020,14th St:Market St,-122.2813535,37.8086002,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+225,1001040,14th St:Martin Luther King Jr Way,-122.2758028,37.8062221,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+226,1001070,14th St:Oak St,-122.26318300000001,37.801271,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+227,1001090,14th St:Poplar St,-122.2890567,37.810340999999994,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+228,1001230,1st Av:International Blvd,-122.25696869999999,37.798959,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+229,1001380,23rd Av:22nd Av,-122.22764070000001,37.792342600000005,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+230,1001460,23rd Av:E 21st St,-122.2315763,37.788900299999995,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+231,1001470,23rd Av:E 22nd St,-122.23092920000002,37.7895898,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+232,1001500,23rd Av:E 24th St,-122.2290227,37.7908974,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+233,1001960,35th Av:Delaware St,-122.2024936,37.7928412,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+234,1002210,35th Av:Suter St,-122.20473799999999,37.791372700000004,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+235,1003440,7th St:Campbell St (United States Post Office),-122.29990579999999,37.806309399999996,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+236,1003540,7th St:Peralta St,-122.2984696,37.8059595,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+237,1008480,International Blvd:38th Av,-122.21976869999999,37.774589299999995,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+238,1009070,E 18th St:10th Av,-122.24585259999998,37.794667700000005,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+239,1009100,E 18th St:12th Av,-122.2442145,37.7932192,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+240,1009110,E 18th St:13th Av,-122.24336140000001,37.792462799999996,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+241,1009150,E 18th St:6th Av,-122.24913500000001,37.7975696,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+242,1009160,E 18th St:8th Av,-122.24784109999999,37.7964247,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+243,1009180,E 18th St:Athol Av,-122.25365559999999,37.8004071,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+244,1009190,E 18th St:Park Blvd,-122.25085200000001,37.7990995,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+245,1009220,E 21st St:17th Av,-122.2381101,37.7927161,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+246,1009240,E 21st St:19th Av,-122.2360304,37.791470399999994,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+247,1009260,E 21st St:21st Av,-122.2339159,37.790207099999996,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+248,1009370,E 27th St:26th Av,-122.22218670000001,37.791380100000005,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+249,1011300,Fruitvale BART Station,-122.2253693,37.7753346,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+250,1012600,High St:Brookdale Av,-122.2041969,37.7824266,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+251,1012620,High St:Carrington St,-122.2096233,37.7766979,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+252,1012640,High St:Congress Av,-122.2061794,37.780384600000005,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+253,1012660,High St:Culver St,-122.1992202,37.7849873,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+254,1012690,High St:International Blvd,-122.21451029999999,37.7725375,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+255,1012720,High St:Fleming Av,-122.2018562,37.7836366,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+256,1012860,High St:Porter St/MacArthur Blvd,-122.1969064,37.786183,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+257,1012890,High St:San Carlos Av,-122.20811929999999,37.778285499999996,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+258,1014420,MacArthur Blvd:39th Av,-122.196721,37.789578000000006,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+259,1015160,MacArthur Blvd:Patterson Av,-122.1981113,37.791104,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+260,1018620,School St:35th Av,-122.2056767,37.7911427,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+261,1018640,School St:Curran Av,-122.20998020000002,37.7936726,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+262,1018660,School St:Laurel Av,-122.20764540000002,37.79263529999999,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+263,1021190,West Oakland BART Station,-122.29528590000001,37.8046987,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+264,1021240,Wood St:12th St,-122.2989402,37.8120275,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+265,1030120,14th St:Willow St,-122.2964003,37.812678600000005,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+266,1030490,E 27th St:Fruitvale Av,-122.2203676,37.7906726,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+267,1031430,14th:Jackson St,-122.26548659999999,37.802201200000006,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+268,1031840,Wood St:8th St,-122.302168,37.8079104,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+269,1031850,14th St:Peralta St,-122.29371780000001,37.8113955,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+270,9902660,Fruitvale Av:School St,-122.2181865,37.795472600000004,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+271,9902670,Fruitvale Av:Brookdale Av,-122.2192138,37.7928813,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+272,9902680,Fruitvale Av:Lynde St,-122.2198324,37.7913383,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+273,9904360,High St:Foothill Blvd,-122.21126609999999,37.77501029999999,AC Transit,14,14,W. Oaklaand/ Fruitvale Bart
+274,1000410,11th St:Jefferson St,-122.27626299999999,37.80365820000001,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+275,1000430,12th St:Broadway (12th St BART Station),-122.272624,37.803168,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+276,1000460,12th St:Fallon St,-122.26287909999999,37.7994386,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+277,1000490,12th St:Jackson St,-122.2663291,37.8007816,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+278,1000520,12th St:Oak St,-122.264052,37.7999002,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+279,1001230,1st Av:International Blvd,-122.25696869999999,37.798959,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+280,1003280,73rd Av:Garfield Av,-122.175694,37.7666615,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+281,1005390,Bancroft Av:103rd Av,-122.15822539999999,37.7438614,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+282,1005410,Bancroft Av:106th Av,-122.1566497,37.7414108,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+283,1005500,Bancroft Av:73rd Av,-122.17638240000001,37.7661035,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+284,1005530,Bancroft Av:77th Av,-122.17449939999999,37.7641871,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+285,1005550,Bancroft Av:82nd Av,-122.170258,37.760041799999996,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+286,1005580,Bancroft Av:85th Av,-122.1684947,37.7576482,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+287,1005590,Bancroft Av:87th Av,-122.16704070000002,37.755686700000005,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+288,1005620,Bancroft Av:90th Av,-122.165416,37.753505700000005,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+289,1005630,Bancroft Av:94th Av,-122.16367930000001,37.751222399999996,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+290,1005660,Bancroft Av:96th Av,-122.1628638,37.75010820000001,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+291,1005680,Bancroft Av:98th Av,-122.16187269999999,37.7487926,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+292,1005700,Bancroft Av:99th Av,-122.15988130000001,37.7461162,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+293,1005730,Bancroft Av:Durant Av,-122.1551183,37.739283,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+294,1005800,Bancroft Av:Ritchie St,-122.17218799999999,37.7619532,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+295,1009520,Eastmont Transit Center,-122.1744125,37.769185,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+296,1010140,Foothill Blvd:11th Av,-122.24690430000001,37.79264379999999,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+297,1010150,Foothill Blvd:13th Av,-122.2451344,37.791229200000004,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+298,1010180,Foothill Blvd:16th Av,-122.24241200000002,37.789998,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+299,1010190,Foothill Blvd:18th Av,-122.2407503,37.788999600000004,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+300,1010210,Foothill Blvd:19th Av,-122.23926000000002,37.7881056,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+301,1010230,Foothill Blvd:21st Av,-122.23718079999999,37.786866100000005,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+302,1010240,Foothill Blvd:23rd Av,-122.23438090000002,37.7853885,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+303,1010270,Foothill Blvd:24th Av,-122.23185910000001,37.784818,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+304,1010290,Foothill Blvd:26th Av,-122.2294216,37.7846699,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+305,1010300,Foothill Blvd:27th Av,-122.2276983,37.784564399999994,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+306,1010330,Foothill Blvd:28th Av,-122.2253797,37.7844217,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+307,1010340,Foothill Blvd:2nd Av,-122.25428159999998,37.7992816,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+308,1010370,Foothill Blvd:35th Av,-122.2189874,37.782091799999996,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+309,1010380,Foothill Blvd:38th Av,-122.2165422,37.7790026,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+310,1010400,Foothill Blvd:3rd Av,-122.2535284,37.798491999999996,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+311,1010430,Foothill Blvd:42nd Av,-122.213342,37.7761669,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+312,1010450,Foothill Blvd:46th Av (Fremont High School),-122.20990520000001,37.7738708,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+313,1010460,Foothill Blvd:48th Av,-122.20748619999999,37.7727599,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+314,1010490,Foothill Blvd:5th Av,-122.25210159999999,37.797246200000004,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+315,1010500,Foothill Blvd:61st Av,-122.18763919999999,37.77127279999999,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+316,1010560,Foothill Blvd:68th Av,-122.17703049999999,37.769929299999994,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+317,1010570,Foothill Blvd:6th Av,-122.2510577,37.79631,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+318,1010580,Foothill Blvd:8th Av,-122.249385,37.794835600000006,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+319,1010620,Foothill Blvd:Cole St,-122.19846470000002,37.772704499999996,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+320,1010680,Foothill Blvd:Fruitvale Av,-122.2230325,37.78390770000001,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+321,1010710,Foothill Blvd:Havenscourt Blvd,-122.1815821,37.770464200000006,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+322,1010730,Foothill Blvd:High St,-122.2115453,37.7746476,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+323,1010740,Foothill Blvd:Laverne Av,-122.193591,37.7722523,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+324,1010780,Foothill Blvd:Trask St,-122.1963544,37.7727027,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+325,1010800,Foothill Blvd:Vicksburg Av,-122.2028004,37.7727202,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+326,1030740,12th St:Webster St,-122.2699966,37.802197799999995,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+327,1030750,12th St:Harrison St,-122.26877069999999,37.8017305,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+328,1032050,Foothill Blvd:64th Av,-122.1848629,37.770905299999995,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+329,1500280,Bancroft Av:141st Av,-122.13823329999998,37.7140662,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+330,1500310,Bancroft Av:146th Av,-122.13369569999999,37.7109109,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+331,1500340,Bancroft Av:Callan Av,-122.14829180000001,37.728374,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+332,1500360,Bancroft Av:Dolores Av,-122.14658500000002,37.724433399999995,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+333,1500380,Bancroft Av:Dutton Av,-122.1507926,37.7334944,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+334,1500420,Bancroft Av:Haas Av,-122.1492878,37.730667499999996,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+335,1500430,Bancroft Av:Jefferson Center School,-122.13562150000001,37.71225820000001,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+336,1500440,Bancroft Av:Joaquin Av,-122.14754199999999,37.726634600000004,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+337,1500470,Bancroft Av:Peters St,-122.1299916,37.7071657,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+338,1500480,Bancroft Av:San Leandro High School,-122.14261979999999,37.7172611,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+339,1500510,Bancroft Av:Sybil Av,-122.14551920000001,37.7220117,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+340,1500530,Bancroft Av:Victoria Cir,-122.1532273,37.736746000000004,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+341,1500590,Bay Fair BART Station,-122.12511709999998,37.6963317,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+342,1501310,E 14th St:150th Av,-122.1295252,37.7060896,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+343,9800720,Coelho Dr:Mooney Av,-122.1245125,37.698266,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+344,9800840,E 14th St:153rd Av,-122.12630049999999,37.7038262,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+345,9800970,E 14th St:Bayfair Dr,-122.1239311,37.7021643,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+346,9901920,E 14th St:159th Av,-122.1212503,37.70026729999999,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+347,9903480,12th:Clay St,-122.2748889,37.804171999999994,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+348,9903550,Foothill Blvd:Seminary Av,-122.19072990000001,37.771687299999996,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+349,1000350,11th St:Broadway (12th St BART Station),-122.2719002,37.801842799999996,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+350,1000370,11th St:Clay St,-122.274464,37.802963,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+351,1000410,11th St:Jefferson St,-122.27626299999999,37.80365820000001,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+352,1000680,14th Av:E 15th St,-122.24477579999999,37.7903198,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+353,1001210,1st Av Pl:International Blvd,-122.25670890000002,37.7987723,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+354,1003290,73rd Av:Garfield Av,-122.1756385,37.767082099999996,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+355,1005400,Bancroft Av:103rd Av,-122.1585453,37.743632299999994,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+356,1005420,Bancroft Av:109th Av,-122.1557467,37.739813700000006,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+357,1005510,Bancroft Av:73rd Av,-122.1766709,37.765436,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+358,1005540,Bancroft Av:77th Av,-122.17439040000001,37.763630400000004,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+359,1005560,Bancroft Av:82nd Av,-122.1704767,37.759710399999996,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+360,1005570,Bancroft Av:85th Av,-122.169018,37.7576974,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+361,1005600,Bancroft Av:87th Av,-122.1673112,37.755457899999996,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+362,1005610,Bancroft Av:90th Av,-122.16568319999999,37.753273,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+363,1005640,Bancroft Av:94th Av,-122.1641919,37.75123370000001,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+364,1005650,Bancroft Av:96th Av,-122.1631525,37.7498408,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+365,1005670,Bancroft Av:98th Av,-122.16221909999999,37.7485846,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+366,1005690,Bancroft Av:99th Av,-122.1602903,37.7459755,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+367,1005780,Bancroft Av:Link St (Near 106th Av),-122.15725049999999,37.7418201,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+368,1005790,Bancroft Av:Ritchie St,-122.17289369999999,37.7621451,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+369,1009010,E 15th St:11th Av,-122.2480817,37.7920395,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+370,1009020,E 15th St:13th Av,-122.2464202,37.7905821,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+371,1009030,E 15th St:3rd Av,-122.25472020000001,37.7979136,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+372,1009040,E 15th St:5th Av,-122.2530543,37.7964477,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+373,1009050,E 15th St:7th Av,-122.2514007,37.7949777,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+374,1009060,E 15th St:9th Av,-122.2494949,37.7932921,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+375,1009520,Eastmont Transit Center,-122.1744125,37.769185,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+376,1009550,Eastmont Transit Center,-122.1740223,37.7687729,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+377,1010170,Foothill Blvd:16th Av,-122.2428085,37.7900279,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+378,1010200,Foothill Blvd:18th Av,-122.2407145,37.7887804,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+379,1010220,Foothill Blvd:20th Av (Roosevelt Middle School),-122.23858940000001,37.787501500000005,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+380,1010250,Foothill Blvd:23rd Av,-122.2343242,37.7851732,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+381,1010260,Foothill Blvd:24th Av,-122.23254779999999,37.7847164,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+382,1010280,Foothill Blvd:25th Av,-122.2304534,37.784591999999996,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+383,1010310,Foothill Blvd:27th Av,-122.228175,37.784451000000004,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+384,1010320,Foothill Blvd:28th Av,-122.2257652,37.7842971,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+385,1010360,Foothill Blvd:35th Av,-122.21909209999998,37.7817881,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+386,1010390,Foothill Blvd:38th Av,-122.2168437,37.779045399999994,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+387,1010420,Foothill Blvd:41st Av,-122.21401750000001,37.7765203,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+388,1010440,Foothill Blvd:46th Av (Fremont High School),-122.20975790000001,37.773619000000004,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+389,1010470,Foothill Blvd:50th Av,-122.2068023,37.772577899999995,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+390,1010480,Foothill Blvd:55th Av,-122.1962341,37.7725486,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+391,1010590,Foothill Blvd:Avenal Av,-122.19320420000001,37.77201710000001,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+392,1010610,Foothill Blvd:Church St,-122.17694309999999,37.7697066,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+393,1010630,Foothill Blvd:Cole St,-122.1986973,37.7725528,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+394,1010660,Foothill Blvd:Eastmont Transit Center,-122.17394650000001,37.769263200000005,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+395,1010670,Foothill Blvd:Fruitvale Av,-122.22251509999998,37.7835838,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+396,1010700,Foothill Blvd:Havenscourt Blvd,-122.18149709999999,37.7702967,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+397,1010720,Foothill Blvd:High St,-122.2120726,37.774793700000004,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+398,1010790,Foothill Blvd:Vicksburg Av,-122.20312949999999,37.7725657,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+399,1030690,11th St:Madison St,-122.265574,37.799455200000004,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+400,1030760,11th St:Harrison St,-122.26858759999999,37.8006373,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+401,1032040,Foothill Blvd:61st Av,-122.18769420000001,37.771120399999994,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+402,1032060,Foothill Blvd:64th Av,-122.18420330000001,37.77065820000001,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+403,1500250,14341 Bancroft Av (Opp. Jefferson Center School),-122.13604879999998,37.712366700000004,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+404,1500290,Bancroft Av:141st Av,-122.1383124,37.7139683,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+405,1500300,Bancroft Av:146th Av,-122.1337092,37.7107324,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+406,1500320,Bancroft Av:148th Av,-122.1320024,37.7095421,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+407,1500330,Bancroft Av:Callan Av,-122.14846059999999,37.7282589,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+408,1500350,Bancroft Av:Dennis Av (Nazarene Church),-122.1305547,37.7082828,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+409,1500370,Bancroft Av:Dolores Av,-122.1468564,37.724570299999996,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+410,1500390,Bancroft Av:Dutton Av,-122.1516288,37.734258200000006,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+411,1500400,Bancroft Av:Elsie Av,-122.14603799999999,37.722671999999996,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+412,1500410,Bancroft Av:Haas Av,-122.1495815,37.7308536,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+413,1500460,Bancroft Av:Mc Kinley Ct,-122.14475890000001,37.7197231,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+414,1500490,Bancroft Av:San Leandro High School,-122.14314070000002,37.7174606,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+415,1500500,Bancroft Av:Sybil Av,-122.1454983,37.7214195,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+416,1500520,Bancroft Av:Victoria Cir,-122.1533533,37.7365936,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+417,1500590,Bay Fair BART Station,-122.12511709999998,37.6963317,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+418,1500770,Coelho Dr:Mooney Av,-122.1247497,37.6983919,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+419,1501440,E 14th St:Fairmont Dr,-122.12640149999999,37.7035979,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+420,1504180,E 14th St:Bayfair Dr,-122.12344170000001,37.701508200000006,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+421,1504190,Bancroft Av:Estudillo Av,-122.1478824,37.7269268,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+422,1504510,E 14th St:150th Av,-122.1290604,37.7054465,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+423,9800020,159th Av:E 14th St,-122.12119740000001,37.69934179999999,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+424,9903540,Foothill Blvd:Seminary Av,-122.1899439,37.7714652,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+425,9905790,Bancroft Av:136th Av,-122.14075530000001,37.715739500000005,AC Transit,40,40,Dtn. Oakland\ Eastmont T.C.\ Bayfair Bart
+426,0100470,Broadway:Tilden Way,-122.2351626,37.7674598,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+427,0103150,Santa Clara Av:8th St,-122.2725943,37.7733026,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+428,0103190,Santa Clara Av:Bay St,-122.26492040000001,37.77307570000001,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+429,0103200,Santa Clara Av:Broadway,-122.23858200000001,37.76368,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+430,0103230,Santa Clara Av:Chestnut St,-122.2517608,37.7697276,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+431,0103270,Santa Clara Av:Grand St,-122.25602649999999,37.7715518,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+432,0103340,Santa Clara Av:Park St,-122.24169199999999,37.765284,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+433,0103370,Santa Clara Av:Stanton St,-122.2598869,37.7729128,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+434,0103430,Santa Clara Av:Willow St,-122.24890409999999,37.768483200000006,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+435,0103830,Webster St:Lincoln Av,-122.27664509999998,37.7754907,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+436,0104310,Webster St:Santa Clara Av,-122.2767112,37.7736109,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+437,0104460,Broadway:Blanding Av,-122.2342222,37.7685902,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+438,0104600,Webster St:Atlantic Av,-122.27636580000001,37.780202100000004,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+439,0104800,Webster St:Willie Stargell Av,-122.2763881,37.7831694,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+440,1004130,8th St:Broadway,-122.27347920000001,37.8001701,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+441,1004140,8th St:Harrison St,-122.2705469,37.7990581,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+442,1006350,Broadway:13th St (12th St BART Station),-122.27133799999999,37.80384779999999,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+443,1006450,Broadway:20th St (19th St BART Station),-122.26793899999998,37.809324,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+444,1006530,Broadway:28th St,-122.26343590000002,37.8164929,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+445,1006640,Broadway:40th St,-122.2566713,37.827341,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+446,1006780,Broadway:Grand Av,-122.2663808,37.8117988,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+447,1006820,Broadway:Piedmont Av,-122.260797,37.820723,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+448,1007440,College Av:Broadway,-122.25121599999999,37.836855,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+449,1007500,College Av:Lawton Av,-122.25153829999999,37.8427909,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+450,1007520,College Av:Manila Av,-122.25126100000001,37.840021,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+451,1011370,Fruitvale BART Station,-122.22456869999999,37.7750001,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+452,1031610,Broadway:W MacArthur Blvd,-122.25817409999999,37.824915999999995,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+453,1031890,Keith Av:College Av,-122.2514328,37.8440961,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+454,9902170,Broadway:Mather St,-122.25409979999999,37.831499,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+455,9903220,Santa Clara Av:Walnut St,-122.24648400000001,37.767415899999996,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+456,9903250,Santa Clara Av:Oak St,-122.2436002,37.7661675,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+457,9903260,Santa Clara Av:Morton St,-122.2623761,37.772979,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+458,9903280,Santa Clara Av:Mozart St,-122.2688652,37.7732031,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+459,9903290,Webster St:Buena Vista Av,-122.2765358,37.7776416,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+460,9903380,Broadway:30th St,-122.2620313,37.8188484,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+461,9903390,Broadway:Kaiser Hospital Entrance,-122.2590169,37.823541999999996,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+462,9903400,Broadway:Pleasant Valley Av,-122.2519889,37.8346865,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+463,9903490,Broadway:10th St,-122.27263119999999,37.801799100000004,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+464,9905350,Broadway:17th St (19th St BART Station),-122.26947679999999,37.806894899999996,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+465,0100340,Blanding Av:Broadway,-122.23376999999999,37.7685807,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+466,0100460,Broadway:Santa Clara Av,-122.23806189999999,37.763731,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+467,0103140,Santa Clara Av:8th St,-122.2728666,37.7731592,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+468,0103180,Santa Clara Av:Bay St,-122.26477240000001,37.772878999999996,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+469,0103220,Santa Clara Av:Caroline St,-122.2682168,37.7730218,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+470,0103280,Santa Clara Av:Grand St,-122.25631680000001,37.7715369,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+471,0103330,Santa Clara Av:Oak St,-122.2437945,37.766038,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+472,0103350,Santa Clara Av:Park St,-122.242085,37.765368,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+473,0103360,Santa Clara Av:Stanton St,-122.25978810000001,37.7727734,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+474,0103380,Santa Clara Av:Walnut St,-122.24633359999999,37.7671924,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+475,0103420,Santa Clara Av:Webster St,-122.27643559999999,37.773271799999996,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+476,0103790,Webster St:Ralph Appezzato Memorial Pkwy,-122.2766923,37.779082200000005,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+477,0103800,Webster St:Buena Vista Av,-122.2767695,37.7770346,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+478,0104270,Webster St:Lincoln Av,-122.2768192,37.7748926,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+479,0104790,Webster St:Willie Stargell Av,-122.27677,37.7828596,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+480,1003480,7th St:Franklin St,-122.27317659999999,37.7990139,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+481,1006270,Broadway:Mosswood Park,-122.25968,37.822987,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+482,1006310,Broadway:12th St (12th St BART Station),-122.272065,37.803051,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+483,1006540,Broadway:28th St,-122.2639233,37.8162277,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+484,1006650,Broadway:42nd St (Oakland Technical High School),-122.2544506,37.831387299999996,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+485,1006860,Broadway:W Grand Av,-122.26704409999999,37.8111752,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+486,1006880,Broadway:W MacArthur Blvd,-122.2589821,37.824130100000005,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+487,1007430,College Av:Broadway,-122.251347,37.836724,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+488,1011370,Fruitvale BART Station,-122.22456869999999,37.7750001,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+489,1030970,Broadway:Thomas L Berkley Way (20th St),-122.26858689999999,37.8085852,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+490,1031130,College Av:Miles Av,-122.25196629999999,37.8445417,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+491,9901580,Broadway:25th St,-122.265351,37.813968700000004,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+492,9902070,Broadway:17th St (19th St BART Station),-122.2700784,37.8063229,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+493,9903210,Santa Clara Av:Chestnut St,-122.25159369999999,37.769484000000006,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+494,9903230,Santa Clara Av:Everett St,-122.24039409999999,37.7644655,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+495,9903240,Broadway:Eagle Av,-122.2353417,37.7669756,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+496,9903270,Santa Clara Av:Morton St,-122.26185900000002,37.772816299999995,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+497,9903300,Santa Clara Av:Willow St,-122.24889879999999,37.768304799999996,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+498,9903440,College Av:Manila Av,-122.2513707,37.8397473,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+499,9903450,College Av:Lawton Av,-122.2516226,37.841926799999996,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+500,9903460,Broadway:40th St,-122.2571028,37.8271864,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+501,9903500,Broadway:9th St,-122.2733132,37.8011974,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+502,9903930,Broadway:30th St,-122.26260309999999,37.818394700000006,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+503,9905360,Broadway:51st St,-122.25227690000001,37.8349117,AC Transit,51A,51A,Oakland\ Alameda\ Fruitvale Bart
+504,0301120,Bancroft Way:College Av,-122.25512920000001,37.869294000000004,AC Transit,51B,51B,RockRidge - 3RUN
+505,0301130,Bancroft Way:Dana St,-122.2619131,37.86845770000001,AC Transit,51B,51B,RockRidge - 3RUN
+506,0301170,Bancroft Way:Telegraph Av,-122.25990890000001,37.86866,AC Transit,51B,51B,RockRidge - 3RUN
+507,0301660,College Av:Ashby Av,-122.2529884,37.85728710000001,AC Transit,51B,51B,RockRidge - 3RUN
+508,0301700,College Av:Derby St,-122.25348229999999,37.8620271,AC Transit,51B,51B,RockRidge - 3RUN
+509,0301730,College Av:Haste St,-122.25404499999999,37.866775,AC Transit,51B,51B,RockRidge - 3RUN
+510,0301760,College Av:Parker St,-122.2537122,37.8641769,AC Transit,51B,51B,RockRidge - 3RUN
+511,0301770,College Av:Russell St,-122.25314499999999,37.8588152,AC Transit,51B,51B,RockRidge - 3RUN
+512,0301820,College Av:Woolsey St,-122.25270259999998,37.8541628,AC Transit,51B,51B,RockRidge - 3RUN
+513,0304730,Seawall Dr:University Av,-122.31727849999999,37.8628126,AC Transit,51B,51B,RockRidge - 3RUN
+514,0305760,University Av:3rd St,-122.30067700000001,37.867275,AC Transit,51B,51B,RockRidge - 3RUN
+515,0305770,University Av:4th St,-122.29973030000001,37.8677265,AC Transit,51B,51B,RockRidge - 3RUN
+516,0305800,University Av:6th St,-122.2974137,37.86815670000001,AC Transit,51B,51B,RockRidge - 3RUN
+517,0305810,University Av:9th St,-122.29430500000001,37.868790999999995,AC Transit,51B,51B,RockRidge - 3RUN
+518,0305860,University Av:Bait Shop,-122.3138199,37.8638342,AC Transit,51B,51B,RockRidge - 3RUN
+519,0305880,University Av:Bonar St,-122.2874175,37.8698362,AC Transit,51B,51B,RockRidge - 3RUN
+520,0305940,University Av:Grant St,-122.27517399999999,37.8714122,AC Transit,51B,51B,RockRidge - 3RUN
+521,0305950,University Av:Marina Blvd,-122.31153729999998,37.864764799999996,AC Transit,51B,51B,RockRidge - 3RUN
+522,0305980,University Av:Martin Luther King Jr Way,-122.27287179999999,37.8717,AC Transit,51B,51B,RockRidge - 3RUN
+523,0306040,University Av:Sacramento St,-122.28162730000001,37.8705864,AC Transit,51B,51B,RockRidge - 3RUN
+524,0306090,University Av:W Frontage Rd,-122.3060351,37.8663995,AC Transit,51B,51B,RockRidge - 3RUN
+525,0306410,University Av:San Pablo Av,-122.29254409999999,37.869114,AC Transit,51B,51B,RockRidge - 3RUN
+526,0306530,Bancroft Way:Ellsworth St,-122.26408329999998,37.8681685,AC Transit,51B,51B,RockRidge - 3RUN
+527,0306650,University Av:Shattuck Av,-122.268776,37.8722013,AC Transit,51B,51B,RockRidge - 3RUN
+528,1007460,College Av:Chabot Rd,-122.25196969999999,37.847031799999996,AC Transit,51B,51B,RockRidge - 3RUN
+529,1007550,College Av:Rockridge BART Station,-122.25168670000001,37.844550399999996,AC Transit,51B,51B,RockRidge - 3RUN
+530,9903410,College Av:Claremont Av,-122.2523076,37.8500623,AC Transit,51B,51B,RockRidge - 3RUN
+531,9903420,College Av:Alcatraz Av,-122.2523643,37.851618200000004,AC Transit,51B,51B,RockRidge - 3RUN
+532,9903580,University Av:Acton St,-122.2846543,37.8701805,AC Transit,51B,51B,RockRidge - 3RUN
+533,9903620,University Av:California St,-122.28027649999999,37.870745299999996,AC Transit,51B,51B,RockRidge - 3RUN
+534,9905380,Shattuck Av:Allston Way (Transit Hub),-122.26770060000001,37.86911920000001,AC Transit,51B,51B,RockRidge - 3RUN
+535,0301670,College Av:Ashby Av,-122.25311459999999,37.85682429999999,AC Transit,51B,51B,RockRidge - 3RUN
+536,0301690,College Av:Derby St,-122.2535971,37.8618959,AC Transit,51B,51B,RockRidge - 3RUN
+537,0301740,College Av:Haste St,-122.2542,37.866707299999995,AC Transit,51B,51B,RockRidge - 3RUN
+538,0301780,College Av:Russell St,-122.2532678,37.8585914,AC Transit,51B,51B,RockRidge - 3RUN
+539,0301810,College Av:Woolsey St,-122.25282109999999,37.8537015,AC Transit,51B,51B,RockRidge - 3RUN
+540,0301980,Durant Av:College Av,-122.25462830000001,37.8683017,AC Transit,51B,51B,RockRidge - 3RUN
+541,0304670,University Av:San Pablo Av,-122.29172520000002,37.869063700000005,AC Transit,51B,51B,RockRidge - 3RUN
+542,0304730,Seawall Dr:University Av,-122.31727849999999,37.8628126,AC Transit,51B,51B,RockRidge - 3RUN
+543,0304790,Shattuck Av:Allston Way,-122.26812690000001,37.86947979999999,AC Transit,51B,51B,RockRidge - 3RUN
+544,0304960,Shattuck Av:Kittredge St,-122.26799,37.868192,AC Transit,51B,51B,RockRidge - 3RUN
+545,0305760,University Av:3rd St,-122.30067700000001,37.867275,AC Transit,51B,51B,RockRidge - 3RUN
+546,0305780,University Av:4th St,-122.29955679999999,37.867465,AC Transit,51B,51B,RockRidge - 3RUN
+547,0305790,University Av:6th St,-122.297351,37.8679427,AC Transit,51B,51B,RockRidge - 3RUN
+548,0305820,University Av:9th St,-122.29407890000002,37.8685999,AC Transit,51B,51B,RockRidge - 3RUN
+549,0305840,University Av:Acton St,-122.28391880000001,37.870091200000005,AC Transit,51B,51B,RockRidge - 3RUN
+550,0305850,University Av:Bait Shop,-122.31349469999999,37.8637432,AC Transit,51B,51B,RockRidge - 3RUN
+551,0305930,University Av:Grant St,-122.27489150000001,37.8712154,AC Transit,51B,51B,RockRidge - 3RUN
+552,0305960,University Av:Marina Blvd,-122.3106828,37.8650961,AC Transit,51B,51B,RockRidge - 3RUN
+553,0305990,University Av:Martin Luther King Jr Way,-122.2726715,37.871544,AC Transit,51B,51B,RockRidge - 3RUN
+554,0306050,University Av:Sacramento St,-122.2813466,37.8703678,AC Transit,51B,51B,RockRidge - 3RUN
+555,0306080,University Av:Shattuck Av,-122.2685686,37.872031799999995,AC Transit,51B,51B,RockRidge - 3RUN
+556,0306100,University Av:W Frontage Rd,-122.3056991,37.8661659,AC Transit,51B,51B,RockRidge - 3RUN
+557,1007450,College Av:Chabot Rd,-122.2521325,37.847199100000005,AC Transit,51B,51B,RockRidge - 3RUN
+558,1007470,College Av:Claremont Av,-122.2522945,37.848778,AC Transit,51B,51B,RockRidge - 3RUN
+559,1007540,College Av:Oak Grove Av (Opp. Claremont Mid. Sch.),-122.2519953,37.84572429999999,AC Transit,51B,51B,RockRidge - 3RUN
+560,1007550,College Av:Rockridge BART Station,-122.25168670000001,37.844550399999996,AC Transit,51B,51B,RockRidge - 3RUN
+561,1031880,Miles Av:College Av,-122.2521622,37.84518679999999,AC Transit,51B,51B,RockRidge - 3RUN
+562,9903430,College Av:Alcatraz Av,-122.25256680000001,37.8509305,AC Transit,51B,51B,RockRidge - 3RUN
+563,9903590,University Av:California St,-122.2794554,37.8706182,AC Transit,51B,51B,RockRidge - 3RUN
+564,9903600,Durant Av:Telegragh Av,-122.2586398,37.8678393,AC Transit,51B,51B,RockRidge - 3RUN
+565,9903610,College Av:Parker St,-122.25375079999999,37.8633574,AC Transit,51B,51B,RockRidge - 3RUN
+566,9903630,Durant Av:Ellsworth St,-122.2632173,37.8672006,AC Transit,51B,51B,RockRidge - 3RUN
+567,9903710,Durant Av:Dana St,-122.2608438,37.8674914,AC Transit,51B,51B,RockRidge - 3RUN
+568,9903740,University Av:Bonar St,-122.28696509999999,37.8696542,AC Transit,51B,51B,RockRidge - 3RUN
+569,9904470,Durant Av:Shattuck Av,-122.26715120000001,37.866695,AC Transit,51B,51B,RockRidge - 3RUN
+570,0600010,40th St:Emery St,-122.2813223,37.830607,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+571,0600030,40th St:Harlan St,-122.28344579999998,37.8301886,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+572,0600050,40th St:Hollis St,-122.2848815,37.8299006,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+573,0600300,Christie St:Lyons Restaurant,-122.29448959999999,37.8374333,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+574,0600920,40th St:Horton St,-122.2872673,37.829439,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+575,0600990,40th St:San Pablo Av,-122.27903899999998,37.831075299999995,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+576,0601060,Shellmound St:Bay St,-122.29364129999999,37.8333482,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+577,0601140,Christie Av:Pacific Park Plaza,-122.29550829999998,37.842651700000005,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+578,1002520,40th St:Broadway,-122.2570594,37.827620700000004,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+579,1002570,40th St:MacArthur BART Station,-122.26628190000001,37.8293135,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+580,1002590,40th St:Market St,-122.2736652,37.8304878,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+581,1002650,40th St:Telegraph Av,-122.26467450000001,37.829094299999994,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+582,1002670,40th St:Webster St,-122.2610041,37.8284878,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+583,1002700,40th St:West St,-122.27124309999999,37.8301133,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+584,1010610,Foothill Blvd:Church St,-122.17694309999999,37.7697066,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+585,1010650,Foothill Blvd:Eastmont Transit Center,-122.17414840000002,37.769279,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+586,1014310,345 MacArthur Blvd,-122.25117790000002,37.8132023,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+587,1014380,MacArthur Blvd:13th Av (Edna Brewer Middle School),-122.23174099999999,37.8022966,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+588,1014400,MacArthur Blvd:35th Av,-122.2008509,37.7938501,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+589,1014410,MacArthur Blvd:38th Av,-122.19809099999999,37.7908374,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+590,1014450,MacArthur Blvd:61st Av,-122.1824909,37.7755567,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+591,1014480,MacArthur Blvd:64th Av,-122.1795115,37.7736917,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+592,1014490,MacArthur Blvd:66th Av,-122.1781279,37.7726325,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+593,1014520,MacArthur Blvd:68th Av,-122.17653909999999,37.7711993,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+594,1014570,MacArthur Blvd:77th Av,-122.1694154,37.7671533,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+595,1014580,MacArthur Blvd:82nd Av,-122.1648502,37.7624946,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+596,1014600,MacArthur Blvd:84th Av,-122.1638596,37.7613403,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+597,1014650,MacArthur Blvd:94th Av,-122.16050600000001,37.7530078,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+598,1014660,MacArthur Blvd:96th Av,-122.15992630000001,37.7513578,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+599,1014690,MacArthur Blvd:98th Av,-122.15904499999999,37.7500028,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+600,1014710,MacArthur Blvd:99th Av,-122.1571436,37.7470841,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+601,1014720,MacArthur Blvd:Adams St,-122.252311,37.815937899999994,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+602,1014730,MacArthur Blvd:Adell Ct,-122.21911850000001,37.8008203,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+603,1014740,MacArthur Blvd:Alma Av,-122.2375196,37.8056052,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+604,1014770,MacArthur Blvd:Athol Av,-122.24152959999999,37.80700770000001,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+605,1014780,MacArthur Blvd:Beaumont Av,-122.229193,37.800482,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+606,1014800,MacArthur Blvd:Boston Av,-122.21293030000001,37.7994776,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+607,1014810,MacArthur Blvd:Byron Av,-122.15555069999999,37.7454072,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+608,1014860,MacArthur Blvd:Castlemont High School,-122.1628973,37.7595325,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+609,1014890,MacArthur Blvd:Coolidge Av(Bret Harte Junior High),-122.2090008,37.798472600000004,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+610,1014970,MacArthur Blvd:Grand Av,-122.24909620000001,37.81023629999999,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+611,1015020,MacArthur Blvd:Laguna Av,-122.2108971,37.79894779999999,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+612,1015030,MacArthur Blvd:Lakeshore Av,-122.2475278,37.809706299999995,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+613,1015050,MacArthur Blvd:Laurel Av,-122.2035093,37.796162200000005,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+614,1015080,MacArthur Blvd:Maple Av,-122.2051347,37.7973929,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+615,1015100,MacArthur Blvd:Maybelle Av,-122.19606670000002,37.788598799999995,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+616,1015130,MacArthur Blvd:Park Blvd,-122.23413359999999,37.804059,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+617,1015140,MacArthur Blvd:Parker Av,-122.1679897,37.7661185,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+618,1015220,MacArthur Blvd:Ritchie St,-122.1667726,37.7647174,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+619,1015250,MacArthur Blvd:Sheffield Av,-122.220904,37.7999909,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+620,1015270,MacArthur Blvd:Van Buren Av,-122.2505476,37.8113115,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+621,1015280,MacArthur Blvd:Vernon St,-122.25292150000001,37.8172206,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+622,1015290,MacArthur Blvd:Warner Av,-122.1579942,37.748396500000005,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+623,1015300,MacArthur Blvd:Wesley Av,-122.2444525,37.808583399999996,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+624,1015310,MacArthur Blvd:Woodruff Av,-122.2228555,37.8003542,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+625,1018730,MacArthur Blvd:Camden St (Seminary Av Jctn),-122.1847466,37.7758985,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+626,1021080,W MacArthur Blvd:Fairmount Av,-122.2547893,37.821515500000004,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+627,1030050,40th St:Mlk Jr Way,-122.2678908,37.8295725,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+628,1030410,MacArthur Blvd:High St,-122.194607,37.786980799999995,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+629,1030420,MacArthur Blvd:Pierson St.(Mills College),-122.18803,37.7826255,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+630,1030520,MacArthur Blvd:90th Av,-122.1613229,37.755261499999996,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+631,1031160,14th Av:E 33rd St,-122.2271446,37.8001446,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+632,1031620,W MacArthur Blvd:Piedmont Av,-122.25644369999999,37.822954100000004,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+633,1031910,106th Av:MacArthur Blvd,-122.15207749999999,37.7431161,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+634,9902640,MacArthur Blvd:Fruitvale Av,-122.21578899999999,37.8002045,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+635,9902650,MacArthur Blvd:Randolph Av,-122.22463229999998,37.800686,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+636,9902970,Foothill Blvd:106th Av,-122.1488139,37.7441081,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+637,9903000,MacArthur Blvd:88th Av,-122.16212759999998,37.757388,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+638,9903030,MacArthur Blvd:55th Av,-122.1881126,37.777644200000005,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+639,9903090,W MacArthur Blvd:Howe St,-122.25781059999998,37.823904999999996,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+640,9903110,Foothill Blvd:108th Av,-122.14801489999999,37.7436025,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+641,0600040,40th St:Harlan St,-122.2831232,37.830482700000005,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+642,0600060,40th St:Hollis St,-122.2851836,37.830057399999994,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+643,0600890,Shellmound St:Bay St,-122.2932929,37.8339879,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+644,0600970,40th St:Horton St,-122.28796240000001,37.829494700000005,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+645,0601050,40th St:San Pablo Av,-122.2796107,37.8312016,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+646,0601150,40th St:Emery St,-122.28156940000001,37.8308023,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+647,0601160,Shellmound St:Powell St,-122.2931203,37.8384365,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+648,1002530,40th St:Broadway,-122.25721750000001,37.82792979999999,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+649,1002580,40th St:Market St,-122.27374329999999,37.8307451,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+650,1002610,40th St:Martin Luther King Jr Way,-122.2682544,37.829869,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+651,1002660,40th St:Telegraph Av,-122.26416090000002,37.8292237,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+652,1002680,40th St:Webster St,-122.26070179999999,37.82867,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+653,1002690,40th St:West St,-122.27083370000001,37.830282700000005,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+654,1007220,Chatham Rd:13th Av (Edna Brewer Middle School),-122.2306417,37.802838799999996,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+655,1007230,Chatham Rd:Bruce St,-122.2290361,37.8016534,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+656,1007240,Chatham Rd:Park Blvd,-122.23261090000001,37.8042336,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+657,1009520,Eastmont Transit Center,-122.1744125,37.769185,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+658,1010560,Foothill Blvd:68th Av,-122.17703049999999,37.769929299999994,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+659,1013570,Lake Park Av:Grand Av,-122.247693,37.8113956,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+660,1013590,Lake Park Av:Wesley Way,-122.244203,37.809512100000006,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+661,1014320,8658 MacArthur Blvd,-122.1621293,37.758009,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+662,1014390,MacArthur Blvd:35th Av,-122.20043559999999,37.7936576,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+663,1014420,MacArthur Blvd:39th Av,-122.196721,37.789578000000006,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+664,1014460,MacArthur Blvd:62nd Av,-122.180944,37.7748336,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+665,1014470,MacArthur Blvd:64th Av,-122.1796006,37.7739046,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+666,1014500,MacArthur Blvd:66th Av,-122.1780951,37.7727704,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+667,1014510,68th Av:MacArthur Blvd,-122.1764027,37.7711098,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+668,1014560,MacArthur Blvd:76th Av,-122.16958729999999,37.767530900000004,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+669,1014590,MacArthur Blvd:82nd Av,-122.16466909999998,37.7626835,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+670,1014640,MacArthur Blvd:94th Av,-122.16025619999999,37.752824700000005,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+671,1014670,MacArthur Blvd:96th Av,-122.15963970000001,37.7512143,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+672,1014680,MacArthur Blvd:98th Av,-122.15868400000001,37.7497688,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+673,1014700,MacArthur Blvd:99th Av,-122.1570581,37.7472956,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+674,1014750,MacArthur Blvd:Alma Av (Oakland High School),-122.2374622,37.8057224,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+675,1014760,MacArthur Blvd:Athol Av,-122.24130590000001,37.8070742,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+676,1014790,MacArthur Blvd:Boston Av,-122.21265770000001,37.7995473,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+677,1014830,MacArthur Blvd:Camden St (Seminary Av Jctn),-122.18514579999999,37.775818900000004,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+678,1014840,MacArthur Blvd:Canon Av,-122.21842720000001,37.801015899999996,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+679,1014870,MacArthur Blvd:Castlemont High School,-122.16290259999998,37.760093100000006,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+680,1014880,MacArthur Blvd:Coolidge Av,-122.208473,37.79864129999999,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+681,1014910,MacArthur Blvd:E.C. Reems Ct,-122.16356780000001,37.761292299999994,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+682,1014930,MacArthur Blvd:Enos Av,-122.1899331,37.7852089,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+683,1014960,MacArthur Blvd:Fruitvale Av,-122.21662169999999,37.800546000000004,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+684,1014980,MacArthur Blvd:Green Acre Rd,-122.1919659,37.7856205,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+685,1015000,MacArthur Blvd:High St,-122.19462890000001,37.7872553,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+686,1015010,MacArthur Blvd:Laguna Av,-122.21108079999999,37.799135799999995,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+687,1015040,MacArthur Blvd:Laurel Av,-122.20315670000001,37.796098799999996,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+688,1015090,MacArthur Blvd:Maple Av,-122.204773,37.7974063,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+689,1015150,MacArthur Blvd:Parker Av,-122.1676233,37.7659797,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+690,1015160,MacArthur Blvd:Patterson Av,-122.1981113,37.791104,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+691,1015180,MacArthur Blvd:Richard's Gate (Mills College),-122.18801840000002,37.78323220000001,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+692,1015190,MacArthur Blvd:Randolph Av,-122.2247996,37.8008657,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+693,1015210,MacArthur Blvd:Ritchie St,-122.16642920000001,37.7646021,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+694,1015230,MacArthur Blvd:Seminary Av,-122.183609,37.7763545,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+695,1015240,MacArthur Blvd:Sheffield Av (Altenheim Retiremt.),-122.22128070000001,37.800201200000004,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+696,1015320,MacArthur Blvd:Woodruff Av,-122.2227313,37.800474,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+697,1018530,Santa Clara Av:Crescent St,-122.2487098,37.8145974,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+698,1018540,Santa Clara Av:Elwood Av,-122.2492832,37.8159912,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+699,1018550,Santa Clara Av:Oakland Av,-122.2532693,37.8190294,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+700,1018560,Santa Clara Av:Valle Vista Av,-122.24827590000001,37.8137136,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+701,1018570,Santa Clara Av:Vernon St,-122.25078470000001,37.8175891,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+702,1021060,W MacArthur Blvd:Broadway (Kaiser Hospital),-122.2583216,37.8244524,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+703,1021090,Santa Clara Av:Harrison St,-122.2539479,37.8197146,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+704,1021110,W MacArthur Blvd:Moss Av,-122.25440079999998,37.8212823,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+705,1021130,W MacArthur Blvd:Piedmont Av,-122.256381,37.82321470000001,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+706,1031210,MacArthur Blvd:Foothill Blvd,-122.15420470000001,37.74469439999999,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+707,1031220,MacArthur BART Station,-122.26646000000001,37.82956,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+708,9902310,Lake Park Av:Lakeshore Av,-122.24692979999999,37.810381,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+709,9902400,MacArthur Blvd:108th Av,-122.1511334,37.7421059,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+710,9902410,MacArthur Blvd:106th Av,-122.1527142,37.7433261,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+711,9902770,MacArthur Blvd:90th Av,-122.1611193,37.7552262,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+712,9903040,MacArthur Blvd:56th Av,-122.18755259999999,37.7773531,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+713,9903110,Foothill Blvd:108th Av,-122.14801489999999,37.7436025,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+714,9903980,Christie Av at Public Market,-122.29535459999998,37.842665600000004,AC Transit,57,57,Emeryville\ Macarthur Blvd\ Foothill Sq
+715,0301130,Bancroft Way:Dana St,-122.2619131,37.86845770000001,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+716,0301180,Bancroft Way:Telegraph Av,-122.260255,37.8686459,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+717,0305460,Telegraph Av:Ashby Av,-122.25959909999999,37.8559671,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+718,0305490,Telegraph Av:Derby St,-122.2588175,37.86161,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+719,0305520,Telegraph Av:Dwight Way,-122.2583646,37.86499,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+720,0305530,Telegraph Av:Haste St,-122.2586101,37.8662926,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+721,0305550,Telegraph Av:Parker St,-122.2586048,37.8630675,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+722,0305560,Telegraph Av:Prince St,-122.25993989999999,37.853621600000004,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+723,0305590,Telegraph Av:Russell St,-122.2593377,37.8579421,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+724,0305600,Telegraph Av:Stuart St,-122.2590274,37.8599207,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+725,0305630,Telegraph Av:Webster St,-122.25971670000001,37.8551106,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+726,0306530,Bancroft Way:Ellsworth St,-122.26408329999998,37.8681685,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+727,1000370,11th St:Clay St,-122.274464,37.802963,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+728,1006320,Broadway:12th St (12th St BART Station),-122.2720152,37.802806200000006,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+729,1006380,Broadway:14th St,-122.270843,37.804786,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+730,1006440,Broadway:19th St (19th St BART Station),-122.26875749999999,37.807998100000006,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+731,1020060,Telegraph Av:29th St,-122.26733490000002,37.8180494,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+732,1020080,Telegraph Av:31st St,-122.2667115,37.8203126,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+733,1020100,Telegraph Av:34th St,-122.26619029999999,37.8222885,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+734,1020120,Telegraph Av:36th St,-122.26562690000002,37.824371899999996,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+735,1020140,Telegraph Av:38th St,-122.2649591,37.8268792,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+736,1020160,Telegraph Av:40th St,-122.26421529999999,37.8294901,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+737,1020190,Telegraph Av:43rd St,-122.2636304,37.83183,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+738,1020220,Telegraph Av:46th St,-122.263149,37.8335698,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+739,1020270,Telegraph Av:55th St,-122.2618129,37.8400466,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+740,1020320,Telegraph Av:62nd St,-122.26071940000001,37.8478597,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+741,1020370,Telegraph Av:Aileen St,-122.2615723,37.8416875,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+742,1020420,Telegraph Av:Claremont Av,-122.26203190000001,37.8384614,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+743,1030550,Telegraph Av:Alcatraz Av,-122.2603938,37.8504657,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+744,1030870,Telegraph Av:24th St,-122.2683578,37.8140914,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+745,1030980,Telegraph Av:59th St.,-122.26108400000001,37.845284299999996,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+746,1031030,Thomas L Berkley Way (20th St):Telegraph Av,-122.2694127,37.8095871,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+747,9903810,Telegragh Av:27th St,-122.2677047,37.816533899999996,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+748,9903830,10th St:Washington St,-122.27445619999999,37.802254,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+749,9904000,Oxford St:Addison St,-122.2658131,37.8713419,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+750,9904110,Telegraph Av:49th St,-122.2625398,37.8358755,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+751,9905350,Broadway:17th St (19th St BART Station),-122.26947679999999,37.806894899999996,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+752,0301930,Dana St:Haste St,-122.2609932,37.8658153,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+753,0301990,Durant Av:Dana St,-122.26141650000001,37.8674222,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+754,0304790,Shattuck Av:Allston Way,-122.26812690000001,37.86947979999999,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+755,0304960,Shattuck Av:Kittredge St,-122.26799,37.868192,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+756,0305470,Telegraph Av:Ashby Av,-122.2597868,37.8564047,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+757,0305480,Telegraph Av:Derby St,-122.25912620000001,37.8611571,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+758,0305510,Telegraph Av:Dwight Way,-122.2586205,37.8645066,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+759,0305540,Telegraph Av:Parker St,-122.25888229999998,37.862916799999994,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+760,0305580,Telegraph Av:Russell St,-122.25958909999999,37.857789200000006,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+761,0305610,Telegraph Av:Stuart St,-122.2593317,37.8597132,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+762,0305620,Telegraph Av:Webster St,-122.2599345,37.855315399999995,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+763,1006290,Broadway:12th St (12th St BART Station),-122.27239990000001,37.802651899999994,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+764,1006360,Broadway:14th St (12th St BART Station),-122.271495,37.803984,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+765,1006430,Broadway:19th St (19th St BART Station),-122.2690892,37.807922399999995,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+766,1020020,Telegraph Av:24th St,-122.2687986,37.8132474,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+767,1020070,Telegraph Av:30th St,-122.26729070000002,37.8191659,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+768,1020090,Telegraph Av:32nd St,-122.26678840000001,37.8210388,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+769,1020110,Telegraph Av:34th St,-122.2663585,37.8226125,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+770,1020130,Telegraph Av:36th St,-122.2658297,37.8245937,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+771,1020150,Telegraph Av:40th St,-122.26450690000001,37.8294976,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+772,1020200,Telegraph Av:44th St,-122.26373770000001,37.8323715,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+773,1020250,Telegraph Av:50th St,-122.26260659999998,37.8365463,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+774,1020260,Telegraph Av:52nd St,-122.2623193,37.8381889,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+775,1020280,Telegraph Av:55th St,-122.2620173,37.8403558,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+776,1020290,Telegraph Av:58th St,-122.2615787,37.8435223,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+777,1020310,Telegraph Av:60th St,-122.2611416,37.8465804,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+778,1020330,Telegraph Av:62nd St,-122.2609557,37.8480401,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+779,1020360,Telegraph Av:Aileen St,-122.26180590000001,37.841910399999996,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+780,1020380,Telegraph Av:Alcatraz Av,-122.2606246,37.8503862,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+781,1020460,Telegraph Av:W MacArthur Blvd,-122.2652574,37.8267396,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+782,1030840,Telegraph Av:59th St,-122.2614085,37.8447505,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+783,1031070,Thomas L Berkley Way:Telegraph Av (19th St BART),-122.2688009,37.809098399999996,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+784,9902070,Broadway:17th St (19th St BART Station),-122.2700784,37.8063229,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+785,9903630,Durant Av:Ellsworth St,-122.2632173,37.8672006,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+786,9903820,Telegragh Av:27th St,-122.2681386,37.8158566,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+787,9903830,10th St:Washington St,-122.27445619999999,37.802254,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+788,9904000,Oxford St:Addison St,-122.2658131,37.8713419,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+789,9904470,Durant Av:Shattuck Av,-122.26715120000001,37.866695,AC Transit,6,6,Dtn. Oakland\ Dtn. Berkeley
+790,1000230,10th St:Fallon St,-122.26317549999999,37.797655400000004,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+791,1000270,10th St:Kaiser Convention Center,-122.2607537,37.796699700000005,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+792,1000620,13th Av:E 26th St,-122.2366348,37.7975189,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+793,1000630,13th Av:E 27th St,-122.23601029999999,37.798318200000004,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+794,1000640,13th Av:E 31st St,-122.2346605,37.7997991,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+795,1001380,23rd Av:22nd Av,-122.22764070000001,37.792342600000005,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+796,1001440,23rd Av:E 19th St,-122.2325025,37.7867404,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+797,1001460,23rd Av:E 21st St,-122.2315763,37.788900299999995,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+798,1001470,23rd Av:E 22nd St,-122.23092920000002,37.7895898,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+799,1001500,23rd Av:E 24th St,-122.2290227,37.7908974,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+800,1001530,23rd Av:E 27th St,-122.2267505,37.7936883,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+801,1001550,23rd Av:E 29th St,-122.2261237,37.795678,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+802,1001560,23rd Av:E 30th St,-122.22584170000002,37.7965729,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+803,1001590,23rd Av:Foothill Blvd (Garfield School),-122.2340365,37.785336799999996,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+804,1003040,5th Av:E 10th St,-122.25637090000001,37.793872,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+805,1003050,5th Av:E 12th St,-122.2548642,37.794925,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+806,1003060,5th Av:International Blvd,-122.25398429999998,37.795594200000004,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+807,1003080,5th Av:E 15th St,-122.25298490000002,37.79631079999999,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+808,1003410,7th St:Adeline St,-122.287898,37.803655,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+809,1003460,7th St:Filbert St,-122.28520139999999,37.8030597,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+810,1003480,7th St:Franklin St,-122.27317659999999,37.7990139,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+811,1003490,7th St:Harrison St,-122.2708439,37.7980988,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+812,1003500,7th St:Jackson St,-122.26799679999999,37.796961200000005,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+813,1003520,7th St:Market St,-122.28246170000001,37.8025967,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+814,1003560,7th St:Union St,-122.2901818,37.8041597,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+815,1004040,8th Av:E 18th St,-122.2473408,37.796344,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+816,1004070,8th Av:E 20th St,-122.2458399,37.7974342,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+817,1004090,8th Av:E 22nd St,-122.24399609999999,37.798719899999995,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+818,1004100,8th Av:E 24th St,-122.2421351,37.8000389,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+819,1004110,8th Av:Foothill Blvd,-122.24929809999999,37.7949471,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+820,1005230,Ardley Av:E 32nd St,-122.224744,37.79887479999999,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+821,1008020,E 10th St:2nd Av,-122.25917890000001,37.795820500000005,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+822,1008050,E 10th St:4th Av,-122.25766999999999,37.79450070000001,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+823,1008130,E 12th St:23rd Av,-122.2365832,37.782264899999994,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+824,1008150,E 12th St:25th Av,-122.23461770000002,37.781014500000005,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+825,1008170,E 12th St:29th Av,-122.23006540000002,37.7778834,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+826,1009050,E 15th St:7th Av,-122.2514007,37.7949777,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+827,1009310,E 24th St:10th Av,-122.2405706,37.7986959,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+828,1009330,E 24th St:12th Av,-122.2389163,37.797231599999996,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+829,1009390,E 31st St:Beaumont Av (14th Av Jctn),-122.2296521,37.798888,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+830,1009400,E 31st St:Stuart St (Highland Hospital),-122.231706,37.799308,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+831,1011290,Fruitvale BART Station,-122.2255433,37.7754115,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+832,1017230,Oak St:8th St (Lake Merritt BART Station),-122.26524029999999,37.7970989,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+833,1021180,West Oakland BART Station,-122.2951104,37.80465770000001,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+834,1030890,7th St:Jefferson St,-122.27799850000001,37.800894299999996,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+835,1031160,14th Av:E 33rd St,-122.2271446,37.8001446,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+836,9901820,7th St:Mandela Pkwy (West Oakland BART Station),-122.29382959999998,37.8050299,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+837,9902650,MacArthur Blvd:Randolph Av,-122.22463229999998,37.800686,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+838,9902720,23rd Av:International Blvd,-122.2362112,37.7832295,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+839,1000600,13th Av:Bella Vista Av,-122.23491809999999,37.7997228,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+840,1000610,13th Av:E 25th St,-122.23706570000002,37.797185,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+841,1001420,23rd Av:E 16th St,-122.2344422,37.7848214,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+842,1001430,23rd Av:E 19th St,-122.2325669,37.7864435,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+843,1001450,23rd Av:E 21st St,-122.2317081,37.7885445,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+844,1001490,23rd Av:E 24th St,-122.22917290000001,37.7906981,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+845,1001510,23rd Av:E 26th St,-122.22762720000001,37.7921312,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+846,1001520,23rd Av:E 27th St,-122.22668689999999,37.793465600000005,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+847,1001540,23rd Av:E 29th St,-122.2260683,37.7953783,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+848,1001570,23rd Av:E 30th St,-122.2256935,37.79657279999999,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+849,1003020,5th Av:12th St,-122.2546858,37.7952273,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+850,1003030,5th Av:E 10th St,-122.2566199,37.7938886,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+851,1003070,5th Av:International Blvd,-122.2536956,37.7959456,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+852,1003090,5th Av:E 15th St,-122.2528693,37.7965308,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+853,1003400,7th St:Adeline St,-122.2885118,37.8040883,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+854,1003470,7th St:Filbert St,-122.2852284,37.8033786,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+855,1003510,7th St:Market St,-122.2826426,37.8029027,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+856,1003550,7th St:Union St,-122.290796,37.804536,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+857,1004050,8th Av:E 18th St,-122.2475939,37.7962781,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+858,1004060,8th Av:E 20th St,-122.24576189999999,37.7976181,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+859,1004080,8th Av:E 22nd St,-122.24388959999999,37.7989485,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+860,1004120,8th Av:Foothill Blvd,-122.2494768,37.794974700000004,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+861,1004130,8th St:Broadway,-122.27347920000001,37.8001701,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+862,1004140,8th St:Harrison St,-122.2705469,37.7990581,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+863,1004150,8th St:Jackson St,-122.26762749999999,37.797874,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+864,1004160,8th St:Jefferson St,-122.2776013,37.8018375,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+865,1004170,8th St:Oak St (Lake Merritt BART Station),-122.26580700000001,37.79716,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+866,1005220,Ardley Av:E 32nd St,-122.22463020000001,37.7987154,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+867,1005850,Beaumont Av:E 31st St,-122.22955719999999,37.7990227,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+868,1005860,Beaumont Av:MacArthur Blvd,-122.2290237,37.800736799999996,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+869,1008030,E 10th St:2nd Av,-122.258977,37.795897,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+870,1008040,E 10th St:4th Av,-122.2576213,37.7946915,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+871,1008060,E 10th St:Fallon St,-122.2631105,37.7978344,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+872,1008070,E 10th St:Kaiser Convention Center,-122.26082520000001,37.796916499999995,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+873,1008120,E 12th St:23rd Av,-122.23645959999999,37.7825392,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+874,1008140,E 12th St:25th Av,-122.23445249999999,37.781322700000004,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+875,1008160,E 12th St:29th Av,-122.23001000000001,37.778188899999996,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+876,1008220,E 12th St:Fruitvale Av,-122.22676299999999,37.776552,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+877,1009320,E 24th St:10th Av,-122.24030729999998,37.7986164,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+878,1009340,E 24th St:12th Av,-122.2386716,37.7971705,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+879,1009350,E 24th St:8th Av,-122.24197990000002,37.80009329999999,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+880,1009410,E 31st St:Stuart St (Opp. Highland Hospital),-122.231674,37.7993977,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+881,1009430,E 31st St:Vallecito Pl,-122.2330989,37.799660100000004,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+882,1010570,Foothill Blvd:6th Av,-122.2510577,37.79631,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+883,1011290,Fruitvale BART Station,-122.2255433,37.7754115,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+884,1015190,MacArthur Blvd:Randolph Av,-122.2247996,37.8008657,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+885,1021180,West Oakland BART Station,-122.2951104,37.80465770000001,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+886,9902730,23rd Av:International Blvd,-122.23570670000001,37.783600899999996,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+887,9903130,23rd Av:E 23rd St,-122.2302176,37.790146899999996,AC Transit,62,62,W. Oakland Bart\ Fruitvale Bart
+888,0200450,San Pablo Av:Solano Av,-122.2987473,37.890065500000006,AC Transit,72R,72R,San Pablo Rapid BUS
+889,0304430,San Pablo Av:Ashby Av,-122.28667450000002,37.8525141,AC Transit,72R,72R,San Pablo Rapid BUS
+890,0304550,San Pablo Av:Gilman St,-122.2957826,37.8808289,AC Transit,72R,72R,San Pablo Rapid BUS
+891,0306290,San Pablo Av:Dwight Way,-122.28954640000002,37.8614662,AC Transit,72R,72R,San Pablo Rapid BUS
+892,0306300,San Pablo Av:University Av,-122.29211809999998,37.869467,AC Transit,72R,72R,San Pablo Rapid BUS
+893,0501420,San Pablo Av:Carlson Blvd,-122.3018656,37.899347399999996,AC Transit,72R,72R,San Pablo Rapid BUS
+894,0501450,San Pablo Av:Cutting Blvd (Del Norte BART Station),-122.31802900000001,37.92503789999999,AC Transit,72R,72R,San Pablo Rapid BUS
+895,0501560,San Pablo Av:Moeser Ln,-122.30882390000001,37.9118636,AC Transit,72R,72R,San Pablo Rapid BUS
+896,0501570,San Pablo Av:Potrero Av,-122.3153301,37.921201700000005,AC Transit,72R,72R,San Pablo Rapid BUS
+897,0600810,San Pablo Av:40th St,-122.2798835,37.83148679999999,AC Transit,72R,72R,San Pablo Rapid BUS
+898,1006320,Broadway:12th St (12th St BART Station),-122.2720152,37.802806200000006,AC Transit,72R,72R,San Pablo Rapid BUS
+899,1006340,Broadway:14th St (12th St BART Station),-122.27099199999999,37.804542,AC Transit,72R,72R,San Pablo Rapid BUS
+900,1006620,Broadway:3rd St,-122.2758841,37.796580600000006,AC Transit,72R,72R,San Pablo Rapid BUS
+901,1006710,Broadway:7th St,-122.273941,37.7996901,AC Transit,72R,72R,San Pablo Rapid BUS
+902,1018430,San Pablo Av:Alcatraz Av,-122.2849571,37.8472126,AC Transit,72R,72R,San Pablo Rapid BUS
+903,1018500,San Pablo Av:W Grand Av,-122.27396780000001,37.8130485,AC Transit,72R,72R,San Pablo Rapid BUS
+904,1030020,Thomas L Berkley Way (20th St):Telegraph Av,-122.26900900000001,37.809432,AC Transit,72R,72R,San Pablo Rapid BUS
+905,1030080,San Pablo Av:30th St,-122.27658259999998,37.8212466,AC Transit,72R,72R,San Pablo Rapid BUS
+906,1030090,San Pablo Av:Stanford Av,-122.2830821,37.8414257,AC Transit,72R,72R,San Pablo Rapid BUS
+907,1303550,San Pablo Av:Garvin Av,-122.32908300000001,37.944037,AC Transit,72R,72R,San Pablo Rapid BUS
+908,1303600,San Pablo Av:MacDonald Av,-122.32351409999998,37.932722999999996,AC Transit,72R,72R,San Pablo Rapid BUS
+909,1600410,Contra Costa College,-122.3398753,37.9710794,AC Transit,72R,72R,San Pablo Rapid BUS
+910,1600910,San Pablo Av:El Portal Dr,-122.34428249999999,37.966699,AC Transit,72R,72R,San Pablo Rapid BUS
+911,1600990,San Pablo Av:San Pablo Dam Rd,-122.333118,37.9524651,AC Transit,72R,72R,San Pablo Rapid BUS
+912,1601030,San Pablo Av:Vale Rd,-122.33606189999999,37.955914,AC Transit,72R,72R,San Pablo Rapid BUS
+913,1601050,San Pablo Av:Van Ness St,-122.3428673,37.9607934,AC Transit,72R,72R,San Pablo Rapid BUS
+914,9903800,2nd St:Washington St,-122.2778501,37.79656729999999,AC Transit,72R,72R,San Pablo Rapid BUS
+915,0200730,San Pablo Av:Solano Av,-122.2990127,37.8899646,AC Transit,72R,72R,San Pablo Rapid BUS
+916,0304420,San Pablo Av:Ashby Av,-122.28671240000001,37.8518047,AC Transit,72R,72R,San Pablo Rapid BUS
+917,0304540,San Pablo Av:Gilman St,-122.29577309999999,37.8798969,AC Transit,72R,72R,San Pablo Rapid BUS
+918,0306310,San Pablo Av:University Av,-122.2920896,37.8687057,AC Transit,72R,72R,San Pablo Rapid BUS
+919,0306320,San Pablo Av:Dwight Way,-122.28958279999999,37.860794399999996,AC Transit,72R,72R,San Pablo Rapid BUS
+920,0501430,San Pablo Av:Carlson Blvd,-122.3018116,37.8985804,AC Transit,72R,72R,San Pablo Rapid BUS
+921,0501580,San Pablo Av:Potrero Av,-122.3149446,37.9201579,AC Transit,72R,72R,San Pablo Rapid BUS
+922,0501920,San Pablo Av:Moeser Ln,-122.3086152,37.911072600000004,AC Transit,72R,72R,San Pablo Rapid BUS
+923,0600700,San Pablo Av:40th St,-122.27985100000001,37.830609,AC Transit,72R,72R,San Pablo Rapid BUS
+924,1006290,Broadway:12th St (12th St BART Station),-122.27239990000001,37.802651899999994,AC Transit,72R,72R,San Pablo Rapid BUS
+925,1006390,Broadway:13th St (12th St BART Station),-122.27177749999998,37.8036515,AC Transit,72R,72R,San Pablo Rapid BUS
+926,1006610,Broadway:3rd St,-122.27595649999999,37.79689129999999,AC Transit,72R,72R,San Pablo Rapid BUS
+927,1006700,Broadway:7th St,-122.2745249,37.799240399999995,AC Transit,72R,72R,San Pablo Rapid BUS
+928,1018390,San Pablo Av:64th St,-122.28502350000001,37.846544200000004,AC Transit,72R,72R,San Pablo Rapid BUS
+929,1018490,San Pablo Av:Stanford Av,-122.2830466,37.8404772,AC Transit,72R,72R,San Pablo Rapid BUS
+930,1018510,San Pablo Av:W Grand Av,-122.2742373,37.813061299999994,AC Transit,72R,72R,San Pablo Rapid BUS
+931,1030060,San Pablo Av:Market St,-122.2763699,37.8196844,AC Transit,72R,72R,San Pablo Rapid BUS
+932,1031060,Thomas L Berkley Way (20th St):Telegraph Av,-122.2691672,37.8093136,AC Transit,72R,72R,San Pablo Rapid BUS
+933,1303590,San Pablo Av:MacDonald Av,-122.3241118,37.93308,AC Transit,72R,72R,San Pablo Rapid BUS
+934,1303920,San Pablo Av:Garvin Av,-122.3290307,37.943347700000004,AC Transit,72R,72R,San Pablo Rapid BUS
+935,1600410,Contra Costa College,-122.3398753,37.9710794,AC Transit,72R,72R,San Pablo Rapid BUS
+936,1601000,San Pablo Av:Stone St,-122.3449567,37.9658025,AC Transit,72R,72R,San Pablo Rapid BUS
+937,1601010,San Pablo Av:Tulare Av,-122.33290359999998,37.95146079999999,AC Transit,72R,72R,San Pablo Rapid BUS
+938,1601040,San Pablo Av:Van Ness St,-122.3423939,37.960153000000005,AC Transit,72R,72R,San Pablo Rapid BUS
+939,1601130,San Pablo Av:Vale Rd,-122.3353908,37.955164399999994,AC Transit,72R,72R,San Pablo Rapid BUS
+940,9903800,2nd St:Washington St,-122.2778501,37.79656729999999,AC Transit,72R,72R,San Pablo Rapid BUS
+941,9905850,Cutting Blvd:Ohlone Greenway (Del Norte BART),-122.3172402,37.9260721,AC Transit,72R,72R,San Pablo Rapid BUS
+942,1003160,71st Av:Hawley St,-122.1955203,37.75550379999999,AC Transit,73,73,Eastmont T.C.\ Oakland Airport
+943,1003180,71st Av:Snell St,-122.1969164,37.7546249,AC Transit,73,73,Eastmont T.C.\ Oakland Airport
+944,1003190,71st Av:Spencer St,-122.19373229999998,37.756668100000006,AC Transit,73,73,Eastmont T.C.\ Oakland Airport
+945,1003220,73rd Av:Arthur St,-122.1800227,37.7636472,AC Transit,73,73,Eastmont T.C.\ Oakland Airport
+946,1003240,73rd Av:Bancroft Av,-122.17711899999999,37.765561,AC Transit,73,73,Eastmont T.C.\ Oakland Airport
+947,1003260,73rd Av:International Blvd,-122.1866271,37.759365,AC Transit,73,73,Eastmont T.C.\ Oakland Airport
+948,1003280,73rd Av:Garfield Av,-122.175694,37.7666615,AC Transit,73,73,Eastmont T.C.\ Oakland Airport
+949,1003300,73rd Av:Hamilton St,-122.19084440000002,37.7567734,AC Transit,73,73,Eastmont T.C.\ Oakland Airport
+950,1003320,73rd Av:Holly St,-122.1825561,37.7620204,AC Transit,73,73,Eastmont T.C.\ Oakland Airport
+951,1003350,73rd Av:Orral St,-122.1846588,37.7606713,AC Transit,73,73,Eastmont T.C.\ Oakland Airport
+952,1009540,Eastmont Transit Center,-122.17436670000001,37.768955,AC Transit,73,73,Eastmont T.C.\ Oakland Airport
+953,1012460,Hegenberger Rd:Airport Dr,-122.1997244,37.730171999999996,AC Transit,73,73,Eastmont T.C.\ Oakland Airport
+954,1012470,Hegenberger Rd:Baldwin St,-122.195885,37.7474172,AC Transit,73,73,Eastmont T.C.\ Oakland Airport
+955,1012500,Hegenberger Rd:Doolittle Dr,-122.20117509999999,37.7275864,AC Transit,73,73,Eastmont T.C.\ Oakland Airport
+956,1012510,Hegenberger Rd:Edes Av,-122.19584920000001,37.745072799999996,AC Transit,73,73,Eastmont T.C.\ Oakland Airport
+957,1012530,Hegenberger Rd:Hegenberger Lp (South Jctn),-122.1978071,37.7340141,AC Transit,73,73,Eastmont T.C.\ Oakland Airport
+958,1012540,Hegenberger Rd:Hegenberger Lp (North Jctn),-122.1968497,37.7361569,AC Transit,73,73,Eastmont T.C.\ Oakland Airport
+959,1012550,Hegenberger Rd:Hegenberger Pl,-122.19876090000001,37.7319401,AC Transit,73,73,Eastmont T.C.\ Oakland Airport
+960,1018240,San Leandro St:Coliseum BART Station,-122.1970134,37.7536556,AC Transit,73,73,Eastmont T.C.\ Oakland Airport
+961,1019830,Spencer St:73rd Av,-122.192692,37.7557936,AC Transit,73,73,Eastmont T.C.\ Oakland Airport
+962,1031700,Oakland International Airport,-122.21235459999998,37.7126555,AC Transit,73,73,Eastmont T.C.\ Oakland Airport
+963,1003170,71st Av:Hawley St,-122.19532859999998,37.755773,AC Transit,73,73,Eastmont T.C.\ Oakland Airport
+964,1003200,71st Av:Spencer St,-122.19386909999999,37.7567006,AC Transit,73,73,Eastmont T.C.\ Oakland Airport
+965,1003210,73rd Av:Arthur St,-122.1803253,37.7638382,AC Transit,73,73,Eastmont T.C.\ Oakland Airport
+966,1003230,73rd Av:Bancroft Av,-122.1767762,37.7663432,AC Transit,73,73,Eastmont T.C.\ Oakland Airport
+967,1003250,73rd Av:International Blvd,-122.186857,37.759561,AC Transit,73,73,Eastmont T.C.\ Oakland Airport
+968,1003270,73rd Av:Favor St,-122.1837682,37.761620799999996,AC Transit,73,73,Eastmont T.C.\ Oakland Airport
+969,1003290,73rd Av:Garfield Av,-122.1756385,37.767082099999996,AC Transit,73,73,Eastmont T.C.\ Oakland Airport
+970,1003310,73rd Av:Hamilton St,-122.1910639,37.7567729,AC Transit,73,73,Eastmont T.C.\ Oakland Airport
+971,1003330,73rd Av:Krause Av,-122.17840679999999,37.765065299999996,AC Transit,73,73,Eastmont T.C.\ Oakland Airport
+972,1003340,73rd Av:Lockwood St,-122.1814662,37.763101500000005,AC Transit,73,73,Eastmont T.C.\ Oakland Airport
+973,1003360,73rd Av:Spencer St,-122.1925007,37.7558481,AC Transit,73,73,Eastmont T.C.\ Oakland Airport
+974,1009540,Eastmont Transit Center,-122.17436670000001,37.768955,AC Transit,73,73,Eastmont T.C.\ Oakland Airport
+975,1012450,675 Hegenberger Rd,-122.1964879,37.7483687,AC Transit,73,73,Eastmont T.C.\ Oakland Airport
+976,1012480,Hegenberger Rd:Baldwin St,-122.19631809999998,37.7472644,AC Transit,73,73,Eastmont T.C.\ Oakland Airport
+977,1012490,Hegenberger Rd:Collins Dr,-122.1962949,37.7458187,AC Transit,73,73,Eastmont T.C.\ Oakland Airport
+978,1012520,Hegenberger Rd:Edgewater Dr,-122.197121,37.736543,AC Transit,73,73,Eastmont T.C.\ Oakland Airport
+979,1012560,Hegenberger Rd:Doolittle Dr,-122.20144009999999,37.727774,AC Transit,73,73,Eastmont T.C.\ Oakland Airport
+980,1012570,Hegenberger Rd:Leet Dr,-122.1985582,37.7331968,AC Transit,73,73,Eastmont T.C.\ Oakland Airport
+981,1012580,Hegenberger Rd:Pardee Dr,-122.20049159999999,37.7294935,AC Transit,73,73,Eastmont T.C.\ Oakland Airport
+982,1031010,San Leandro St:Coliseum BART Walkway,-122.19720749999999,37.7534929,AC Transit,73,73,Eastmont T.C.\ Oakland Airport
+983,1031700,Oakland International Airport,-122.21235459999998,37.7126555,AC Transit,73,73,Eastmont T.C.\ Oakland Airport

@@ -1,0 +1,145 @@
+,stop_id,stop_name,stop_lon,stop_lat,agency,route_id,route_short_name,route_long_name
+0,3547,32nd Ave & California St  ,-122.492553,37.783429,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+1,3549,32nd Ave & Clement St  ,-122.492425,37.781802,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+2,3550,32nd Ave & Geary Blvd  ,-122.492296,37.779939,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+3,3822,California St & 4th Ave  ,-122.46229199999999,37.785353,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+4,3824,California St & 6th Ave  ,-122.46464099999999,37.785069,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+5,3828,California St & 10th Ave  ,-122.469159,37.784665000000004,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+6,3831,California St & 12th Ave  ,-122.470848,37.784586,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+7,3833,California St & 16th Ave  ,-122.475229,37.784386,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+8,3835,California St & 19th Ave  ,-122.47844599999999,37.784240999999994,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+9,3837,California St & 22nd Ave  ,-122.48165900000001,37.784096999999996,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+10,3839,California St & 25th Ave  ,-122.48482,37.78395,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+11,3841,California St & 28th Ave  ,-122.488074,37.783798,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+12,3843,California St & 30th Ave  ,-122.49051299999999,37.783671000000005,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+13,3845,California St & Arguello Blvd ,-122.45928799999999,37.785703000000005,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+14,3847,California St & Baker St  ,-122.443634,37.787738,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+15,3852,California St & Cherry St  ,-122.45683500000001,37.786042,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+16,3858,California St & Divisadero St ,-122.44086999999999,37.788087,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+17,3875,California St & Laurel St  ,-122.44995700000001,37.786923,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+18,3884,California St & Pierce St  ,-122.43748400000001,37.788517999999996,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+19,3886,California St & Park Presidio Blvd,-122.47325,37.784515,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+20,3892,California St & Presidio Ave  ,-122.44696499999999,37.787265000000005,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+21,3896,California St & Spruce St  ,-122.45352199999999,37.786462,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+22,4015,Clay St & Drumm St  ,-122.396819,37.795435999999995,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+23,4277,Geary Blvd & 33rd Ave  ,-122.49311200000001,37.779734999999995,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+24,6290,Sacramento St & Battery St  ,-122.400282,37.79418,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+25,6291,Sacramento St & Buchanan St  ,-122.430617,37.790316,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+26,6294,Sacramento St & Davis St  ,-122.39761000000001,37.7945,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+27,6295,Sacramento St & Fillmore St  ,-122.434114,37.789861,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+28,6297,Sacramento St & Franklin St  ,-122.42403700000001,37.79115,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+29,6298,Sacramento St & Gough St  ,-122.42613200000001,37.790887,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+30,6299,Sacramento St & Grant Ave  ,-122.406306,37.793411,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+31,6300,Sacramento St & Hyde St  ,-122.417445,37.79197,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+32,6301,Sacramento St & Jones St  ,-122.41416100000001,37.792396000000004,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+33,6302,Sacramento St & Kearny St  ,-122.40484599999999,37.793575,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+34,6303,Sacramento St & Larkin St  ,-122.419531,37.791721,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+35,6304,Sacramento St & Leavenworth St,-122.415755,37.792183,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+36,6305,Sacramento St & Laguna St  ,-122.42896,37.790526,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+37,6307,Sacramento St & Montgomery St ,-122.40306799999999,37.793842,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+38,6309,Sacramento St & Octavia St   ,-122.427328,37.790743,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+39,6311,Sacramento St & Polk St  ,-122.421146,37.791515999999994,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+40,6312,Sacramento St & Powell St  ,-122.409116,37.793043,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+41,6314,Sacramento St & Sansome St  ,-122.401551,37.79403,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+42,6315,Sacramento St & Sproule Ln  ,-122.411864,37.792673,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+43,6316,Sacramento St & Stockton St  ,-122.407591,37.793236,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+44,6317,Sacramento St & Van Ness Ave  ,-122.42228600000001,37.791378,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+45,6319,Sacramento St & Webster St  ,-122.432226,37.790107,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+46,6486,Steiner St & California St  ,-122.43556799999999,37.788844,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+47,7160,California St & 8th St,-122.466819,37.784791999999996,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+48,3546,32nd Ave & California St  ,-122.492442,37.783419,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+49,3548,32nd Ave & Clement St  ,-122.49233500000001,37.781995,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+50,3555,33rd Ave & Clement St  ,-122.49335400000001,37.781537,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+51,3823,California St & 4th Ave  ,-122.46257,37.785178,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+52,3825,California St & 6th Ave  ,-122.46470900000001,37.784902,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+53,3827,California St & 8th Ave  ,-122.466825,37.78463,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+54,3830,California St & 10th Ave  ,-122.46896299999999,37.784551,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+55,3832,California St & 12th Ave  ,-122.471103,37.784454,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+56,3834,California St & 16th Ave  ,-122.475501,37.784253,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+57,3836,California St & 19th Ave  ,-122.47871,37.784109,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+58,3838,California St & 22nd Ave  ,-122.481893,37.783941,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+59,3840,California St & 25th Ave  ,-122.48528600000002,37.783808,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+60,3842,California St & 28th Ave  ,-122.488456,37.783658,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+61,3844,California St & 30th Ave  ,-122.49008700000002,37.783578000000006,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+62,3846,California St & Arguello Blvd ,-122.45903600000001,37.785659,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+63,3848,California St & Baker St  ,-122.44338400000001,37.787620000000004,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+64,3853,California St & Cherry St  ,-122.456329,37.785973999999996,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+65,3859,California St & Divisadero St ,-122.440721,37.787954,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+66,3876,California St & Laurel St  ,-122.44998000000001,37.786801000000004,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+67,3885,California St & Pierce St  ,-122.43680800000001,37.788455,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+68,3887,California St & Park Presidio Blvd,-122.47276399999998,37.784365,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+69,3893,California St & Presidio Ave  ,-122.446931,37.787212,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+70,3897,California St & Spruce St  ,-122.45326999999999,37.786382,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+71,4015,Clay St & Drumm St  ,-122.396819,37.795435999999995,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+72,4016,Clay St & Franklin St  ,-122.42446299999999,37.791907,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+73,4017,Clay St & Front St  ,-122.399101,37.795116,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+74,4018,Clay St & Grant Ave  ,-122.405971,37.794263,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+75,4019,Clay St & Hyde St  ,-122.417899,37.792756,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+76,4020,Clay St & Jones St  ,-122.414616,37.793172999999996,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+77,4021,Clay St & Kearny St  ,-122.40441100000001,37.794477,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+78,4022,Clay St & Larkin St  ,-122.41958899999999,37.792526,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+79,4023,Clay St & Leavenworth St  ,-122.416304,37.792959,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+80,4024,Clay St & Mason St  ,-122.410823,37.793653000000006,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+81,4025,Clay St & Montgomery St  ,-122.40276999999999,37.794682,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+82,4026,Clay St & Polk St  ,-122.42101000000001,37.792357,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+83,4027,Clay St & Powell St  ,-122.40959099999999,37.793826,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+84,4028,Clay St & Sansome St  ,-122.40154299999999,37.79484,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+85,4029,Clay St & Stockton St  ,-122.40756100000002,37.794082,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+86,4030,Clay St & Taylor St  ,-122.41274399999999,37.793363,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+87,4031,Clay St & Van Ness Ave  ,-122.422913,37.792106,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+88,4277,Geary Blvd & 33rd Ave  ,-122.49311200000001,37.779734999999995,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+89,4905,Gough St & Sacramento St  ,-122.425771,37.791041,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+90,6292,Sacramento St & Buchanan St  ,-122.43085500000001,37.790194,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+91,6296,Sacramento St & Fillmore St  ,-122.43398799999999,37.789815999999995,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+92,6306,Sacramento St & Laguna St  ,-122.429185,37.79036,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+93,6310,Sacramento St & Octavia St  ,-122.42761399999999,37.790565,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+94,6320,Sacramento St & Webster St  ,-122.4325,37.789986999999996,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+95,6489,Steiner St & Sacramento St  ,-122.435556,37.789328999999995,San Francisco Municipal Transportation Agency,14287,1,CALIFORNIA
+96,3608,48th Ave & Point Lobos Ave  ,-122.50941100000001,37.779022999999995,San Francisco Municipal Transportation Agency,14330,38R,GEARY RAPID
+97,4257,Geary Blvd & 6th Ave  ,-122.46415900000001,37.781134,San Francisco Municipal Transportation Agency,14330,38R,GEARY RAPID
+98,4265,Geary Blvd & 20th Ave  ,-122.479266,37.780453,San Francisco Municipal Transportation Agency,14330,38R,GEARY RAPID
+99,4269,Geary Blvd & 25th Ave  ,-122.48461,37.78022,San Francisco Municipal Transportation Agency,14330,38R,GEARY RAPID
+100,4278,Geary Blvd & 33rd Ave  ,-122.493445,37.779798,San Francisco Municipal Transportation Agency,14330,38R,GEARY RAPID
+101,4280,Geary Blvd & 36th Ave  ,-122.496402,37.779671,San Francisco Municipal Transportation Agency,14330,38R,GEARY RAPID
+102,4282,Geary Blvd & 39th Ave  ,-122.500677,37.779472999999996,San Francisco Municipal Transportation Agency,14330,38R,GEARY RAPID
+103,4293,Geary Blvd & Divisadero St  ,-122.43936599999999,37.783428,San Francisco Municipal Transportation Agency,14330,38R,GEARY RAPID
+104,4295,Geary Blvd & Fillmore St  ,-122.43305,37.784391,San Francisco Municipal Transportation Agency,14330,38R,GEARY RAPID
+105,4301,Geary St & Kearny St,-122.40365600000001,37.787997,San Francisco Municipal Transportation Agency,14330,38R,GEARY RAPID
+106,4303,Geary St & Leavenworth St,-122.414971,37.786556,San Francisco Municipal Transportation Agency,14330,38R,GEARY RAPID
+107,4304,Geary Blvd & Laguna St  ,-122.427811,37.785033,San Francisco Municipal Transportation Agency,14330,38R,GEARY RAPID
+108,4725,Fremont St & Market St   ,-122.398151,37.791645,San Francisco Municipal Transportation Agency,14330,38R,GEARY RAPID
+109,4755,Geary Blvd & Park Presidio Blvd,-122.47242299999999,37.780687,San Francisco Municipal Transportation Agency,14330,38R,GEARY RAPID
+110,4757,Geary St & Powell St,-122.408391,37.787401,San Francisco Municipal Transportation Agency,14330,38R,GEARY RAPID
+111,4758,Geary Blvd & Presidio Ave   ,-122.44668999999999,37.782536,San Francisco Municipal Transportation Agency,14330,38R,GEARY RAPID
+112,4766,Geary St & Stockton St,-122.406568,37.787633,San Francisco Municipal Transportation Agency,14330,38R,GEARY RAPID
+113,4768,Geary Blvd & Van Ness Ave  ,-122.421575,37.785745,San Francisco Municipal Transportation Agency,14330,38R,GEARY RAPID
+114,5684,Market St & Montgomery St   ,-122.40248000000001,37.78849,San Francisco Municipal Transportation Agency,14330,38R,GEARY RAPID
+115,5689,Market St & Sansome St   ,-122.40049099999999,37.790013,San Francisco Municipal Transportation Agency,14330,38R,GEARY RAPID
+116,6109,Point Lobos Ave & 42nd Ave  ,-122.50285500000001,37.779651,San Francisco Municipal Transportation Agency,14330,38R,GEARY RAPID
+117,6111,Point Lobos Ave & 44th Ave  ,-122.50501000000001,37.779837,San Francisco Municipal Transportation Agency,14330,38R,GEARY RAPID
+118,6129,Point Lobos Ave & 46th Ave  ,-122.50743999999999,37.780041,San Francisco Municipal Transportation Agency,14330,38R,GEARY RAPID
+119,7620,Main St. & Howard St.,-122.393372,37.790483,San Francisco Municipal Transportation Agency,14330,38R,GEARY RAPID
+120,7854,Geary Blvd & Arguello Blvd,-122.458955,37.781313,San Francisco Municipal Transportation Agency,14330,38R,GEARY RAPID
+121,3089,Beale St & Mission St   ,-122.396879,37.791939,San Francisco Municipal Transportation Agency,14330,38R,GEARY RAPID
+122,3608,48th Ave & Point Lobos Ave  ,-122.50941100000001,37.779022999999995,San Francisco Municipal Transportation Agency,14330,38R,GEARY RAPID
+123,4258,Geary Blvd & 6th Ave  ,-122.464377,37.780902000000005,San Francisco Municipal Transportation Agency,14330,38R,GEARY RAPID
+124,4266,Geary Blvd & 20th Ave  ,-122.47948400000001,37.780221000000004,San Francisco Municipal Transportation Agency,14330,38R,GEARY RAPID
+125,4270,Geary Blvd & 25th Ave  ,-122.484825,37.779979,San Francisco Municipal Transportation Agency,14330,38R,GEARY RAPID
+126,4279,Geary Blvd & 33rd Ave  ,-122.493399,37.779574,San Francisco Municipal Transportation Agency,14330,38R,GEARY RAPID
+127,4281,Geary Blvd & 36th Ave  ,-122.49662,37.779439,San Francisco Municipal Transportation Agency,14330,38R,GEARY RAPID
+128,4283,Geary Blvd & 39th Ave  ,-122.499829,37.779286,San Francisco Municipal Transportation Agency,14330,38R,GEARY RAPID
+129,4285,Geary Blvd & 42nd Ave  ,-122.502775,37.779151,San Francisco Municipal Transportation Agency,14330,38R,GEARY RAPID
+130,4286,Geary Blvd & 45th Ave  ,-122.50625900000001,37.779043,San Francisco Municipal Transportation Agency,14330,38R,GEARY RAPID
+131,4288,Geary Blvd & Arguello Blvd  ,-122.458692,37.781153,San Francisco Municipal Transportation Agency,14330,38R,GEARY RAPID
+132,4294,Geary Blvd & Divisadero St  ,-122.439572,37.783178,San Francisco Municipal Transportation Agency,14330,38R,GEARY RAPID
+133,4305,Geary Blvd & Laguna St  ,-122.428155,37.784853999999996,San Francisco Municipal Transportation Agency,14330,38R,GEARY RAPID
+134,4756,Geary Blvd & Park Presidio Blvd,-122.472676,37.780526,San Francisco Municipal Transportation Agency,14330,38R,GEARY RAPID
+135,5638,Market St & 1st St   ,-122.399138,37.790896000000004,San Francisco Municipal Transportation Agency,14330,38R,GEARY RAPID
+136,5641,Market St & 3rd St   ,-122.40335900000001,37.787667,San Francisco Municipal Transportation Agency,14330,38R,GEARY RAPID
+137,5810,O'Farrell St & Grant Ave   ,-122.405629,37.786642,San Francisco Municipal Transportation Agency,14330,38R,GEARY RAPID
+138,5817,O'Farrell St & Powell St  ,-122.408128,37.786331,San Francisco Municipal Transportation Agency,14330,38R,GEARY RAPID
+139,5818,O'Farrell St & Van Ness Ave  ,-122.421415,37.784657,San Francisco Municipal Transportation Agency,14330,38R,GEARY RAPID
+140,7301,O'Farrell St&Taylor St,-122.41198,37.78585,San Francisco Municipal Transportation Agency,14330,38R,GEARY RAPID
+141,7619,Beale St. & Howard St.,-122.394232,37.789823,San Francisco Municipal Transportation Agency,14330,38R,GEARY RAPID
+142,7953,Geary Blvd & Masonic St ,-122.447034,37.782197,San Francisco Municipal Transportation Agency,14330,38R,GEARY RAPID
+143,7954,Geary Blvd & Fillmore St,-122.432052,37.784382,San Francisco Municipal Transportation Agency,14330,38R,GEARY RAPID
