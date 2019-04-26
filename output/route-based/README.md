@@ -1,4 +1,5 @@
-Route-based headways from analysis work done week of April 22
+Route-based headways from analysis work done week of April 22. Table below shows headway scenarios analyzed, with headways during the five periods described in minutes.
+
 
 Name | Description | AM Peak | PM Peak | Weekday | Saturday | Sunday |
 -----|-------------|---------|---------|---------|----------|--------|
