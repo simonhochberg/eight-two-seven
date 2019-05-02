@@ -1,0 +1,1492 @@
+,stop_id,stop_name,stop_lon,stop_lat,agency,route_id,route_short_name,route_long_name
+0,55,Adams / Fairfax,-118.37049099999999,34.032361,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+1,56,Adams / Vermont,-118.29120400000001,34.032672,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+2,99,Olive / Olympic,-118.259555,34.042134000000004,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+3,100,Beverly / San Vicente,-118.37931299999998,34.076707,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+4,404,Beverly / Hobart,-118.305879,34.076396,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+5,407,Beverly / Belmont,-118.263253,34.063646999999996,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+6,413,Beverly / Alvarado,-118.27001200000001,34.066696,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+7,415,Beverly / Benton,-118.277796,34.070078,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+8,419,Beverly / Hoover,-118.284152,34.072841,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+9,420,Beverly / Kenmore,-118.29638899999999,34.076440999999996,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+10,421,Beverly / La Brea,-118.343799,34.076313,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+11,425,Beverly / Normandie,-118.300229,34.076421,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+12,427,Beverly / Reno,-118.281053,34.071490999999995,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+13,428,Beverly / Union,-118.26543600000001,34.064629,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+14,432,Beverly / Vermont,-118.291997,34.076465999999996,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+15,433,Beverly / Virgil,-118.28696399999998,34.075524,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+16,434,Beverly / Western,-118.30889099999999,34.076391,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+17,1728,Beverly / Whitworth,-118.396248,34.05673,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+18,4105,Olive / General Thaddeus Kosciuszko,-118.249358,34.053042,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+19,4729,Beverly / Pico,-118.39545,34.055551,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+20,4731,Pico / Beverwil,-118.39879199999999,34.0549,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+21,5370,Olive / 11th,-118.26093600000002,34.04065,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+22,5372,Olive / 14th,-118.264293,34.036427,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+23,5376,Olive / 23rd,-118.26895,34.029003,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+24,5383,Olive / 8th,-118.256883,34.045008,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+25,5388,Olive / Pico,-118.263255,34.038081,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+26,5389,Olive / Washington,-118.267574,34.032146999999995,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+27,5898,San Vicente / Gracie Allen,-118.37839,34.074827,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+28,6952,Olive / Venice,-118.265404,34.035059000000004,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+29,7257,1st / Beaudry,-118.254342,34.059407,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+30,7446,Olive / 9th,-118.257926,34.043888,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+31,7449,Adams / 4th,-118.321278,34.032540999999995,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+32,7451,Adams / 7th,-118.324076,34.032531,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+33,7453,Adams / Arlington,-118.317835,34.032556,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+34,7455,Adams / Chester,-118.27871299999998,34.029264000000005,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+35,7456,Adams / Cimarron,-118.31533400000001,34.032568,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+36,7457,Adams / Edgehill,-118.328832,34.032515000000004,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+37,7459,Adams / Grand,-118.272473,34.026456,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+38,7460,Adams / Halldale,-118.302944,34.03263,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+39,7461,Adams / Hauser,-118.36278100000001,34.032399,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+40,7462,Adams / La Salle,-118.30511200000001,34.032624,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+41,7463,Adams / Magnolia,-118.28663200000001,34.032661,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+42,7464,Adams / Montclair,-118.332971,34.032498,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+43,7465,Adams / Budlong,-118.296121,34.032655,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+44,7467,Adams / Dunsmuir,-118.359695,34.032405,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+45,7468,Adams / Figueroa,-118.276201,34.028138,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+46,7471,Adams / Harcourt,-118.346173,34.032455999999996,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+47,7473,Adams / Hoover,-118.28374099999999,34.031489,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+48,7474,Adams / La Brea,-118.351173,34.032436,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+49,7475,Adams / Normandie,-118.29999,34.03264,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+50,7476,Adams / Redondo,-118.35601499999999,34.032416,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+51,7477,Adams / Saint Andrews,-118.311442,34.032594,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+52,7479,Adams / Western,-118.309205,34.032608,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+53,7480,Adams / Severance,-118.281043,34.030306,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+54,7481,Adams / Thurman,-118.368098,34.032377000000004,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+55,7482,Adams / Wellington,-118.338575,34.03248,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+56,8213,Adams / Crenshaw,-118.334668,34.032499,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+57,9029,Beverly / Park View,-118.27360900000001,34.068263,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+58,9030,Beverwil / Olympic,-118.39925900000001,34.059498,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+59,9264,Olive / 7th,-118.254754,34.04728,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+60,12146,La Cienega / Beverly,-118.376729,34.075654,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+61,12340,Beverly / Rossmore,-118.32698400000001,34.07628,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+62,13184,Beverly / Charleville,-118.39923300000001,34.065143,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+63,13185,Beverly / Gregory,-118.39925500000001,34.062027,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+64,15715,Olive / 5th,-118.25296100000001,34.049246000000004,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+65,15807,Adams / Buckingham,-118.34073400000001,34.032474,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+66,16530,Washington / Fairfax,-118.36929099999999,34.034824,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+67,16535,Washington Fairfax Terminal,-118.369075,34.035276,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+68,16950,Hill / Adams,-118.27055700000001,34.026021,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+69,36588,Beverly / La Cienega,-118.37708500000001,34.076197,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+70,140893,Beverly / Wilton Pl,-118.313326,34.076378999999996,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+71,140894,Beverly / Van Ness,-118.315545,34.076376,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+72,140895,Beverly / Windsor,-118.319336,34.076355,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+73,140896,Beverly / Larchmont,-118.32388300000001,34.076353999999995,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+74,140897,Beverly / June,-118.334526,34.076322999999995,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+75,140898,Beverly / Highland,-118.338403,34.076316999999996,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+76,140899,Beverly / Orange,-118.341672,34.076316,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+77,140901,Beverly / Poinsettia,-118.348881,34.076296,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+78,140902,Beverly / Martel,-118.350922,34.076287,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+79,140903,Beverly / Gardner,-118.35304199999999,34.076278,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+80,140906,Beverly / Genesee,-118.35821000000001,34.076249,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+81,140907,Beverly / Fairfax,-118.361208,34.076235,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+82,140908,Beverly / Crescent Heights,-118.365673,34.076223999999996,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+83,140909,Beverly / Sweetzer,-118.36984299999999,34.076214,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+84,140910,Beverly / Orlando,-118.372977,34.076202,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+85,140911,Beverly / Robertson,-118.38352900000001,34.077298,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+86,140912,Beverly / La Peer,-118.386941,34.077323,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+87,140913,Beverly / Doheny,-118.38956,34.077317,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+88,140914,Beverly / Palm,-118.39208899999998,34.077306,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+89,140915,Beverly / Santa Monica,-118.394586,34.077301,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+90,140916,Beverly / Wilshire,-118.39925500000001,34.066888,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+91,140920,Manhattan / Beverly Layover,-118.31016000000001,34.075804999999995,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+92,70500013,1st / Hope,-118.249996,34.056646,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+93,137,Beverly / San Vicente,-118.379811,34.076601000000004,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+94,426,Beverly / Park View,-118.274134,34.068203999999994,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+95,429,Beverly / Vermont,-118.291352,34.076215000000005,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+96,442,Beverly / Western,-118.309385,34.076134,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+97,1728,Beverly / Whitworth,-118.396248,34.05673,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+98,2460,Hill / Venice,-118.26452900000001,34.034893,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+99,3541,Hill / 23rd,-118.268984,34.028803,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+100,3551,Hill / Adams,-118.27083300000001,34.026019,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+101,4726,Beverly / Charleville,-118.398932,34.064869,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+102,4727,Beverly / Gregory,-118.398951,34.062096000000004,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+103,4728,Beverly / Olympic,-118.398647,34.059946000000004,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+104,5144,Adams / Grand,-118.271978,34.026463,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+105,5898,San Vicente / Gracie Allen,-118.37839,34.074827,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+106,5985,Santa Monica / Crescent,-118.40126599999999,34.073159999999994,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+107,6004,Santa Monica / Beverly,-118.3957,34.076987,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+108,7454,Adams / Buckingham,-118.34076499999999,34.032672,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+109,7913,Pico / Hill,-118.26235600000001,34.037649,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+110,8654,Adams / Congress,-118.30226100000002,34.032829,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+111,8656,Adams / Saint James,-118.28031999999999,34.030211,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+112,8987,Beverly / Council,-118.287015,34.075019,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+113,8988,Beverly / Curson,-118.355124,34.076014,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+114,8989,Beverly / Genesee,-118.358539,34.075995,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+115,8990,Beverly / Hobart,-118.30620900000001,34.076142,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+116,8992,Beverly / Belmont,-118.262961,34.06323,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+117,8993,Beverly / Alvarado,-118.27059299999999,34.066665,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+118,8994,Beverly / Benton,-118.27786100000002,34.069819,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+119,8998,Beverly / Crescent Heights,-118.36600200000001,34.07597,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+120,8999,Beverly / Fairfax,-118.36109099999999,34.075982,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+121,9001,Beverly / Gardner,-118.353371,34.076024,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+122,9002,Beverly / Highland,-118.33873200000001,34.076064,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+123,9003,Beverly / Hoover,-118.28464699999999,34.072809,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+124,9004,Beverly / June,-118.334865,34.076077000000005,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+125,9005,Beverly / Kenmore,-118.296718,34.076188,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+126,9007,Beverly / La Brea,-118.344293,34.076059,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+127,9008,Beverly / La Peer,-118.38694,34.07707,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+128,9011,Beverly / Mansfield,-118.340948,34.076063,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+129,9012,Beverly / Martel,-118.351251,34.076033,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+130,9013,Beverly / Normandie,-118.300559,34.076167,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+131,9014,Beverly / Orlando,-118.373306,34.075948,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+132,9015,Beverly / Poinsettia,-118.34838400000001,34.076044,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+133,9016,Beverly / Reno,-118.28148200000001,34.071391,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+134,9018,Beverly / Rossmore,-118.32745700000001,34.075814,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+135,9019,Beverly / Sweetzer,-118.370172,34.075959999999995,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+136,9020,Beverly / Union,-118.26603,34.064611,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+137,9021,Beverly / Van Ness,-118.315874,34.076122999999995,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+138,9025,Beverly / Wilton,-118.313744,34.076126,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+139,9026,Beverly / Windsor,-118.31976100000001,34.076101,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+140,9028,Beverly / La Cienega,-118.375974,34.07594,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+141,11881,Beverly / Doheny,-118.389476,34.077067,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+142,11882,Beverly / Maple,-118.393699,34.077048,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+143,13406,Washington Fairfax Hub,-118.369126,34.035671,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+144,13551,Grand / 11th,-118.261973,34.041771000000004,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+145,13560,Grand / 3rd,-118.251572,34.052881,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+146,13561,Grand / 5th,-118.254268,34.05007,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+147,13562,Grand / 6th,-118.255274,34.048933,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+148,13567,Grand / 7th,-118.25749499999999,34.04654,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+149,13568,Grand / 8th,-118.258252,34.045722999999995,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+150,13572,Grand / Olympic,-118.26056499999999,34.043258,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+151,15610,1st / Beaudry,-118.254421,34.059135,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+152,15613,1st / Hope,-118.25005800000001,34.05636,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+153,15801,Adams / 10th,-118.328226,34.032712,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+154,15802,Adams / 13th,-118.331771,34.032699,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+155,15803,Adams / 4th,-118.32106399999999,34.032739,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+156,15804,Adams / 6th,-118.32343999999999,34.03273,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+157,15806,Adams / Arlington,-118.31750600000001,34.032754,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+158,15808,Adams / Chester,-118.27831100000002,34.029309000000005,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+159,15809,Adams / Cimarron,-118.31533400000001,34.032765000000005,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+160,15810,Adams / Crenshaw,-118.334751,34.032697,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+161,15812,Adams / Hauser,-118.362452,34.032596999999996,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+162,15813,Adams / La Salle,-118.305555,34.032862,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+163,15814,Adams / Magnolia,-118.28663,34.032859,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+164,15815,Adams / Budlong,-118.295786,34.032853,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+165,15817,Adams / Dunsmuir,-118.359297,34.032604,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+166,15818,Adams / Fairfax,-118.37048500000002,34.032559,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+167,15819,Adams / Figueroa,-118.275756,34.028163,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+168,15822,Adams / Harcourt,-118.345844,34.032654,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+169,15824,Adams / Hoover,-118.28421100000001,34.031921999999994,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+170,15825,Adams / La Brea,-118.3506,34.032635,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+171,15828,Adams / Normandie,-118.300073,34.032837,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+172,15829,Adams / Redondo,-118.356066,34.032614,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+173,15830,Adams / Saint Andrews,-118.311443,34.032792,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+174,15832,Adams / Vermont,-118.29186499999999,34.032868,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+175,15833,Adams / Western,-118.30871,34.032807,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+176,15834,Adams / Thurman,-118.36768000000001,34.032565000000005,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+177,15835,Adams / Wellington,-118.337728,34.03268,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+178,16535,Washington Fairfax Terminal,-118.369075,34.035276,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+179,19062,Hill / Washington,-118.266985,34.031808000000005,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+180,28265,Beverly / Wilshire,-118.398951,34.066889,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+181,140917,Beverly / Robertson,-118.383958,34.077069,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+182,140918,Beverly / Larchmont,-118.32338700000001,34.076103,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+183,140920,Manhattan / Beverly Layover,-118.31016000000001,34.075804999999995,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+184,142453,1st / Grand,-118.249002,34.055676,Metro - Los Angeles,14-13122,14/37,Metro Local Line
+185,31,3rd / Gardner,-118.353264,34.070240000000005,Metro - Los Angeles,16-13122,16,Metro Local Line
+186,533,Burton / Foothill,-118.396244,34.071962,Metro - Los Angeles,16-13122,16,Metro Local Line
+187,535,Burton / Doheny,-118.389898,34.071977000000004,Metro - Los Angeles,16-13122,16,Metro Local Line
+188,537,Burton / La Peer,-118.386896,34.071992,Metro - Los Angeles,16-13122,16,Metro Local Line
+189,538,Burton / Palm,-118.392398,34.071971999999995,Metro - Los Angeles,16-13122,16,Metro Local Line
+190,539,Burton / Rexford,-118.398552,34.071938,Metro - Los Angeles,16-13122,16,Metro Local Line
+191,553,Santa Monica / Crescent,-118.401651,34.072897,Metro - Los Angeles,16-13122,16,Metro Local Line
+192,1427,San Vicente / Beverly,-118.379419,34.076046999999996,Metro - Los Angeles,16-13122,16,Metro Local Line
+193,1959,Robertson / Venice,-118.38983300000001,34.027547,Metro - Los Angeles,16-13122,16,Metro Local Line
+194,3161,Maple Lot,-118.248198,34.042894,Metro - Los Angeles,16-13122,16,Metro Local Line
+195,3404,Century City Terminal,-118.41716100000001,34.062083,Metro - Los Angeles,16-13122,16,Metro Local Line
+196,3843,Robertson / Clifton,-118.383583,34.069542999999996,Metro - Los Angeles,16-13122,16,Metro Local Line
+197,4006,National / Venice,-118.388401,34.029728000000006,Metro - Los Angeles,16-13122,16,Metro Local Line
+198,4514,Robertson / Pico,-118.383546,34.055051,Metro - Los Angeles,16-13122,16,Metro Local Line
+199,4735,Bixel / Maryland,-118.260892,34.055931,Metro - Los Angeles,16-13122,16,Metro Local Line
+200,5138,6th / Hill,-118.25331499999999,34.047387,Metro - Los Angeles,16-13122,16,Metro Local Line
+201,5427,Robertson / Airdrome,-118.385396,34.048695,Metro - Los Angeles,16-13122,16,Metro Local Line
+202,5428,Robertson / Beverlywood,-118.388278,34.038128,Metro - Los Angeles,16-13122,16,Metro Local Line
+203,5430,Robertson / Cadillac,-118.387506,34.04098,Metro - Los Angeles,16-13122,16,Metro Local Line
+204,5431,Robertson / Cashio,-118.38394199999999,34.052074,Metro - Los Angeles,16-13122,16,Metro Local Line
+205,5432,Robertson / Cattaraugus,-118.38919299999999,34.034696000000004,Metro - Los Angeles,16-13122,16,Metro Local Line
+206,5434,Robertson / Gregory,-118.383374,34.062812,Metro - Los Angeles,16-13122,16,Metro Local Line
+207,5435,Robertson / Kincardine,-118.389494,34.033448,Metro - Los Angeles,16-13122,16,Metro Local Line
+208,5437,Robertson / Sawyer,-118.386486,34.044732,Metro - Los Angeles,16-13122,16,Metro Local Line
+209,5438,Robertson / 18th,-118.385967,34.046616,Metro - Los Angeles,16-13122,16,Metro Local Line
+210,5439,Robertson / 24th,-118.387902,34.039525,Metro - Los Angeles,16-13122,16,Metro Local Line
+211,5441,Robertson / Olympic,-118.383449,34.05966,Metro - Los Angeles,16-13122,16,Metro Local Line
+212,5442,Robertson / Whitworth,-118.383498,34.057376,Metro - Los Angeles,16-13122,16,Metro Local Line
+213,5585,6th / Spring,-118.250749,34.045711,Metro - Los Angeles,16-13122,16,Metro Local Line
+214,5918,Santa Monica / Century Park East,-118.4156,34.063159000000006,Metro - Los Angeles,16-13122,16,Metro Local Line
+215,6006,Santa Monica / Camden,-118.40574199999999,34.070097,Metro - Los Angeles,16-13122,16,Metro Local Line
+216,6050,Santa Monica / Wilshire,-118.41048799999999,34.066821999999995,Metro - Los Angeles,16-13122,16,Metro Local Line
+217,7264,3rd / Hauser,-118.35126799999999,34.069845,Metro - Los Angeles,16-13122,16,Metro Local Line
+218,7265,3rd / Loma,-118.26575700000001,34.059839000000004,Metro - Los Angeles,16-13122,16,Metro Local Line
+219,7266,3rd / Lorraine,-118.32016899999999,34.068838,Metro - Los Angeles,16-13122,16,Metro Local Line
+220,7267,3rd / Lucas,-118.26182,34.058248,Metro - Los Angeles,16-13122,16,Metro Local Line
+221,7268,3rd / La Cienega,-118.37670200000001,34.073299,Metro - Los Angeles,16-13122,16,Metro Local Line
+222,7269,3rd / Alexandria,-118.298099,34.068919,Metro - Los Angeles,16-13122,16,Metro Local Line
+223,7270,3rd / Alvarado,-118.27298799999998,34.0629,Metro - Los Angeles,16-13122,16,Metro Local Line
+224,7271,3rd / Bixel,-118.260002,34.057499,Metro - Los Angeles,16-13122,16,Metro Local Line
+225,7272,3rd / Bonnie Brae,-118.27039599999999,34.061851000000004,Metro - Los Angeles,16-13122,16,Metro Local Line
+226,7273,3rd / Burnside,-118.35536499999999,34.070564000000005,Metro - Los Angeles,16-13122,16,Metro Local Line
+227,7274,3rd / Carondelet,-118.276328,34.064714,Metro - Los Angeles,16-13122,16,Metro Local Line
+228,7275,3rd / Catalina,-118.29558,34.068922,Metro - Los Angeles,16-13122,16,Metro Local Line
+229,7276,3rd / Cochran,-118.34741499999998,34.069111,Metro - Los Angeles,16-13122,16,Metro Local Line
+230,7277,3rd / Crescent Heights,-118.36601100000001,34.072035,Metro - Los Angeles,16-13122,16,Metro Local Line
+231,7278,3rd / Fairfax,-118.361108,34.07138,Metro - Los Angeles,16-13122,16,Metro Local Line
+232,7279,3rd / Grand View,-118.27461100000001,34.063685,Metro - Los Angeles,16-13122,16,Metro Local Line
+233,7280,3rd / Highland,-118.33874899999999,34.068793,Metro - Los Angeles,16-13122,16,Metro Local Line
+234,7281,3rd / Hobart,-118.30563400000001,34.068870000000004,Metro - Los Angeles,16-13122,16,Metro Local Line
+235,7282,3rd / Hoover,-118.28456299999999,34.068474,Metro - Los Angeles,16-13122,16,Metro Local Line
+236,7283,3rd / Hudson,-118.33375600000001,34.068804,Metro - Los Angeles,16-13122,16,Metro Local Line
+237,7284,3rd / Kingsley,-118.30301899999999,34.068884999999995,Metro - Los Angeles,16-13122,16,Metro Local Line
+238,7285,3rd / La Brea,-118.343682,34.068784,Metro - Los Angeles,16-13122,16,Metro Local Line
+239,7286,3rd / Larchmont,-118.32378100000001,34.068825,Metro - Los Angeles,16-13122,16,Metro Local Line
+240,7287,3rd / Las Palmas,-118.335394,34.068799,Metro - Los Angeles,16-13122,16,Metro Local Line
+241,7288,3rd / Mansfield,-118.34093500000002,34.068791999999995,Metro - Los Angeles,16-13122,16,Metro Local Line
+242,7289,3rd / Normandie,-118.300027,34.068906,Metro - Los Angeles,16-13122,16,Metro Local Line
+243,7290,3rd / Norton,-118.317481,34.068839000000004,Metro - Los Angeles,16-13122,16,Metro Local Line
+244,7291,3rd / Occidental,-118.282328,34.067671000000004,Metro - Los Angeles,16-13122,16,Metro Local Line
+245,7292,3rd / Ogden,-118.358729,34.071032,Metro - Los Angeles,16-13122,16,Metro Local Line
+246,7293,3rd / Orlando,-118.37283300000001,34.072860999999996,Metro - Los Angeles,16-13122,16,Metro Local Line
+247,7294,3rd / Rampart,-118.279097,34.066271,Metro - Los Angeles,16-13122,16,Metro Local Line
+248,7295,3rd / Rimpau,-118.33050700000001,34.068804,Metro - Los Angeles,16-13122,16,Metro Local Line
+249,7296,3rd / Robertson,-118.38341899999999,34.073484,Metro - Los Angeles,16-13122,16,Metro Local Line
+250,7297,3rd / Rossmore,-118.327519,34.068829,Metro - Los Angeles,16-13122,16,Metro Local Line
+251,7298,3rd / Saint Andrews,-118.311756,34.068852,Metro - Los Angeles,16-13122,16,Metro Local Line
+252,7299,3rd / Sweetzer,-118.36970500000001,34.072516,Metro - Los Angeles,16-13122,16,Metro Local Line
+253,7300,3rd / Union,-118.26769099999999,34.060648,Metro - Los Angeles,16-13122,16,Metro Local Line
+254,7302,3rd / Virgil,-118.28699399999999,34.068861,Metro - Los Angeles,16-13122,16,Metro Local Line
+255,7303,3rd / Western,-118.309339,34.068855,Metro - Los Angeles,16-13122,16,Metro Local Line
+256,7304,3rd / Wilton,-118.313796,34.068846,Metro - Los Angeles,16-13122,16,Metro Local Line
+257,7305,3rd / Witmer,-118.26366499999999,34.059013,Metro - Los Angeles,16-13122,16,Metro Local Line
+258,7345,6th / Broadway,-118.25227,34.046694,Metro - Los Angeles,16-13122,16,Metro Local Line
+259,7371,6th / Saint Paul,-118.261082,34.053487,Metro - Los Angeles,16-13122,16,Metro Local Line
+260,9744,6th / Los Angeles,-118.24878700000001,34.044344,Metro - Los Angeles,16-13122,16,Metro Local Line
+261,12485,National / Robertson,-118.39068200000001,34.031292,Metro - Los Angeles,16-13122,16,Metro Local Line
+262,12968,Robertson / Wilshire,-118.383494,34.066784999999996,Metro - Los Angeles,16-13122,16,Metro Local Line
+263,13832,Robertson / Burton,-118.38359799999999,34.071996999999996,Metro - Los Angeles,16-13122,16,Metro Local Line
+264,15659,3rd / Vermont,-118.29132,34.06893,Metro - Los Angeles,16-13122,16,Metro Local Line
+265,15718,6th / Hope,-118.25589199999999,34.049031,Metro - Los Angeles,16-13122,16,Metro Local Line
+266,16922,3rd / Willaman,-118.380728,34.073468,Metro - Los Angeles,16-13122,16,Metro Local Line
+267,1204,5th / Wall,-118.245544,34.044875,Metro - Los Angeles,16-13122,16,Metro Local Line
+268,1297,Santa Monica / Wilshire,-118.41108200000001,34.066771,Metro - Los Angeles,16-13122,16,Metro Local Line
+269,1426,George Burns / Gracie Allen,-118.381518,34.075158,Metro - Los Angeles,16-13122,16,Metro Local Line
+270,1427,San Vicente / Beverly,-118.379419,34.076046999999996,Metro - Los Angeles,16-13122,16,Metro Local Line
+271,1918,Washington / Exposition Sta Dwy,-118.38751,34.027782,Metro - Los Angeles,16-13122,16,Metro Local Line
+272,1959,Robertson / Venice,-118.38983300000001,34.027547,Metro - Los Angeles,16-13122,16,Metro Local Line
+273,2265,3rd / Hoover,-118.284524,34.068740000000005,Metro - Los Angeles,16-13122,16,Metro Local Line
+274,3161,Maple Lot,-118.248198,34.042894,Metro - Los Angeles,16-13122,16,Metro Local Line
+275,3239,Century Park West / Santa Monica,-118.42111200000001,34.059077,Metro - Los Angeles,16-13122,16,Metro Local Line
+276,3246,Century Park West / Century City Terminal,-118.41835900000001,34.055877,Metro - Los Angeles,16-13122,16,Metro Local Line
+277,3404,Century City Terminal,-118.41716100000001,34.062083,Metro - Los Angeles,16-13122,16,Metro Local Line
+278,5429,Robertson / Burton,-118.383904,34.071859,Metro - Los Angeles,16-13122,16,Metro Local Line
+279,5472,National / Venice,-118.38854199999999,34.029513,Metro - Los Angeles,16-13122,16,Metro Local Line
+280,5917,Santa Monica / Avenue Of The Stars,-118.41796599999999,34.06154,Metro - Los Angeles,16-13122,16,Metro Local Line
+281,7301,3rd / Vermont,-118.29142,34.069185,Metro - Los Angeles,16-13122,16,Metro Local Line
+282,8625,3rd / Witmer,-118.263232,34.059119,Metro - Los Angeles,16-13122,16,Metro Local Line
+283,8634,5th / Los Angeles,-118.247677,34.04625,Metro - Los Angeles,16-13122,16,Metro Local Line
+284,9120,Burton / Foothill,-118.39591999999999,34.072496,Metro - Los Angeles,16-13122,16,Metro Local Line
+285,9122,Burton / Rexford,-118.398987,34.072313,Metro - Los Angeles,16-13122,16,Metro Local Line
+286,9123,Burton / Palm,-118.39206999999999,34.072495,Metro - Los Angeles,16-13122,16,Metro Local Line
+287,9124,Burton / Doheny,-118.389501,34.072495,Metro - Los Angeles,16-13122,16,Metro Local Line
+288,9125,Burton / La Peer,-118.38660800000001,34.072493,Metro - Los Angeles,16-13122,16,Metro Local Line
+289,12321,Robertson / Clifton,-118.383871,34.068987,Metro - Los Angeles,16-13122,16,Metro Local Line
+290,12969,Robertson / Cadillac,-118.387732,34.041304,Metro - Los Angeles,16-13122,16,Metro Local Line
+291,12970,Robertson / Monte Mar,-118.386284,34.046606,Metro - Los Angeles,16-13122,16,Metro Local Line
+292,12971,Robertson / Pico,-118.3839,34.054522,Metro - Los Angeles,16-13122,16,Metro Local Line
+293,12972,Robertson / Wilshire,-118.383808,34.066773,Metro - Los Angeles,16-13122,16,Metro Local Line
+294,13114,3rd / Alvarado,-118.27296499999999,34.063158,Metro - Los Angeles,16-13122,16,Metro Local Line
+295,13192,Bixel / Maryland,-118.26066399999999,34.055989000000004,Metro - Los Angeles,16-13122,16,Metro Local Line
+296,13668,3rd / La Cienega,-118.376792,34.073566,Metro - Los Angeles,16-13122,16,Metro Local Line
+297,13830,Robertson / Airdrome,-118.38554599999999,34.049046000000004,Metro - Los Angeles,16-13122,16,Metro Local Line
+298,13831,Robertson / Beverlywood,-118.388504,34.038452,Metro - Los Angeles,16-13122,16,Metro Local Line
+299,13833,Robertson / Cashio,-118.384208,34.052381,Metro - Los Angeles,16-13122,16,Metro Local Line
+300,13834,Robertson / Cattaraugus,-118.389526,34.034615,Metro - Los Angeles,16-13122,16,Metro Local Line
+301,13836,Robertson / Gregory,-118.38368,34.062678999999996,Metro - Los Angeles,16-13122,16,Metro Local Line
+302,13837,Robertson / Kincardine,-118.389991,34.033108,Metro - Los Angeles,16-13122,16,Metro Local Line
+303,13839,Robertson / Sawyer,-118.38681899999999,34.044647999999995,Metro - Los Angeles,16-13122,16,Metro Local Line
+304,13840,Robertson / 24th,-118.38811100000001,34.039901,Metro - Los Angeles,16-13122,16,Metro Local Line
+305,13841,Robertson / 3rd,-118.383901,34.07334,Metro - Los Angeles,16-13122,16,Metro Local Line
+306,13842,Robertson / Olympic,-118.38376299999999,34.059115000000006,Metro - Los Angeles,16-13122,16,Metro Local Line
+307,13843,Robertson / Whitworth,-118.383812,34.056831,Metro - Los Angeles,16-13122,16,Metro Local Line
+308,14373,S Santa Monica / Canon,-118.40196399999999,34.07199,Metro - Los Angeles,16-13122,16,Metro Local Line
+309,14384,Santa Monica / Camden,-118.40567800000001,34.070465999999996,Metro - Los Angeles,16-13122,16,Metro Local Line
+310,15621,3rd / Loma,-118.265302,34.059939,Metro - Los Angeles,16-13122,16,Metro Local Line
+311,15622,3rd / Lorraine,-118.31983999999999,34.069091,Metro - Los Angeles,16-13122,16,Metro Local Line
+312,15623,3rd / Lucas,-118.26138799999998,34.058359,Metro - Los Angeles,16-13122,16,Metro Local Line
+313,15625,3rd / Alexandria,-118.29771699999999,34.069173,Metro - Los Angeles,16-13122,16,Metro Local Line
+314,15626,3rd / Alta Vista,-118.347683,34.069424,Metro - Los Angeles,16-13122,16,Metro Local Line
+315,15628,3rd / Bixel,-118.26000900000001,34.057784999999996,Metro - Los Angeles,16-13122,16,Metro Local Line
+316,15629,3rd / Bonnie Brae,-118.26996399999999,34.061945,Metro - Los Angeles,16-13122,16,Metro Local Line
+317,15630,3rd / Burnside,-118.35498999999999,34.070768,Metro - Los Angeles,16-13122,16,Metro Local Line
+318,15631,3rd / Carondelet,-118.27659399999999,34.065112,Metro - Los Angeles,16-13122,16,Metro Local Line
+319,15632,3rd / Catalina,-118.29525,34.069176,Metro - Los Angeles,16-13122,16,Metro Local Line
+320,15633,3rd / Crescent Heights,-118.36563899999999,34.07224,Metro - Los Angeles,16-13122,16,Metro Local Line
+321,15634,3rd / Fairfax,-118.361152,34.07164,Metro - Los Angeles,16-13122,16,Metro Local Line
+322,15635,3rd / Gardner,-118.35349599999999,34.070536,Metro - Los Angeles,16-13122,16,Metro Local Line
+323,15636,3rd / Grand View,-118.27446,34.063949,Metro - Los Angeles,16-13122,16,Metro Local Line
+324,15637,3rd / Highland,-118.33835400000001,34.069047,Metro - Los Angeles,16-13122,16,Metro Local Line
+325,15638,3rd / Hobart,-118.305205,34.069124,Metro - Los Angeles,16-13122,16,Metro Local Line
+326,15639,3rd / Hudson,-118.333427,34.069057,Metro - Los Angeles,16-13122,16,Metro Local Line
+327,15640,3rd / Kingsley,-118.30318500000001,34.069137,Metro - Los Angeles,16-13122,16,Metro Local Line
+328,15641,3rd / La Brea,-118.343782,34.069037,Metro - Los Angeles,16-13122,16,Metro Local Line
+329,15642,3rd / Larchmont,-118.323452,34.069078999999995,Metro - Los Angeles,16-13122,16,Metro Local Line
+330,15643,3rd / Las Palmas,-118.33556000000002,34.069052,Metro - Los Angeles,16-13122,16,Metro Local Line
+331,15644,3rd / Mansfield,-118.34060600000001,34.069046,Metro - Los Angeles,16-13122,16,Metro Local Line
+332,15645,3rd / Martel,-118.350876,34.070029999999996,Metro - Los Angeles,16-13122,16,Metro Local Line
+333,15646,3rd / Normandie,-118.30016,34.069156,Metro - Los Angeles,16-13122,16,Metro Local Line
+334,15647,3rd / Norton,-118.31694099999999,34.069094,Metro - Los Angeles,16-13122,16,Metro Local Line
+335,15648,3rd / Occidental,-118.281892,34.067771,Metro - Los Angeles,16-13122,16,Metro Local Line
+336,15649,3rd / Ogden,-118.358842,34.071304,Metro - Los Angeles,16-13122,16,Metro Local Line
+337,15650,3rd / Orlando,-118.373446,34.073189,Metro - Los Angeles,16-13122,16,Metro Local Line
+338,15651,3rd / Rampart,-118.278648,34.06627,Metro - Los Angeles,16-13122,16,Metro Local Line
+339,15652,3rd / Rimpau,-118.330178,34.069058,Metro - Los Angeles,16-13122,16,Metro Local Line
+340,15653,3rd / Rossmore,-118.327124,34.069086,Metro - Los Angeles,16-13122,16,Metro Local Line
+341,15654,3rd / Sherbourne,-118.379861,34.073718,Metro - Los Angeles,16-13122,16,Metro Local Line
+342,15655,3rd / Saint Andrews,-118.311426,34.069105,Metro - Los Angeles,16-13122,16,Metro Local Line
+343,15656,3rd / Sweetzer,-118.369825,34.072784999999996,Metro - Los Angeles,16-13122,16,Metro Local Line
+344,15657,3rd / Union,-118.26771799999999,34.060936,Metro - Los Angeles,16-13122,16,Metro Local Line
+345,15660,3rd / Virgil,-118.286599,34.069117,Metro - Los Angeles,16-13122,16,Metro Local Line
+346,15662,3rd / Western,-118.308877,34.069109000000005,Metro - Los Angeles,16-13122,16,Metro Local Line
+347,15663,3rd / Wilton,-118.314527,34.069097,Metro - Los Angeles,16-13122,16,Metro Local Line
+348,15688,5th / Grand,-118.25413700000001,34.050463,Metro - Los Angeles,16-13122,16,Metro Local Line
+349,15690,5th / Flower,-118.25583400000001,34.051564,Metro - Los Angeles,16-13122,16,Metro Local Line
+350,15693,5th / Spring,-118.24981000000001,34.047647,Metro - Los Angeles,16-13122,16,Metro Local Line
+351,15730,6th / Saint Paul,-118.260653,34.05359,Metro - Los Angeles,16-13122,16,Metro Local Line
+352,16917,6th / Bixel,-118.261774,34.054044,Metro - Los Angeles,16-13122,16,Metro Local Line
+353,17052,National / Robertson,-118.390624,34.03096,Metro - Los Angeles,16-13122,16,Metro Local Line
+354,142047,Century Park East / Constellation,-118.413844,34.060425,Metro - Los Angeles,16-13122,16,Metro Local Line
+355,487,7th / Alameda,-118.238194,34.03483,Metro - Los Angeles,18-13122,18,Metro Local Line
+356,956,6th / Oxford Terminal,-118.308442,34.063032,Metro - Los Angeles,18-13122,18,Metro Local Line
+357,1209,6th / Gladys,-118.242024,34.040118,Metro - Los Angeles,18-13122,18,Metro Local Line
+358,1210,6th / Central,-118.24074499999999,34.039356,Metro - Los Angeles,18-13122,18,Metro Local Line
+359,1215,6th / San Pedro,-118.245057,34.042024,Metro - Los Angeles,18-13122,18,Metro Local Line
+360,1216,6th / Towne,-118.24377700000001,34.041238,Metro - Los Angeles,18-13122,18,Metro Local Line
+361,1217,6th / Wall,-118.247325,34.043467,Metro - Los Angeles,18-13122,18,Metro Local Line
+362,1223,7th / Anderson,-118.223396,34.034397,Metro - Los Angeles,18-13122,18,Metro Local Line
+363,2157,Garfield / Ferguson,-118.13152600000001,34.008174,Metro - Los Angeles,18-13122,18,Metro Local Line
+364,2159,Flotilla / Garfield,-118.1304,34.005609,Metro - Los Angeles,18-13122,18,Metro Local Line
+365,3161,Maple Lot,-118.248198,34.042894,Metro - Los Angeles,18-13122,18,Metro Local Line
+366,5065,Garfield / Allston,-118.130445,34.013696,Metro - Los Angeles,18-13122,18,Metro Local Line
+367,5077,Garfield / Olympic,-118.13063700000001,34.011657,Metro - Los Angeles,18-13122,18,Metro Local Line
+368,5138,6th / Hill,-118.25331499999999,34.047387,Metro - Los Angeles,18-13122,18,Metro Local Line
+369,5585,6th / Spring,-118.250749,34.045711,Metro - Los Angeles,18-13122,18,Metro Local Line
+370,5775,Western / Wilshire,-118.308924,34.062058,Metro - Los Angeles,18-13122,18,Metro Local Line
+371,7341,6th / Lucas,-118.263994,34.054701,Metro - Los Angeles,18-13122,18,Metro Local Line
+372,7342,6th / Alexandria,-118.29808,34.063492,Metro - Los Angeles,18-13122,18,Metro Local Line
+373,7343,6th / Bixel,-118.26234099999999,34.053999,Metro - Los Angeles,18-13122,18,Metro Local Line
+374,7344,6th / Bonnie Brae,-118.27275900000001,34.058465999999996,Metro - Los Angeles,18-13122,18,Metro Local Line
+375,7345,6th / Broadway,-118.25227,34.046694,Metro - Los Angeles,18-13122,18,Metro Local Line
+376,7347,6th / Catalina,-118.29556399999998,34.063503999999995,Metro - Los Angeles,18-13122,18,Metro Local Line
+377,7348,6th / Commonwealth,-118.28581399999999,34.063626,Metro - Los Angeles,18-13122,18,Metro Local Line
+378,7352,6th / Grand View,-118.276845,34.060314,Metro - Los Angeles,18-13122,18,Metro Local Line
+379,7353,6th / Harvard,-118.30426000000001,34.063463,Metro - Los Angeles,18-13122,18,Metro Local Line
+380,7356,6th / Lafayette Park,-118.283267,34.063184,Metro - Los Angeles,18-13122,18,Metro Local Line
+381,7358,6th / Normandie,-118.300526,34.063483000000005,Metro - Los Angeles,18-13122,18,Metro Local Line
+382,7359,6th / Park View,-118.27832,34.060975,Metro - Los Angeles,18-13122,18,Metro Local Line
+383,7360,6th / Rampart,-118.28153400000001,34.062411,Metro - Los Angeles,18-13122,18,Metro Local Line
+384,7361,6th / Serrano,-118.30676299999999,34.063448,Metro - Los Angeles,18-13122,18,Metro Local Line
+385,7364,6th / Virgil,-118.28720700000001,34.06362,Metro - Los Angeles,18-13122,18,Metro Local Line
+386,7366,6th / Westmoreland,-118.288587,34.063614,Metro - Los Angeles,18-13122,18,Metro Local Line
+387,7367,6th / Valencia,-118.267518,34.056188,Metro - Los Angeles,18-13122,18,Metro Local Line
+388,7369,6th / Alvarado,-118.275136,34.059554,Metro - Los Angeles,18-13122,18,Metro Local Line
+389,7370,6th / Vermont,-118.29130500000001,34.063588,Metro - Los Angeles,18-13122,18,Metro Local Line
+390,7371,6th / Saint Paul,-118.261082,34.053487,Metro - Los Angeles,18-13122,18,Metro Local Line
+391,8270,Whittier / Goodrich,-118.15311499999999,34.019399,Metro - Los Angeles,18-13122,18,Metro Local Line
+392,8278,Whittier / Camulos,-118.209949,34.031659000000005,Metro - Los Angeles,18-13122,18,Metro Local Line
+393,8286,Whittier / Esperanza,-118.19628,34.025574,Metro - Los Angeles,18-13122,18,Metro Local Line
+394,8287,Whittier / Euclid,-118.20756000000002,34.030594,Metro - Los Angeles,18-13122,18,Metro Local Line
+395,8288,Whittier / Ferris,-118.163191,34.021534,Metro - Los Angeles,18-13122,18,Metro Local Line
+396,8302,Whittier / Orme,-118.21193799999999,34.032543,Metro - Los Angeles,18-13122,18,Metro Local Line
+397,8311,Whittier / Arizona,-118.166839,34.022301,Metro - Los Angeles,18-13122,18,Metro Local Line
+398,8312,Whittier / Atlantic,-118.157549,34.020346,Metro - Los Angeles,18-13122,18,Metro Local Line
+399,8314,Whittier / Brannick,-118.17771599999999,34.023803,Metro - Los Angeles,18-13122,18,Metro Local Line
+400,8315,Whittier / Ditman,-118.189003,34.023790999999996,Metro - Los Angeles,18-13122,18,Metro Local Line
+401,8316,Whittier / Herbert,-118.183901,34.023802,Metro - Los Angeles,18-13122,18,Metro Local Line
+402,8317,Whittier / Eastern,-118.17366000000001,34.023732,Metro - Los Angeles,18-13122,18,Metro Local Line
+403,8318,Whittier / Eastman,-118.18596699999999,34.023796000000004,Metro - Los Angeles,18-13122,18,Metro Local Line
+404,8319,Whittier / Findlay,-118.138861,34.016407,Metro - Los Angeles,18-13122,18,Metro Local Line
+405,8320,Whittier / Ford,-118.170847,34.023142,Metro - Los Angeles,18-13122,18,Metro Local Line
+406,8321,Whittier / Fresno,-118.204877,34.029343,Metro - Los Angeles,18-13122,18,Metro Local Line
+407,8322,Whittier / Gerhart,-118.147444,34.018221000000004,Metro - Los Angeles,18-13122,18,Metro Local Line
+408,8325,Whittier / Keenan,-118.14543300000001,34.017798,Metro - Los Angeles,18-13122,18,Metro Local Line
+409,8326,Whittier / Leonard,-118.14293400000001,34.01727,Metro - Los Angeles,18-13122,18,Metro Local Line
+410,8328,Whittier / McBride,-118.168777,34.022708,Metro - Los Angeles,18-13122,18,Metro Local Line
+411,8330,Whittier / Soto,-118.215943,34.03435,Metro - Los Angeles,18-13122,18,Metro Local Line
+412,8331,Whittier / Vancouver,-118.159906,34.020843,Metro - Los Angeles,18-13122,18,Metro Local Line
+413,8332,Whittier / Via Del Oro,-118.132341,34.015029,Metro - Los Angeles,18-13122,18,Metro Local Line
+414,8333,Whittier / Westside,-118.137174,34.016052,Metro - Los Angeles,18-13122,18,Metro Local Line
+415,8336,Whittier / Saybrook,-118.136022,34.015811,Metro - Los Angeles,18-13122,18,Metro Local Line
+416,8340,Whittier / Spence,-118.19870900000001,34.026652,Metro - Los Angeles,18-13122,18,Metro Local Line
+417,8473,Wilshire / Vermont Station,-118.28949399999999,34.062257,Metro - Los Angeles,18-13122,18,Metro Local Line
+418,8638,6th / Burlington,-118.271353,34.057842,Metro - Los Angeles,18-13122,18,Metro Local Line
+419,9423,6th / Alameda,-118.238606,34.038149,Metro - Los Angeles,18-13122,18,Metro Local Line
+420,9744,6th / Los Angeles,-118.24878700000001,34.044344,Metro - Los Angeles,18-13122,18,Metro Local Line
+421,9750,7th / Decatur,-118.235203,34.034634999999994,Metro - Los Angeles,18-13122,18,Metro Local Line
+422,9753,7th / Mateo,-118.232459,34.03447,Metro - Los Angeles,18-13122,18,Metro Local Line
+423,9764,7th / Santa Fe,-118.230225,34.034422,Metro - Los Angeles,18-13122,18,Metro Local Line
+424,13512,Garfield / Allston,-118.130125,34.013702,Metro - Los Angeles,18-13122,18,Metro Local Line
+425,13522,Garfield / Olympic,-118.13093400000001,34.011684,Metro - Los Angeles,18-13122,18,Metro Local Line
+426,13533,Garfield / Whittier,-118.130252,34.014364,Metro - Los Angeles,18-13122,18,Metro Local Line
+427,13597,Hill / 5th,-118.252055,34.048613,Metro - Los Angeles,18-13122,18,Metro Local Line
+428,15718,6th / Hope,-118.25589199999999,34.049031,Metro - Los Angeles,18-13122,18,Metro Local Line
+429,16598,Whittier / Garfield,-118.13048700000002,34.014905,Metro - Los Angeles,18-13122,18,Metro Local Line
+430,16769,Wilshire / Vermont,-118.291299,34.061934,Metro - Los Angeles,18-13122,18,Metro Local Line
+431,16946,Whittier / Downey,-118.17981200000001,34.023804999999996,Metro - Los Angeles,18-13122,18,Metro Local Line
+432,30010,Montebello Metrolink Station,-118.124931,34.00656,Metro - Los Angeles,18-13122,18,Metro Local Line
+433,32147,6th / Witmer,-118.26583600000001,34.055475,Metro - Los Angeles,18-13122,18,Metro Local Line
+434,32148,Whittier / Lorena,-118.201249,34.027772,Metro - Los Angeles,18-13122,18,Metro Local Line
+435,32149,Whittier / Indiana,-118.192504,34.023912,Metro - Los Angeles,18-13122,18,Metro Local Line
+436,32150,Whittier / Hoefner,-118.15053700000001,34.018871000000004,Metro - Los Angeles,18-13122,18,Metro Local Line
+437,125455,Whittier / Hollins,-118.217955,34.035216999999996,Metro - Los Angeles,18-13122,18,Metro Local Line
+438,20500009,Flotilla / Yates,-118.12789199999999,34.005342,Metro - Los Angeles,18-13122,18,Metro Local Line
+439,42,6th / Burlington,-118.270776,34.057874,Metro - Los Angeles,18-13122,18,Metro Local Line
+440,956,6th / Oxford Terminal,-118.308442,34.063032,Metro - Los Angeles,18-13122,18,Metro Local Line
+441,1204,5th / Wall,-118.245544,34.044875,Metro - Los Angeles,18-13122,18,Metro Local Line
+442,1213,Central / 6th,-118.239787,34.039201,Metro - Los Angeles,18-13122,18,Metro Local Line
+443,1218,7th / Decatur,-118.234847,34.034867,Metro - Los Angeles,18-13122,18,Metro Local Line
+444,1221,7th / Mateo,-118.23203400000001,34.03471,Metro - Los Angeles,18-13122,18,Metro Local Line
+445,1222,7th / Alameda,-118.23833300000001,34.035096,Metro - Los Angeles,18-13122,18,Metro Local Line
+446,1269,Whittier / Goodrich,-118.15338600000001,34.019736,Metro - Los Angeles,18-13122,18,Metro Local Line
+447,2779,6th / Alameda,-118.23861000000001,34.03839,Metro - Los Angeles,18-13122,18,Metro Local Line
+448,2826,7th / Imperial,-118.231008,34.034696000000004,Metro - Los Angeles,18-13122,18,Metro Local Line
+449,3161,Maple Lot,-118.248198,34.042894,Metro - Los Angeles,18-13122,18,Metro Local Line
+450,4861,5th / Central,-118.240125,34.042001,Metro - Los Angeles,18-13122,18,Metro Local Line
+451,5077,Garfield / Olympic,-118.13063700000001,34.011657,Metro - Los Angeles,18-13122,18,Metro Local Line
+452,5083,Garfield / Ferguson,-118.13118600000001,34.008496,Metro - Los Angeles,18-13122,18,Metro Local Line
+453,5775,Western / Wilshire,-118.308924,34.062058,Metro - Los Angeles,18-13122,18,Metro Local Line
+454,8473,Wilshire / Vermont Station,-118.28949399999999,34.062257,Metro - Los Angeles,18-13122,18,Metro Local Line
+455,8634,5th / Los Angeles,-118.247677,34.04625,Metro - Los Angeles,18-13122,18,Metro Local Line
+456,9423,6th / Alameda,-118.238606,34.038149,Metro - Los Angeles,18-13122,18,Metro Local Line
+457,9737,5th / San Pedro,-118.243627,34.044165,Metro - Los Angeles,18-13122,18,Metro Local Line
+458,9738,5th / Towne,-118.241759,34.043025,Metro - Los Angeles,18-13122,18,Metro Local Line
+459,9755,7th / Anderson,-118.223479,34.034649,Metro - Los Angeles,18-13122,18,Metro Local Line
+460,10696,Garfield / Flotilla,-118.13119499999999,34.005974,Metro - Los Angeles,18-13122,18,Metro Local Line
+461,13512,Garfield / Allston,-118.130125,34.013702,Metro - Los Angeles,18-13122,18,Metro Local Line
+462,13597,Hill / 5th,-118.252055,34.048613,Metro - Los Angeles,18-13122,18,Metro Local Line
+463,15688,5th / Grand,-118.25413700000001,34.050463,Metro - Los Angeles,18-13122,18,Metro Local Line
+464,15690,5th / Flower,-118.25583400000001,34.051564,Metro - Los Angeles,18-13122,18,Metro Local Line
+465,15693,5th / Spring,-118.24981000000001,34.047647,Metro - Los Angeles,18-13122,18,Metro Local Line
+466,15695,5th / Broadway,-118.250475,34.048075,Metro - Los Angeles,18-13122,18,Metro Local Line
+467,15704,6th / Lucas,-118.26351299999999,34.054778999999996,Metro - Los Angeles,18-13122,18,Metro Local Line
+468,15705,6th / Alexandria,-118.29775,34.063691,Metro - Los Angeles,18-13122,18,Metro Local Line
+469,15706,6th / Alvarado,-118.274571,34.059558,Metro - Los Angeles,18-13122,18,Metro Local Line
+470,15708,6th / Bonnie Brae,-118.27220700000001,34.058508,Metro - Los Angeles,18-13122,18,Metro Local Line
+471,15711,6th / Catalina,-118.29523400000001,34.063705,Metro - Los Angeles,18-13122,18,Metro Local Line
+472,15712,6th / Commonwealth,-118.28548500000001,34.063825,Metro - Los Angeles,18-13122,18,Metro Local Line
+473,15716,6th / Grand View,-118.276734,34.06049,Metro - Los Angeles,18-13122,18,Metro Local Line
+474,15717,6th / Harvard,-118.303931,34.063662,Metro - Los Angeles,18-13122,18,Metro Local Line
+475,15719,6th / Lafayette Park,-118.28322800000001,34.063393,Metro - Los Angeles,18-13122,18,Metro Local Line
+476,15720,6th / Normandie,-118.30060900000001,34.063681,Metro - Los Angeles,18-13122,18,Metro Local Line
+477,15721,6th / Park View,-118.278281,34.061184000000004,Metro - Los Angeles,18-13122,18,Metro Local Line
+478,15722,6th / Rampart,-118.28105900000001,34.062425,Metro - Los Angeles,18-13122,18,Metro Local Line
+479,15726,6th / Vermont,-118.29138799999998,34.063786,Metro - Los Angeles,18-13122,18,Metro Local Line
+480,15729,6th / Westmoreland,-118.28825800000001,34.063813,Metro - Los Angeles,18-13122,18,Metro Local Line
+481,15730,6th / Saint Paul,-118.260653,34.05359,Metro - Los Angeles,18-13122,18,Metro Local Line
+482,15732,6th / Valencia,-118.26745700000001,34.056447,Metro - Los Angeles,18-13122,18,Metro Local Line
+483,15733,6th / Witmer,-118.265698,34.0557,Metro - Los Angeles,18-13122,18,Metro Local Line
+484,15736,6th / Virgil,-118.286795,34.063819,Metro - Los Angeles,18-13122,18,Metro Local Line
+485,16587,Whittier / Camulos,-118.21023999999998,34.032076,Metro - Los Angeles,18-13122,18,Metro Local Line
+486,16589,Whittier / Clela,-118.160399,34.021208,Metro - Los Angeles,18-13122,18,Metro Local Line
+487,16595,Whittier / Esperanza,-118.19577199999999,34.025638,Metro - Los Angeles,18-13122,18,Metro Local Line
+488,16596,Whittier / Euclid,-118.20705500000001,34.030656,Metro - Los Angeles,18-13122,18,Metro Local Line
+489,16597,Whittier / Ferris,-118.163601,34.021883,Metro - Los Angeles,18-13122,18,Metro Local Line
+490,16598,Whittier / Garfield,-118.13048700000002,34.014905,Metro - Los Angeles,18-13122,18,Metro Local Line
+491,16612,Whittier / Arizona,-118.16721299999999,34.022642,Metro - Los Angeles,18-13122,18,Metro Local Line
+492,16613,Whittier / Atlantic,-118.156995,34.020495000000004,Metro - Los Angeles,18-13122,18,Metro Local Line
+493,16614,Boyle / Whittier,-118.21911499999999,34.03552,Metro - Los Angeles,18-13122,18,Metro Local Line
+494,16616,Whittier / Ditman,-118.189086,34.024044,Metro - Los Angeles,18-13122,18,Metro Local Line
+495,16617,Whittier / Herbert,-118.18350500000001,34.024055,Metro - Los Angeles,18-13122,18,Metro Local Line
+496,16618,Whittier / Eastern,-118.173667,34.023995,Metro - Los Angeles,18-13122,18,Metro Local Line
+497,16619,Whittier / Eastman,-118.18605,34.024048,Metro - Los Angeles,18-13122,18,Metro Local Line
+498,16620,Whittier / Findlay,-118.139271,34.016758,Metro - Los Angeles,18-13122,18,Metro Local Line
+499,16621,Whittier / Ford,-118.17125700000001,34.02349,Metro - Los Angeles,18-13122,18,Metro Local Line
+500,16622,Whittier / Fresno,-118.204521,34.029506,Metro - Los Angeles,18-13122,18,Metro Local Line
+501,16623,Whittier / Gerhart,-118.14745400000001,34.018488,Metro - Los Angeles,18-13122,18,Metro Local Line
+502,16624,Whittier / Hoefner,-118.150547,34.019138,Metro - Los Angeles,18-13122,18,Metro Local Line
+503,16626,Whittier / Keenan,-118.14544,34.018064,Metro - Los Angeles,18-13122,18,Metro Local Line
+504,16627,Whittier / Leonard,-118.143344,34.017621999999996,Metro - Los Angeles,18-13122,18,Metro Local Line
+505,16629,Whittier / McBride,-118.16918700000001,34.023056,Metro - Los Angeles,18-13122,18,Metro Local Line
+506,16630,Whittier / Mott,-118.212282,34.032988,Metro - Los Angeles,18-13122,18,Metro Local Line
+507,16632,Whittier / Soto,-118.21536499999999,34.034378000000004,Metro - Los Angeles,18-13122,18,Metro Local Line
+508,16633,Whittier / Via Del Oro,-118.132751,34.015381,Metro - Los Angeles,18-13122,18,Metro Local Line
+509,16635,Whittier / Saybrook,-118.13610800000001,34.016108,Metro - Los Angeles,18-13122,18,Metro Local Line
+510,16638,Whittier / Spence,-118.198273,34.026747,Metro - Los Angeles,18-13122,18,Metro Local Line
+511,16917,6th / Bixel,-118.261774,34.054044,Metro - Los Angeles,18-13122,18,Metro Local Line
+512,16945,Whittier / Downey,-118.17981200000001,34.024058000000004,Metro - Los Angeles,18-13122,18,Metro Local Line
+513,30010,Montebello Metrolink Station,-118.124931,34.00656,Metro - Los Angeles,18-13122,18,Metro Local Line
+514,32156,Whittier / Indiana,-118.192043,34.024042,Metro - Los Angeles,18-13122,18,Metro Local Line
+515,32157,Whittier / Lorena,-118.20059499999999,34.027775,Metro - Los Angeles,18-13122,18,Metro Local Line
+516,20500010,Flotilla / Yates,-118.12808999999999,34.005551000000004,Metro - Los Angeles,18-13122,18,Metro Local Line
+517,1854,Alvarado / Wilshire,-118.27623700000001,34.057095000000004,Metro - Los Angeles,200-13122,200,Metro Local Line
+518,2459,Hill / Martin Luther King Jr,-118.280294,34.011487,Metro - Los Angeles,200-13122,200,Metro Local Line
+519,2738,Martin Luther King Jr / Figueroa,-118.28199199999999,34.010996999999996,Metro - Los Angeles,200-13122,200,Metro Local Line
+520,3280,Montana / Glendale,-118.260391,34.079822,Metro - Los Angeles,200-13122,200,Metro Local Line
+521,3282,Montana / Logan,-118.25746699999999,34.07813,Metro - Los Angeles,200-13122,200,Metro Local Line
+522,3357,Alvarado / Beverly,-118.270275,34.066451,Metro - Los Angeles,200-13122,200,Metro Local Line
+523,3358,Alvarado / Hollywood Fwy,-118.26688500000002,34.071787,Metro - Los Angeles,200-13122,200,Metro Local Line
+524,3359,Alvarado / Kent,-118.26521299999999,34.074489,Metro - Los Angeles,200-13122,200,Metro Local Line
+525,3360,Alvarado / Montana,-118.261625,34.080352000000005,Metro - Los Angeles,200-13122,200,Metro Local Line
+526,3361,Alvarado / Temple,-118.267999,34.070045,Metro - Los Angeles,200-13122,200,Metro Local Line
+527,3362,Alvarado / Sunset,-118.26311299999999,34.077928,Metro - Los Angeles,200-13122,200,Metro Local Line
+528,4654,Alvarado / Valley,-118.271445,34.064634999999996,Metro - Los Angeles,200-13122,200,Metro Local Line
+529,4655,Alvarado / 11th,-118.280707,34.050094,Metro - Los Angeles,200-13122,200,Metro Local Line
+530,4656,Alvarado / 12th,-118.28165,34.04861,Metro - Los Angeles,200-13122,200,Metro Local Line
+531,4657,Alvarado / 3rd,-118.27266399999999,34.062728,Metro - Los Angeles,200-13122,200,Metro Local Line
+532,4658,Alvarado / 6th,-118.274841,34.059302,Metro - Los Angeles,200-13122,200,Metro Local Line
+533,4659,Alvarado / 7th,-118.27676299999999,34.056275,Metro - Los Angeles,200-13122,200,Metro Local Line
+534,4660,Alvarado / 8th,-118.277794,34.054654,Metro - Los Angeles,200-13122,200,Metro Local Line
+535,4661,Alvarado / James M Wood,-118.27871999999999,34.053203,Metro - Los Angeles,200-13122,200,Metro Local Line
+536,4662,Alvarado / Maryland,-118.273725,34.061057,Metro - Los Angeles,200-13122,200,Metro Local Line
+537,4663,Alvarado / Olympic,-118.279807,34.051497,Metro - Los Angeles,200-13122,200,Metro Local Line
+538,4664,Alvarado / Pico,-118.28265800000001,34.047031,Metro - Los Angeles,200-13122,200,Metro Local Line
+539,4980,Figueroa / Exposition,-118.281793,34.01879,Metro - Los Angeles,200-13122,200,Metro Local Line
+540,4981,Figueroa / Flower,-118.2826,34.016348,Metro - Los Angeles,200-13122,200,Metro Local Line
+541,4997,Figueroa / 39th,-118.282592,34.01385,Metro - Los Angeles,200-13122,200,Metro Local Line
+542,5147,Hoover / Union,-118.283827,34.034676,Metro - Los Angeles,200-13122,200,Metro Local Line
+543,5148,Hoover / Santa Monica Fwy,-118.283851,34.03691,Metro - Los Angeles,200-13122,200,Metro Local Line
+544,5149,Hoover / 18th,-118.28396599999999,34.041562,Metro - Los Angeles,200-13122,200,Metro Local Line
+545,5150,Hoover / 28th,-118.28379199999999,34.029284999999994,Metro - Los Angeles,200-13122,200,Metro Local Line
+546,5151,Hoover / 30th,-118.28379699999999,34.027671999999995,Metro - Los Angeles,200-13122,200,Metro Local Line
+547,5152,Hoover / 32nd,-118.283759,34.025381,Metro - Los Angeles,200-13122,200,Metro Local Line
+548,5153,Hoover / Adams,-118.283821,34.031981,Metro - Los Angeles,200-13122,200,Metro Local Line
+549,5154,Hoover / Washington,-118.28391299999998,34.039545000000004,Metro - Los Angeles,200-13122,200,Metro Local Line
+550,6903,Hoover / Venice,-118.283956,34.043510999999995,Metro - Los Angeles,200-13122,200,Metro Local Line
+551,7306,Alvarado / Alvarado Terrace,-118.28378400000001,34.045195,Metro - Los Angeles,200-13122,200,Metro Local Line
+552,7760,Jefferson / Hoover,-118.28379699999999,34.023762,Metro - Los Angeles,200-13122,200,Metro Local Line
+553,8885,Jefferson / Figueroa,-118.28033300000001,34.022261,Metro - Los Angeles,200-13122,200,Metro Local Line
+554,11191,Jefferson / Royal,-118.28213400000001,34.023027,Metro - Los Angeles,200-13122,200,Metro Local Line
+555,11234,Martin Luther King Jr / Figueroa,-118.282458,34.011272999999996,Metro - Los Angeles,200-13122,200,Metro Local Line
+556,1779,Echo Park / Sunset,-118.25728899999999,34.077078,Metro - Los Angeles,200-13122,200,Metro Local Line
+557,2085,Hoover / 32nd,-118.284029,34.02505,Metro - Los Angeles,200-13122,200,Metro Local Line
+558,2459,Hill / Martin Luther King Jr,-118.280294,34.011487,Metro - Los Angeles,200-13122,200,Metro Local Line
+559,2738,Martin Luther King Jr / Figueroa,-118.28199199999999,34.010996999999996,Metro - Los Angeles,200-13122,200,Metro Local Line
+560,3282,Montana / Logan,-118.25746699999999,34.07813,Metro - Los Angeles,200-13122,200,Metro Local Line
+561,7753,Jefferson / Royal,-118.282133,34.022735,Metro - Los Angeles,200-13122,200,Metro Local Line
+562,7759,Jefferson / Hoover,-118.28339299999999,34.023299,Metro - Los Angeles,200-13122,200,Metro Local Line
+563,10429,Figueroa / USC McCarthy,-118.281135,34.020371999999995,Metro - Los Angeles,200-13122,200,Metro Local Line
+564,10995,Alvarado / Hollywood Fwy,-118.26690900000001,34.072276,Metro - Los Angeles,200-13122,200,Metro Local Line
+565,11770,Montana / Glendale,-118.259969,34.079751,Metro - Los Angeles,200-13122,200,Metro Local Line
+566,11844,Alvarado / Beverly,-118.27033,34.066912,Metro - Los Angeles,200-13122,200,Metro Local Line
+567,11846,Alvarado / Kent,-118.265638,34.074348,Metro - Los Angeles,200-13122,200,Metro Local Line
+568,11847,Alvarado / Montana,-118.261972,34.080343,Metro - Los Angeles,200-13122,200,Metro Local Line
+569,11848,Alvarado / Temple,-118.268069,34.070479,Metro - Los Angeles,200-13122,200,Metro Local Line
+570,11849,Alvarado / Sunset,-118.26349599999999,34.077859000000004,Metro - Los Angeles,200-13122,200,Metro Local Line
+571,13110,Alvarado / Hoover,-118.284026,34.045547,Metro - Los Angeles,200-13122,200,Metro Local Line
+572,13111,Alvarado / Valley,-118.271555,34.064997,Metro - Los Angeles,200-13122,200,Metro Local Line
+573,13112,Alvarado / 11th,-118.280817,34.050456,Metro - Los Angeles,200-13122,200,Metro Local Line
+574,13113,Alvarado / 12th,-118.28176599999999,34.048970000000004,Metro - Los Angeles,200-13122,200,Metro Local Line
+575,13115,Alvarado / 6th,-118.274906,34.059749,Metro - Los Angeles,200-13122,200,Metro Local Line
+576,13116,Alvarado / 7th,-118.27685,34.056687,Metro - Los Angeles,200-13122,200,Metro Local Line
+577,13117,Alvarado / 8th,-118.27786499999999,34.05509,Metro - Los Angeles,200-13122,200,Metro Local Line
+578,13118,Alvarado / James M Wood,-118.278834,34.053566,Metro - Los Angeles,200-13122,200,Metro Local Line
+579,13119,Alvarado / Maryland,-118.273812,34.061469,Metro - Los Angeles,200-13122,200,Metro Local Line
+580,13120,Alvarado / Olympic,-118.27986200000001,34.051959000000004,Metro - Los Angeles,200-13122,200,Metro Local Line
+581,13121,Alvarado / Pico,-118.282728,34.047468,Metro - Los Angeles,200-13122,200,Metro Local Line
+582,13122,Alvarado / Wilshire,-118.27620300000001,34.057713,Metro - Los Angeles,200-13122,200,Metro Local Line
+583,13422,Figueroa / Exposition,-118.28192,34.019194,Metro - Los Angeles,200-13122,200,Metro Local Line
+584,13424,Figueroa / State,-118.28290700000001,34.016268,Metro - Los Angeles,200-13122,200,Metro Local Line
+585,13437,Figueroa / 39th,-118.282895,34.013767,Metro - Los Angeles,200-13122,200,Metro Local Line
+586,13470,Figueroa / Jefferson,-118.28026200000001,34.021741999999996,Metro - Los Angeles,200-13122,200,Metro Local Line
+587,13606,Hoover / Santa Monica Fwy,-118.284151,34.036722999999995,Metro - Los Angeles,200-13122,200,Metro Local Line
+588,13607,Hoover / 18th,-118.28427099999999,34.041973999999996,Metro - Los Angeles,200-13122,200,Metro Local Line
+589,13608,Hoover / 24th,-118.28413400000001,34.034538,Metro - Los Angeles,200-13122,200,Metro Local Line
+590,13609,Hoover / 28th,-118.284097,34.029503999999996,Metro - Los Angeles,200-13122,200,Metro Local Line
+591,13610,Hoover / 30th,-118.284099,34.027122,Metro - Los Angeles,200-13122,200,Metro Local Line
+592,13612,Hoover / Adams,-118.284123,34.03143,Metro - Los Angeles,200-13122,200,Metro Local Line
+593,13613,Hoover / Washington,-118.284224,34.039671000000006,Metro - Los Angeles,200-13122,200,Metro Local Line
+594,15254,Hoover / Venice,-118.284268,34.043977000000005,Metro - Los Angeles,200-13122,200,Metro Local Line
+595,15627,Alvarado / 3rd,-118.272718,34.063189,Metro - Los Angeles,200-13122,200,Metro Local Line
+596,479,Broadway / Martin Luther King Jr,-118.27821000000002,34.01092,Metro - Los Angeles,45-13122,45,Metro Local Line
+597,483,Broadway / Washington,-118.265755,34.031195000000004,Metro - Los Angeles,45-13122,45,Metro Local Line
+598,484,Broadway / Avenue 22,-118.217919,34.073429,Metro - Los Angeles,45-13122,45,Metro Local Line
+599,1248,Broadway / 8th,-118.25520300000001,34.043042,Metro - Los Angeles,45-13122,45,Metro Local Line
+600,1625,Rosecrans / San Pedro,-118.2693,33.902093,Metro - Los Angeles,45-13122,45,Metro Local Line
+601,2323,Figueroa / Imperial,-118.28243700000002,33.93078,Metro - Los Angeles,45-13122,45,Metro Local Line
+602,3411,Broadway / Alpine,-118.238222,34.062155,Metro - Los Angeles,45-13122,45,Metro Local Line
+603,3413,Broadway / Bernard,-118.235752,34.066674,Metro - Los Angeles,45-13122,45,Metro Local Line
+604,3414,Broadway / Bishops,-118.23335700000001,34.068657,Metro - Los Angeles,45-13122,45,Metro Local Line
+605,3416,Broadway / Chinatown,-118.236725,34.065084000000006,Metro - Los Angeles,45-13122,45,Metro Local Line
+606,3417,Broadway / Daly,-118.21538000000001,34.073513,Metro - Los Angeles,45-13122,45,Metro Local Line
+607,3418,Broadway / Eastlake,-118.207944,34.073623,Metro - Los Angeles,45-13122,45,Metro Local Line
+608,3420,Broadway / Griffin,-118.211874,34.073566,Metro - Los Angeles,45-13122,45,Metro Local Line
+609,3421,Broadway / Ord,-118.23923,34.060169,Metro - Los Angeles,45-13122,45,Metro Local Line
+610,3423,Broadway / Avenue 18,-118.222917,34.071664,Metro - Los Angeles,45-13122,45,Metro Local Line
+611,3424,Broadway / Avenue 20,-118.220205,34.072455,Metro - Los Angeles,45-13122,45,Metro Local Line
+612,3426,Broadway / Solano,-118.230143,34.070826000000004,Metro - Los Angeles,45-13122,45,Metro Local Line
+613,3427,Broadway / Thomas,-118.205372,34.073638,Metro - Los Angeles,45-13122,45,Metro Local Line
+614,3429,Broadway / College,-118.237371,34.063852000000004,Metro - Los Angeles,45-13122,45,Metro Local Line
+615,4756,Broadway / Venice,-118.263539,34.033969,Metro - Los Angeles,45-13122,45,Metro Local Line
+616,4757,Broadway / 102nd,-118.27796299999999,33.943552000000004,Metro - Los Angeles,45-13122,45,Metro Local Line
+617,4758,Broadway / 104th,-118.277957,33.941734999999994,Metro - Los Angeles,45-13122,45,Metro Local Line
+618,4759,Broadway / 106th,-118.277951,33.939921999999996,Metro - Los Angeles,45-13122,45,Metro Local Line
+619,4760,Broadway / 108th,-118.27794499999999,33.938086,Metro - Los Angeles,45-13122,45,Metro Local Line
+620,4761,Broadway / 110th,-118.277946,33.935448,Metro - Los Angeles,45-13122,45,Metro Local Line
+621,4765,Broadway / 120th,-118.27808999999999,33.923127,Metro - Los Angeles,45-13122,45,Metro Local Line
+622,4766,Broadway / 12th,-118.25999099999999,34.038258,Metro - Los Angeles,45-13122,45,Metro Local Line
+623,4767,Broadway / 1st,-118.24499899999999,34.053969,Metro - Los Angeles,45-13122,45,Metro Local Line
+624,4768,Broadway / 21st,-118.267046,34.029233000000005,Metro - Los Angeles,45-13122,45,Metro Local Line
+625,4772,Broadway / 30th,-118.27150900000001,34.022375,Metro - Los Angeles,45-13122,45,Metro Local Line
+626,4778,Broadway / 42nd,-118.278201,34.007197,Metro - Los Angeles,45-13122,45,Metro Local Line
+627,4780,Broadway / 47th,-118.278173,33.999907,Metro - Los Angeles,45-13122,45,Metro Local Line
+628,4781,Broadway / 49th,-118.278168,33.998473,Metro - Los Angeles,45-13122,45,Metro Local Line
+629,4783,Broadway / 51st,-118.27816200000001,33.996643,Metro - Los Angeles,45-13122,45,Metro Local Line
+630,4784,Broadway / 54th,-118.278152,33.993485,Metro - Los Angeles,45-13122,45,Metro Local Line
+631,4785,Broadway / 56th,-118.27814199999999,33.991347999999995,Metro - Los Angeles,45-13122,45,Metro Local Line
+632,4786,Broadway / 59th,-118.27814,33.985884999999996,Metro - Los Angeles,45-13122,45,Metro Local Line
+633,4787,Broadway / 5th,-118.25046599999999,34.048187,Metro - Los Angeles,45-13122,45,Metro Local Line
+634,4788,Broadway / 61st,-118.278144,33.98409,Metro - Los Angeles,45-13122,45,Metro Local Line
+635,4789,Broadway / 69th,-118.278148,33.977507,Metro - Los Angeles,45-13122,45,Metro Local Line
+636,4791,Broadway / 74th,-118.278145,33.972607,Metro - Los Angeles,45-13122,45,Metro Local Line
+637,4792,Broadway / 76th,-118.27814199999999,33.970675,Metro - Los Angeles,45-13122,45,Metro Local Line
+638,4793,Broadway / 79th,-118.278136,33.967754,Metro - Los Angeles,45-13122,45,Metro Local Line
+639,4801,Broadway / 81st,-118.278123,33.965828,Metro - Los Angeles,45-13122,45,Metro Local Line
+640,4802,Broadway / 83rd,-118.27811000000001,33.964042,Metro - Los Angeles,45-13122,45,Metro Local Line
+641,4804,Broadway / 88th,-118.278054,33.957049,Metro - Los Angeles,45-13122,45,Metro Local Line
+642,4806,Broadway / 90th,-118.27804499999999,33.954485,Metro - Los Angeles,45-13122,45,Metro Local Line
+643,4807,Broadway / 92nd,-118.27804099999999,33.953089,Metro - Los Angeles,45-13122,45,Metro Local Line
+644,4808,Broadway / 94th,-118.27796399999998,33.95082,Metro - Los Angeles,45-13122,45,Metro Local Line
+645,4809,Broadway / 98th,-118.277971,33.947022,Metro - Los Angeles,45-13122,45,Metro Local Line
+646,4810,Broadway / Adams,-118.269696,34.025163,Metro - Los Angeles,45-13122,45,Metro Local Line
+647,4812,Broadway / Colden,-118.277965,33.949003999999995,Metro - Los Angeles,45-13122,45,Metro Local Line
+648,4814,Broadway / Gage,-118.278143,33.98273,Metro - Los Angeles,45-13122,45,Metro Local Line
+649,4816,Broadway / Jefferson,-118.273742,34.018932,Metro - Los Angeles,45-13122,45,Metro Local Line
+650,4817,Broadway / Manchester,-118.27806899999999,33.95955,Metro - Los Angeles,45-13122,45,Metro Local Line
+651,4818,Broadway / Olympic,-118.256654,34.041494,Metro - Los Angeles,45-13122,45,Metro Local Line
+652,4819,Broadway / Pico,-118.261152,34.036907,Metro - Los Angeles,45-13122,45,Metro Local Line
+653,4820,Broadway / Slauson,-118.27813300000001,33.988865999999994,Metro - Los Angeles,45-13122,45,Metro Local Line
+654,4821,Broadway / Vernon,-118.27818899999998,34.003617,Metro - Los Angeles,45-13122,45,Metro Local Line
+655,4826,Broadway / 124th,-118.27811000000001,33.920349,Metro - Los Angeles,45-13122,45,Metro Local Line
+656,4987,Figueroa / Harbor Fwy Station,-118.282439,33.928612,Metro - Los Angeles,45-13122,45,Metro Local Line
+657,5253,Main / 132nd,-118.273803,33.912621,Metro - Los Angeles,45-13122,45,Metro Local Line
+658,5254,Main / 135th,-118.27381299999999,33.909455,Metro - Los Angeles,45-13122,45,Metro Local Line
+659,5255,Main / 139th,-118.273802,33.906105,Metro - Los Angeles,45-13122,45,Metro Local Line
+660,5256,Main / 140th,-118.273823,33.904498,Metro - Los Angeles,45-13122,45,Metro Local Line
+661,7235,Broadway / 118th,-118.278079,33.926751,Metro - Los Angeles,45-13122,45,Metro Local Line
+662,7937,Rosecrans / Main,-118.273766,33.902096,Metro - Los Angeles,45-13122,45,Metro Local Line
+663,9932,El Segundo / Main,-118.27425500000001,33.916552,Metro - Los Angeles,45-13122,45,Metro Local Line
+664,10438,Figueroa / 117th Layover,-118.281847,33.927776,Metro - Los Angeles,45-13122,45,Metro Local Line
+665,11900,Broadway / Arcadia,-118.24221200000001,34.056942,Metro - Los Angeles,45-13122,45,Metro Local Line
+666,11903,Broadway / Cesar E Chavez,-118.24023500000001,34.058276,Metro - Los Angeles,45-13122,45,Metro Local Line
+667,11915,Broadway / Thomas,-118.20506200000001,34.073913,Metro - Los Angeles,45-13122,45,Metro Local Line
+668,12285,Mission / Baldwin,-118.199238,34.070322999999995,Metro - Los Angeles,45-13122,45,Metro Local Line
+669,12289,Mission / Broadway,-118.19676000000001,34.073729,Metro - Los Angeles,45-13122,45,Metro Local Line
+670,13227,Broadway / 3rd,-118.24771399999999,34.0511,Metro - Los Angeles,45-13122,45,Metro Local Line
+671,13234,Broadway / 36th,-118.275403,34.016329,Metro - Los Angeles,45-13122,45,Metro Local Line
+672,13235,Broadway / 38th,-118.276772,34.014183,Metro - Los Angeles,45-13122,45,Metro Local Line
+673,13894,San Pedro / Rosecrans,-118.26930300000001,33.902755,Metro - Los Angeles,45-13122,45,Metro Local Line
+674,15956,El Segundo / Broadway,-118.278108,33.916557,Metro - Los Angeles,45-13122,45,Metro Local Line
+675,16947,Broadway / 7th,-118.252927,34.045509,Metro - Los Angeles,45-13122,45,Metro Local Line
+676,16979,Broadway / Imperial,-118.27814,33.931298999999996,Metro - Los Angeles,45-13122,45,Metro Local Line
+677,19029,Broadway / Florence,-118.278145,33.974495000000005,Metro - Los Angeles,45-13122,45,Metro Local Line
+678,19031,Broadway / Century,-118.277971,33.945834999999995,Metro - Los Angeles,45-13122,45,Metro Local Line
+679,20348,Chinatown,-118.236075,34.061895,Metro - Los Angeles,45-13122,45,Metro Local Line
+680,577,Broadway / Martin Luther King Jr,-118.27851799999999,34.011277,Metro - Los Angeles,45-13122,45,Metro Local Line
+681,644,Broadway / Thomas,-118.205399,34.073907,Metro - Los Angeles,45-13122,45,Metro Local Line
+682,1404,El Segundo / Main,-118.27415500000001,33.916299,Metro - Los Angeles,45-13122,45,Metro Local Line
+683,1604,Main / Olympic,-118.25705400000001,34.040394,Metro - Los Angeles,45-13122,45,Metro Local Line
+684,1887,Figueroa / Harbor Fwy Station,-118.282743,33.928658,Metro - Los Angeles,45-13122,45,Metro Local Line
+685,3102,Spring / 2nd,-118.246348,34.051034,Metro - Los Angeles,45-13122,45,Metro Local Line
+686,3171,Spring / Arcadia,-118.24106200000001,34.056681,Metro - Los Angeles,45-13122,45,Metro Local Line
+687,4330,Broadway / Pasadena,-118.22384299999999,34.072113,Metro - Los Angeles,45-13122,45,Metro Local Line
+688,4764,Broadway / 118th,-118.278383,33.926201,Metro - Los Angeles,45-13122,45,Metro Local Line
+689,4774,Broadway / 36th,-118.275704,34.016425,Metro - Los Angeles,45-13122,45,Metro Local Line
+690,4775,Broadway / 38th,-118.27703999999999,34.014306,Metro - Los Angeles,45-13122,45,Metro Local Line
+691,4815,Broadway / Imperial,-118.27848600000002,33.93118,Metro - Los Angeles,45-13122,45,Metro Local Line
+692,7612,El Segundo / Broadway,-118.27800800000001,33.916304,Metro - Los Angeles,45-13122,45,Metro Local Line
+693,9064,Broadway / Chinatown,-118.236999,34.065306,Metro - Los Angeles,45-13122,45,Metro Local Line
+694,9072,Broadway / Avenue 22,-118.217676,34.073732,Metro - Los Angeles,45-13122,45,Metro Local Line
+695,9683,135th / Main,-118.27363400000002,33.909079,Metro - Los Angeles,45-13122,45,Metro Local Line
+696,9684,135th / San Pedro,-118.269853,33.909054,Metro - Los Angeles,45-13122,45,Metro Local Line
+697,10438,Figueroa / 117th Layover,-118.281847,33.927776,Metro - Los Angeles,45-13122,45,Metro Local Line
+698,11588,Main / 131st,-118.274105,33.913167,Metro - Los Angeles,45-13122,45,Metro Local Line
+699,11899,Broadway / Alpine,-118.238371,34.062506,Metro - Los Angeles,45-13122,45,Metro Local Line
+700,11901,Broadway / Bernard,-118.23590800000001,34.066943,Metro - Los Angeles,45-13122,45,Metro Local Line
+701,11902,Broadway / Bishops,-118.233272,34.06902,Metro - Los Angeles,45-13122,45,Metro Local Line
+702,11905,Broadway / Daly,-118.21538799999999,34.073766,Metro - Los Angeles,45-13122,45,Metro Local Line
+703,11906,Broadway / Eastlake,-118.207621,34.073881,Metro - Los Angeles,45-13122,45,Metro Local Line
+704,11908,Broadway / Griffin,-118.212129,34.073852,Metro - Los Angeles,45-13122,45,Metro Local Line
+705,11909,Broadway / Ord,-118.239379,34.060520000000004,Metro - Los Angeles,45-13122,45,Metro Local Line
+706,11911,Broadway / Avenue 18,-118.222393,34.071791999999995,Metro - Los Angeles,45-13122,45,Metro Local Line
+707,11912,Broadway / Avenue 20,-118.220054,34.072807,Metro - Los Angeles,45-13122,45,Metro Local Line
+708,11914,Broadway / Solano,-118.229758,34.071333,Metro - Los Angeles,45-13122,45,Metro Local Line
+709,11915,Broadway / Thomas,-118.20506200000001,34.073913,Metro - Los Angeles,45-13122,45,Metro Local Line
+710,11918,Broadway / College,-118.237541,34.064184000000004,Metro - Los Angeles,45-13122,45,Metro Local Line
+711,12411,Spring / Temple,-118.242543,34.055101,Metro - Los Angeles,45-13122,45,Metro Local Line
+712,13215,Broadway / Venice,-118.26358700000002,34.034365,Metro - Los Angeles,45-13122,45,Metro Local Line
+713,13216,Broadway / 102nd,-118.278531,33.943877,Metro - Los Angeles,45-13122,45,Metro Local Line
+714,13217,Broadway / 104th,-118.278525,33.942064,Metro - Los Angeles,45-13122,45,Metro Local Line
+715,13218,Broadway / 106th,-118.27851899999999,33.94025,Metro - Los Angeles,45-13122,45,Metro Local Line
+716,13219,Broadway / 108th,-118.278516,33.938412,Metro - Los Angeles,45-13122,45,Metro Local Line
+717,13220,Broadway / 110th,-118.27851100000001,33.935777,Metro - Los Angeles,45-13122,45,Metro Local Line
+718,13225,Broadway / 120th,-118.27839399999999,33.923456,Metro - Los Angeles,45-13122,45,Metro Local Line
+719,13226,Broadway / 12th,-118.26056799999999,34.038032,Metro - Los Angeles,45-13122,45,Metro Local Line
+720,13228,Broadway / 21st,-118.26715300000001,34.029595,Metro - Los Angeles,45-13122,45,Metro Local Line
+721,13232,Broadway / 30th,-118.271803,34.022446,Metro - Los Angeles,45-13122,45,Metro Local Line
+722,13238,Broadway / 42nd,-118.27850600000001,34.007573,Metro - Los Angeles,45-13122,45,Metro Local Line
+723,13240,Broadway / 47th,-118.278478,34.000296999999996,Metro - Los Angeles,45-13122,45,Metro Local Line
+724,13241,Broadway / 49th,-118.278475,33.998425,Metro - Los Angeles,45-13122,45,Metro Local Line
+725,13243,Broadway / 51st,-118.278465,33.996367,Metro - Los Angeles,45-13122,45,Metro Local Line
+726,13244,Broadway / 54th,-118.27845500000001,33.993509,Metro - Los Angeles,45-13122,45,Metro Local Line
+727,13245,Broadway / 56th,-118.278446,33.991622,Metro - Los Angeles,45-13122,45,Metro Local Line
+728,13246,Broadway / 59th,-118.278444,33.986159,Metro - Los Angeles,45-13122,45,Metro Local Line
+729,13248,Broadway / 61st,-118.278448,33.984365000000004,Metro - Los Angeles,45-13122,45,Metro Local Line
+730,13250,Broadway / 69th,-118.278452,33.977506,Metro - Los Angeles,45-13122,45,Metro Local Line
+731,13252,Broadway / 74th,-118.27845,33.972881,Metro - Los Angeles,45-13122,45,Metro Local Line
+732,13253,Broadway / 76th,-118.278446,33.97095,Metro - Los Angeles,45-13122,45,Metro Local Line
+733,13254,Broadway / 79th,-118.27843999999999,33.968029,Metro - Los Angeles,45-13122,45,Metro Local Line
+734,13260,Broadway / 81st,-118.27842700000001,33.966102,Metro - Los Angeles,45-13122,45,Metro Local Line
+735,13261,Broadway / 83rd,-118.278415,33.964316,Metro - Los Angeles,45-13122,45,Metro Local Line
+736,13263,Broadway / 88th,-118.27835900000001,33.957529,Metro - Los Angeles,45-13122,45,Metro Local Line
+737,13265,Broadway / 90th,-118.278351,33.955251000000004,Metro - Los Angeles,45-13122,45,Metro Local Line
+738,13266,Broadway / 92nd,-118.278393,33.952973,Metro - Los Angeles,45-13122,45,Metro Local Line
+739,13267,Broadway / 94th,-118.278539,33.951173,Metro - Los Angeles,45-13122,45,Metro Local Line
+740,13268,Broadway / 98th,-118.27853700000001,33.947518,Metro - Los Angeles,45-13122,45,Metro Local Line
+741,13270,Broadway / Adams,-118.26975700000001,34.025575,Metro - Los Angeles,45-13122,45,Metro Local Line
+742,13271,Broadway / Century,-118.27853400000001,33.945751,Metro - Los Angeles,45-13122,45,Metro Local Line
+743,13272,Broadway / Colden,-118.278539,33.949332,Metro - Los Angeles,45-13122,45,Metro Local Line
+744,13274,Broadway / Gage,-118.278452,33.982537,Metro - Los Angeles,45-13122,45,Metro Local Line
+745,13276,Broadway / Jefferson,-118.27378600000002,34.019391,Metro - Los Angeles,45-13122,45,Metro Local Line
+746,13277,Broadway / Manchester,-118.27838500000001,33.960288,Metro - Los Angeles,45-13122,45,Metro Local Line
+747,13281,Broadway / Slauson,-118.27843500000002,33.989374,Metro - Los Angeles,45-13122,45,Metro Local Line
+748,13282,Broadway / Vernon,-118.278494,34.003972999999995,Metro - Los Angeles,45-13122,45,Metro Local Line
+749,13286,Broadway / 124th,-118.278425,33.919804,Metro - Los Angeles,45-13122,45,Metro Local Line
+750,13469,Figueroa / Imperial,-118.28273999999999,33.930725,Metro - Los Angeles,45-13122,45,Metro Local Line
+751,13870,San Pedro / 139th,-118.26975800000001,33.906068,Metro - Los Angeles,45-13122,45,Metro Local Line
+752,13894,San Pedro / Rosecrans,-118.26930300000001,33.902755,Metro - Los Angeles,45-13122,45,Metro Local Line
+753,13974,Spring / 7th,-118.252563,34.044403,Metro - Los Angeles,45-13122,45,Metro Local Line
+754,13977,Spring / 9th,-118.254314,34.042464,Metro - Los Angeles,45-13122,45,Metro Local Line
+755,15585,117th / Harbor Freeway Station,-118.28234599999999,33.927296000000005,Metro - Los Angeles,45-13122,45,Metro Local Line
+756,15979,Broadway / Florence,-118.278448,33.974412,Metro - Los Angeles,45-13122,45,Metro Local Line
+757,16952,Spring / 4th,-118.248723,34.048496,Metro - Los Angeles,45-13122,45,Metro Local Line
+758,19015,Broadway / Washington,-118.26598700000001,34.031362,Metro - Los Angeles,45-13122,45,Metro Local Line
+759,20348,Chinatown,-118.236075,34.061895,Metro - Los Angeles,45-13122,45,Metro Local Line
+760,201,Avalon / 169th,-118.264779,33.878977,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+761,204,Avalon / Albertoni,-118.26596799999999,33.871717,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+762,222,Compton / Avalon,-118.26503500000001,33.895323,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+763,268,Avalon / Alondra,-118.265143,33.885824,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+764,269,Avalon / San Pedro,-118.265166,33.888027,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+765,274,Avalon / Compton,-118.265129,33.895022999999995,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+766,277,Avalon / El Segundo,-118.26508700000001,33.916222999999995,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+767,282,Avalon / Gardena,-118.264407,33.882179,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+768,283,Avalon / Imperial,-118.265002,33.930867,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+769,286,Avalon / Redondo Beach,-118.265146,33.893045,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+770,298,Avalon / Walnut,-118.265234,33.87611,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+771,922,Compton / Willowbrook,-118.223072,33.895793,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+772,1133,Avalon / 120th,-118.265045,33.923584999999996,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+773,1220,7th / Maple,-118.249036,34.042446999999996,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+774,1229,7th / Main,-118.25108999999999,34.043894,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+775,1231,7th / San Pedro,-118.246909,34.04097,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+776,3478,Avalon / Colony Cove,-118.265977,33.869628000000006,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+777,5702,Vermont / Wilshire,-118.291474,34.062079,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+778,7375,7th / Magnolia,-118.286353,34.059878999999995,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+779,7380,7th / Broadway,-118.253114,34.045206,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+780,7398,7th / Olive,-118.25569399999999,34.046877,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+781,7403,7th / Park View,-118.280252,34.058135,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+782,7840,Myrrh / Acacia,-118.22608500000001,33.892243,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+783,8473,Wilshire / Vermont Station,-118.28949399999999,34.062257,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+784,8604,San Pedro / 12th,-118.25301699999999,34.033822,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+785,8644,7th / Hoover,-118.284028,34.059813,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+786,8803,Avalon / Jefferson,-118.26511699999999,34.015077000000005,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+787,8804,Avalon / Martin Luther King Jr,-118.265098,34.011296,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+788,8808,Avalon Station Layover,-118.26532399999999,33.927401,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+789,8811,Avalon / Victoria,-118.26598700000001,33.867266,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+790,8814,14800 Avalon (Hesse Co),-118.26511,33.898431,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+791,8818,Avalon Station,-118.265018,33.927731,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+792,8820,Avalon / 104th,-118.26500700000001,33.941787,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+793,8821,Avalon / 106th,-118.26501100000002,33.940014,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+794,8822,Avalon / 108th,-118.26500800000001,33.938036,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+795,8823,Avalon / 110th,-118.265005,33.93587,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+796,8824,Avalon / 111th,-118.265001,33.933801,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+797,8829,Avalon / 126th,-118.265072,33.918735,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+798,8830,Avalon / 132nd,-118.265103,33.912777,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+799,8831,Avalon / 135th,-118.26511200000002,33.909376,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+800,8832,Avalon / 138th,-118.265125,33.906287,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+801,8839,Avalon / 41st,-118.265091,34.009059,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+802,8840,Avalon / 42nd,-118.265083,34.006471000000005,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+803,8841,Avalon / 48th,-118.265064,33.999577,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+804,8842,Avalon / 51st,-118.265046,33.996862,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+805,8843,Avalon / 54th,-118.26504399999999,33.993147,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+806,8844,Avalon / 56th,-118.26503500000001,33.991443,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+807,8845,Avalon / 59th,-118.265022,33.986065,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+808,8846,Avalon / 61st,-118.265024,33.984601,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+809,8847,Avalon / 67th,-118.26501200000001,33.978806,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+810,8848,Avalon / 69th,-118.26501200000001,33.976893,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+811,8849,Avalon / 76th,-118.265,33.971032,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+812,8850,Avalon / 79th,-118.26498500000001,33.967267,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+813,8851,Avalon / 83rd,-118.264974,33.963629,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+814,8852,Avalon / 87th,-118.26496999999999,33.958197,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+815,8853,Avalon / 88th,-118.26496999999999,33.95637,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+816,8854,Avalon / 90th,-118.264975,33.954559,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+817,8855,Avalon / 92nd,-118.264982,33.95277,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+818,8856,Avalon / 94th,-118.26498600000001,33.950978000000006,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+819,8857,Avalon / 98th,-118.265001,33.947328999999996,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+820,8863,Avalon / Century,-118.26499799999999,33.945422,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+821,8864,Avalon / Colden,-118.264997,33.94911,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+822,8868,Avalon / Florence,-118.26501,33.975019,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+823,8869,Avalon / Gage,-118.26501499999999,33.981771,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+824,8873,Avalon / Manchester,-118.26495700000001,33.960390000000004,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+825,8875,Avalon / Rosecrans,-118.265105,33.901962,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+826,8877,Avalon / Slauson,-118.265,33.989764,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+827,9339,Compton / Tajauta,-118.24616200000001,33.895973,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+828,9780,San Pedro / 9th,-118.25001699999999,34.037378000000004,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+829,9832,Avalon / 103rd,-118.265004,33.94404,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+830,9889,Compton / Aprilia,-118.256074,33.895884,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+831,9892,Compton / Central,-118.251648,33.895959000000005,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+832,9895,Compton / Douglas Dollarhide,-118.221703,33.895761,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+833,9896,Compton / Stanford,-118.260221,33.895421999999996,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+834,10119,Myrrh / Tamarind,-118.22198300000001,33.892445,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+835,13102,Acacia / Palm,-118.22633200000001,33.894883,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+836,13106,Alameda / Laurel,-118.22036299999999,33.894256,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+837,13173,Avalon / 46th,-118.265064,34.00147,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+838,13174,Avalon / Vernon,-118.26507099999999,34.003687,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+839,13868,San Pedro / 11th,-118.252119,34.035066,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+840,13872,San Pedro / 14th,-118.25484099999998,34.031249,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+841,13873,San Pedro / 21st,-118.258556,34.025619,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+842,13874,San Pedro / 23rd,-118.259519,34.024119,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+843,13875,San Pedro / 30th,-118.263246,34.018260999999995,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+844,13885,San Pedro / 8th,-118.24908899999998,34.038292,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+845,13888,San Pedro / Adams,-118.26124899999999,34.021406,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+846,13893,San Pedro / Pico,-118.253697,34.032869,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+847,13896,San Pedro / Washington,-118.25741699999999,34.027396,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+848,14257,San Pedro / 16th,-118.25594199999999,34.029635999999996,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+849,15734,7th / Francisco,-118.261874,34.050087,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+850,15735,7th / Lucas,-118.265615,34.051518,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+851,15737,7th / Alvarado,-118.27718,34.056738,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+852,15739,7th / Bixel,-118.26383999999999,34.050822,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+853,15742,7th / Burlington,-118.273269,34.054944,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+854,15745,7th / Coronado,-118.282223,34.059013,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+855,15746,7th / Flower,-118.25853799999999,34.048716999999996,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+856,15750,7th / Hope,-118.25743999999999,34.048013,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+857,15762,7th / Union,-118.271345,34.054083,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+858,15763,7th / Vermont,-118.29146000000001,34.059851,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+859,15765,7th / Westmoreland,-118.28891100000001,34.059865,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+860,15766,7th / Valencia,-118.269159,34.053098999999996,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+861,15767,7th / Witmer,-118.26745,34.052328,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+862,15932,Compton / Aranbe,-118.23165,33.896046000000005,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+863,15933,Compton / Dwight,-118.241773,33.896007,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+864,15934,Compton / Matthison,-118.23366000000001,33.896037,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+865,15935,Compton / Nestor,-118.24876200000001,33.895971,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+866,15936,Compton / Oleander,-118.22854299999999,33.896074,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+867,15937,Compton / Wilmington,-118.237377,33.896024,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+868,17059,182nd / Figueroa,-118.28188700000001,33.870208,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+869,17464,Figueroa / Patrice,-118.28171,33.866433,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+870,17466,Victoria / Figueroa,-118.28116999999999,33.862835,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+871,17468,Victoria / Broadway,-118.278099,33.864216,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+872,17470,Victoria / Main,-118.27503600000001,33.865586,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+873,17472,Victoria / Wall,-118.271107,33.866757,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+874,19124,Avalon / Lanzit,-118.265001,33.932526,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+875,19131,Avalon / 103rd,-118.26531100000001,33.942984,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+876,30005,Harbor Gateway Transit Center,-118.28730800000001,33.869339000000004,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+877,30009,MLK Transit Center,-118.223171,33.898034,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+878,46,7th / Hoover,-118.283965,34.059621,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+879,213,Avalon / Martin Luther King Jr,-118.265404,34.010870000000004,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+880,215,Avalon / Vernon,-118.265376,34.004084999999996,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+881,228,Avalon / 103rd,-118.265309,33.943490000000004,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+882,229,Avalon / 104th,-118.26531299999999,33.941703000000004,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+883,230,Avalon / 106th,-118.26531499999999,33.940288,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+884,231,Avalon / 108th,-118.26531100000001,33.938035,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+885,232,Avalon / 110th,-118.26531299999999,33.935485,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+886,233,Avalon / Lanzit,-118.26531000000001,33.932526,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+887,236,Avalon / 120th,-118.265349,33.923859,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+888,237,Avalon / 126th,-118.26538500000001,33.918652,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+889,238,Avalon / 130th,-118.26539299999999,33.914744,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+890,239,Avalon / 132nd,-118.26541,33.912931,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+891,240,Avalon / 135th,-118.26541499999999,33.909306,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+892,241,Avalon / 138th,-118.265429,33.906560999999996,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+893,248,Avalon / 41st,-118.265396,34.009334,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+894,249,Avalon / 42nd,-118.26538700000002,34.006745,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+895,250,Avalon / 48th,-118.265359,33.999925,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+896,251,Avalon / 51st,-118.265349,33.996724,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+897,252,Avalon / 54th,-118.26533899999998,33.993525,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+898,253,Avalon / 56th,-118.26534,33.991717,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+899,254,Avalon / 59th,-118.265355,33.986253999999995,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+900,255,Avalon / 61st,-118.265332,33.984064000000004,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+901,256,Avalon / 67th,-118.26531899999999,33.978970000000004,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+902,257,Avalon / 69th,-118.265317,33.977167,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+903,258,Avalon / 76th,-118.265308,33.971182,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+904,259,Avalon / 79th,-118.26529,33.967586,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+905,260,Avalon / 83rd,-118.26527800000001,33.963903,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+906,261,Avalon / 87th,-118.265273,33.958196,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+907,262,Avalon / 88th,-118.265277,33.956286,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+908,263,Avalon / 90th,-118.265279,33.954833,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+909,264,Avalon / 92nd,-118.265286,33.953044,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+910,265,Avalon / 94th,-118.26529599999999,33.950922999999996,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+911,266,Avalon / 98th,-118.265302,33.947606,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+912,272,Avalon / Century,-118.26531000000001,33.945778999999995,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+913,273,Avalon / Colden,-118.26530100000001,33.949384,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+914,279,Avalon / El Segundo,-118.26539199999999,33.916565999999996,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+915,280,Avalon / Florence,-118.26531899999999,33.974911,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+916,281,Avalon / Gage,-118.265323,33.982196,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+917,284,Avalon / Imperial,-118.26531299999999,33.931222999999996,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+918,285,Avalon / Manchester,-118.26526299999999,33.960307,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+919,287,Avalon / Rosecrans,-118.265413,33.902318,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+920,289,Avalon / Slauson,-118.265376,33.988683,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+921,292,Avalon Station,-118.265331,33.92759,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+922,294,Avalon / 116th,-118.265317,33.929324,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+923,317,Avalon / 111th,-118.265309,33.934075,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+924,791,Compton / Tajauta,-118.24649099999999,33.895720000000004,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+925,1361,Compton / Aprilia,-118.25638899999998,33.895619,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+926,1363,Compton / Central,-118.25148300000001,33.895707,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+927,1367,Compton / Stanford,-118.260553,33.895229,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+928,1701,Victoria / Avalon,-118.26647,33.867114,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+929,2187,Myrrh / Willowbrook,-118.224295,33.892205,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+930,2535,7th / Hope,-118.257512,34.047733,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+931,4717,Avalon / 46th,-118.265368,34.001744,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+932,5017,7th / Figueroa,-118.260125,34.049409000000004,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+933,5479,San Pedro / 11th,-118.252206,34.035434,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+934,5482,San Pedro / 14th,-118.255105,34.03138,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+935,5483,San Pedro / 21st,-118.25862,34.026064,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+936,5484,San Pedro / 23rd,-118.25978300000001,34.024239,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+937,5485,San Pedro / 30th,-118.263356,34.018631,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+938,5496,San Pedro / 9th,-118.25024199999999,34.037556,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+939,5497,San Pedro / Adams,-118.26136299999999,34.021768,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+940,5504,San Pedro / Pico,-118.254228,34.032621,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+941,5506,San Pedro / Washington,-118.257681,34.027516,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+942,5883,San Pedro / 16th,-118.255996,34.030081,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+943,7373,7th / Francisco,-118.261629,34.049853999999996,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+944,7374,7th / Garland,-118.266058,34.051534000000004,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+945,7377,7th / Alvarado,-118.27702099999999,34.056494,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+946,7379,7th / Bixel,-118.263826,34.050657,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+947,7383,7th / Burlington,-118.273645,34.054949,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+948,7386,7th / Coronado,-118.28228500000002,34.058875,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+949,7408,7th / Union,-118.27134099999999,34.053915,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+950,7409,7th / Vermont,-118.29129499999999,34.059708,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+951,7411,7th / Westmoreland,-118.288746,34.05972,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+952,7412,7th / Valencia,-118.269529,34.053103,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+953,7413,7th / Witmer,-118.267945,34.05239,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+954,7587,Compton / Aranbe,-118.23197900000001,33.895793,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+955,7588,Compton / Acacia,-118.22658200000001,33.89585,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+956,7589,Compton / Dwight,-118.242102,33.895753000000006,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+957,7590,Compton / Matthisen,-118.234045,33.895786,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+958,7591,Compton / Nestor,-118.24909099999999,33.895717,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+959,7592,Compton / Oleander,-118.228453,33.895821000000005,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+960,7593,Compton / Wilmington,-118.237241,33.895771,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+961,8473,Wilshire / Vermont Station,-118.28949399999999,34.062257,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+962,8794,Avalon / 169th,-118.265091,33.878943,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+963,8797,Avalon / Albertoni,-118.266271,33.871634,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+964,8808,Avalon Station Layover,-118.26532399999999,33.927401,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+965,8813,14715 Avalon,-118.265469,33.898436,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+966,8816,Avalon / Harbor Village,-118.266278,33.869625,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+967,8858,Avalon / Alondra,-118.265426,33.885721000000004,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+968,8865,Avalon / Compton,-118.26543000000001,33.895353,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+969,8870,Avalon / Gardena,-118.264706,33.882063,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+970,8874,Avalon / Redondo Beach,-118.26544399999999,33.893429,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+971,8880,Avalon / San Pedro,-118.265469,33.888027,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+972,8884,Avalon / Walnut,-118.265628,33.875601,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+973,9751,7th / Maple,-118.249104,34.042167,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+974,9761,7th / Main,-118.25163799999999,34.043939,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+975,9763,7th / San Pedro,-118.247004,34.040707,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+976,9878,Compton / Avalon,-118.264945,33.895128,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+977,13869,San Pedro / 12th,-118.253551,34.033576000000004,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+978,14089,Vermont / Wilshire,-118.29178200000001,34.062078,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+979,15741,7th / Broadway,-118.25363600000001,34.045227000000004,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+980,15754,7th / Olive,-118.25581899999999,34.046634999999995,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+981,15758,7th / Park View,-118.280681,34.058162,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+982,17082,182nd / Figueroa,-118.282141,33.870411,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+983,17465,Figueroa / Patrice,-118.281406,33.866159,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+984,17467,Victoria / Figueroa,-118.28131599999999,33.86306,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+985,17469,Victoria / Broadway,-118.278244,33.864435,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+986,17471,Victoria / Main,-118.275182,33.865805,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+987,17473,Victoria / Wall,-118.271279,33.867007,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+988,19118,Myrrh / Acacia,-118.22590600000001,33.892108,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+989,19120,Avalon / Jefferson,-118.265423,34.014804999999996,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+990,19129,7th / Magnolia,-118.28635200000001,34.059737,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+991,19131,Avalon / 103rd,-118.26531100000001,33.942984,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+992,30005,Harbor Gateway Transit Center,-118.28730800000001,33.869339000000004,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+993,30009,MLK Transit Center,-118.223171,33.898034,Metro - Los Angeles,51-13122,51/52,Metro Local Line
+994,149,Artesia / Susana,-118.206787,33.874144,Metro - Los Angeles,60-13122,60,Metro Local Line
+995,922,Compton / Willowbrook,-118.223072,33.895793,Metro - Los Angeles,60-13122,60,Metro Local Line
+996,1161,Downtown Long Beach Station,-118.19003500000001,33.768152,Metro - Los Angeles,60-13122,60,Metro Local Line
+997,1218,7th / Decatur,-118.234847,34.034867,Metro - Los Angeles,60-13122,60,Metro Local Line
+998,1219,7th / Gladys,-118.24378300000001,34.038784,Metro - Los Angeles,60-13122,60,Metro Local Line
+999,1220,7th / Maple,-118.249036,34.042446999999996,Metro - Los Angeles,60-13122,60,Metro Local Line
+1000,1221,7th / Mateo,-118.23203400000001,34.03471,Metro - Los Angeles,60-13122,60,Metro Local Line
+1001,1222,7th / Alameda,-118.23833300000001,34.035096,Metro - Los Angeles,60-13122,60,Metro Local Line
+1002,1229,7th / Main,-118.25108999999999,34.043894,Metro - Los Angeles,60-13122,60,Metro Local Line
+1003,1231,7th / San Pedro,-118.246909,34.04097,Metro - Los Angeles,60-13122,60,Metro Local Line
+1004,1350,Compton / Alameda,-118.21951399999999,33.895879,Metro - Los Angeles,60-13122,60,Metro Local Line
+1005,1357,Compton / Spring,-118.218351,33.896148,Metro - Los Angeles,60-13122,60,Metro Local Line
+1006,1359,Compton / Willow,-118.21726299999999,33.895891,Metro - Los Angeles,60-13122,60,Metro Local Line
+1007,2826,7th / Imperial,-118.231008,34.034696000000004,Metro - Los Angeles,60-13122,60,Metro Local Line
+1008,2995,Long Beach / Martin Luther King Jr,-118.21343700000001,33.937154,Metro - Los Angeles,60-13122,60,Metro Local Line
+1009,2996,Long Beach / Marcelle,-118.206112,33.886131,Metro - Los Angeles,60-13122,60,Metro Local Line
+1010,2997,Long Beach Memorial Hospital,-118.18921,33.807522,Metro - Los Angeles,60-13122,60,Metro Local Line
+1011,3004,Long Beach / Ardmore,-118.22198700000001,33.95874,Metro - Los Angeles,60-13122,60,Metro Local Line
+1012,3005,Long Beach / Burton,-118.20911100000001,33.915726,Metro - Los Angeles,60-13122,60,Metro Local Line
+1013,3006,Long Beach / Cedar,-118.20928899999998,33.918366,Metro - Los Angeles,60-13122,60,Metro Local Line
+1014,3007,Long Beach / 10th,-118.18919,33.779533,Metro - Los Angeles,60-13122,60,Metro Local Line
+1015,3008,Long Beach / 7th,-118.189181,33.775631,Metro - Los Angeles,60-13122,60,Metro Local Line
+1016,3009,Long Beach / 8th,-118.18921,33.776972,Metro - Los Angeles,60-13122,60,Metro Local Line
+1017,3010,Long Beach / Euclid,-118.208896,33.912553,Metro - Los Angeles,60-13122,60,Metro Local Line
+1018,3013,Long Beach / Firestone,-118.220265,33.955926,Metro - Los Angeles,60-13122,60,Metro Local Line
+1019,3019,Long Beach / Imperial,-118.21150300000001,33.930783,Metro - Los Angeles,60-13122,60,Metro Local Line
+1020,3020,Long Beach / Josephine,-118.209471,33.921133000000005,Metro - Los Angeles,60-13122,60,Metro Local Line
+1021,3021,Long Beach / Kansas,-118.217118,33.948972,Metro - Los Angeles,60-13122,60,Metro Local Line
+1022,3022,Long Beach / Liberty,-118.223928,33.961882,Metro - Los Angeles,60-13122,60,Metro Local Line
+1023,3023,Long Beach / Michigan,-118.21508999999999,33.942523,Metro - Los Angeles,60-13122,60,Metro Local Line
+1024,3024,Long Beach / Norton,-118.21216799999999,33.933065,Metro - Los Angeles,60-13122,60,Metro Local Line
+1025,3025,Long Beach / Sanborn,-118.21075800000001,33.928385,Metro - Los Angeles,60-13122,60,Metro Local Line
+1026,3028,Long Beach / Southern,-118.218115,33.952177,Metro - Los Angeles,60-13122,60,Metro Local Line
+1027,3029,Long Beach / Tenaya,-118.214192,33.939593,Metro - Los Angeles,60-13122,60,Metro Local Line
+1028,3030,Long Beach / Tweedy,-118.215921,33.945141,Metro - Los Angeles,60-13122,60,Metro Local Line
+1029,3040,Long Beach Blvd Station,-118.20979399999999,33.924996,Metro - Los Angeles,60-13122,60,Metro Local Line
+1030,3042,Long Beach / 3rd,-118.189186,33.770369,Metro - Los Angeles,60-13122,60,Metro Local Line
+1031,3507,Figueroa / Diamond,-118.25118300000001,34.058301,Metro - Los Angeles,60-13122,60,Metro Local Line
+1032,3538,Figueroa / Temple,-118.24865700000001,34.059585999999996,Metro - Los Angeles,60-13122,60,Metro Local Line
+1033,3706,Long Beach / 67th,-118.203434,33.877137,Metro - Los Angeles,60-13122,60,Metro Local Line
+1034,3707,Long Beach / 69th,-118.20412900000001,33.879598,Metro - Los Angeles,60-13122,60,Metro Local Line
+1035,3709,Long Beach / Anaheim,-118.189174,33.782883,Metro - Los Angeles,60-13122,60,Metro Local Line
+1036,3711,Long Beach / Artesia,-118.20265400000001,33.874588,Metro - Los Angeles,60-13122,60,Metro Local Line
+1037,3712,Long Beach / Barclay,-118.20053200000001,33.867505,Metro - Los Angeles,60-13122,60,Metro Local Line
+1038,3713,Long Beach / Bixby,-118.18916499999999,33.827007,Metro - Los Angeles,60-13122,60,Metro Local Line
+1039,3718,Long Beach / Compton,-118.20783999999999,33.896316999999996,Metro - Los Angeles,60-13122,60,Metro Local Line
+1040,3719,Long Beach / Dayman,-118.18918500000001,33.790645,Metro - Los Angeles,60-13122,60,Metro Local Line
+1041,3720,Long Beach / Del Amo,-118.193781,33.847031,Metro - Los Angeles,60-13122,60,Metro Local Line
+1042,3723,Long Beach / Elm,-118.208001,33.899972,Metro - Los Angeles,60-13122,60,Metro Local Line
+1043,3724,Long Beach / Ezmirlian,-118.208501,33.90631,Metro - Los Angeles,60-13122,60,Metro Local Line
+1044,3726,Long Beach / Hill,-118.18916399999999,33.797416,Metro - Los Angeles,60-13122,60,Metro Local Line
+1045,3727,Long Beach / Market,-118.196532,33.854583,Metro - Los Angeles,60-13122,60,Metro Local Line
+1046,3729,Long Beach / Palmer,-118.20794699999999,33.898210999999996,Metro - Los Angeles,60-13122,60,Metro Local Line
+1047,3730,Long Beach / Pine,-118.20875900000001,33.910464000000005,Metro - Los Angeles,60-13122,60,Metro Local Line
+1048,3733,Long Beach / Rosecrans,-118.208317,33.903744,Metro - Los Angeles,60-13122,60,Metro Local Line
+1049,3736,Long Beach / San Antonio,-118.18928799999999,33.83483,Metro - Los Angeles,60-13122,60,Metro Local Line
+1050,3740,Long Beach / Wardlow,-118.189148,33.819198,Metro - Los Angeles,60-13122,60,Metro Local Line
+1051,3743,Long Beach / Willow,-118.189062,33.804645,Metro - Los Angeles,60-13122,60,Metro Local Line
+1052,3913,Santa Fe / Elm,-118.216228,33.900908,Metro - Los Angeles,60-13122,60,Metro Local Line
+1053,3916,Santa Fe / Palmer,-118.216057,33.898471,Metro - Los Angeles,60-13122,60,Metro Local Line
+1054,3918,Santa Fe / Rosecrans,-118.216396,33.903112,Metro - Los Angeles,60-13122,60,Metro Local Line
+1055,4201,Pacific / RR-- Xing,-118.227782,34.004063,Metro - Los Angeles,60-13122,60,Metro Local Line
+1056,4206,Pacific / 55th,-118.22506399999999,33.993077,Metro - Los Angeles,60-13122,60,Metro Local Line
+1057,4207,Pacific / 57th,-118.225058,33.990964,Metro - Los Angeles,60-13122,60,Metro Local Line
+1058,4208,Pacific / Belgrave,-118.225044,33.98701,Metro - Los Angeles,60-13122,60,Metro Local Line
+1059,4209,Pacific / Broadway,-118.22503300000001,33.966964000000004,Metro - Los Angeles,60-13122,60,Metro Local Line
+1060,4211,Pacific / 46th,-118.22523600000001,34.002106,Metro - Los Angeles,60-13122,60,Metro Local Line
+1061,4212,Pacific / Florence,-118.225007,33.975521,Metro - Los Angeles,60-13122,60,Metro Local Line
+1062,4213,Pacific / Fruitland,-118.225075,33.996201,Metro - Los Angeles,60-13122,60,Metro Local Line
+1063,4214,Pacific / Gage,-118.225022,33.982605,Metro - Los Angeles,60-13122,60,Metro Local Line
+1064,4215,Pacific / Grand,-118.225039,33.969039,Metro - Los Angeles,60-13122,60,Metro Local Line
+1065,4216,Pacific / Leonis,-118.22509,34.000293,Metro - Los Angeles,60-13122,60,Metro Local Line
+1066,4217,Pacific / Live Oak,-118.22505600000001,33.971942999999996,Metro - Los Angeles,60-13122,60,Metro Local Line
+1067,4218,Pacific / Randolph,-118.22503600000002,33.985203999999996,Metro - Los Angeles,60-13122,60,Metro Local Line
+1068,4220,Pacific / Saturn,-118.225007,33.978093,Metro - Los Angeles,60-13122,60,Metro Local Line
+1069,4222,Pacific / Slauson,-118.22504599999999,33.989002,Metro - Los Angeles,60-13122,60,Metro Local Line
+1070,4223,Pacific / Zoe,-118.22501299999999,33.980459,Metro - Los Angeles,60-13122,60,Metro Local Line
+1071,4674,Artesia / Santa Fe,-118.214054,33.874118,Metro - Los Angeles,60-13122,60,Metro Local Line
+1072,4992,Figueroa / 4th,-118.25536899999999,34.053959000000006,Metro - Los Angeles,60-13122,60,Metro Local Line
+1073,4995,Figueroa / 2nd,-118.253098,34.056359,Metro - Los Angeles,60-13122,60,Metro Local Line
+1074,4998,Figueroa / 3rd,-118.25415100000001,34.055244,Metro - Los Angeles,60-13122,60,Metro Local Line
+1075,5009,Figueroa / 5th,-118.257129,34.052095,Metro - Los Angeles,60-13122,60,Metro Local Line
+1076,5050,Figueroa / Wilshire,-118.25890600000001,34.050208000000005,Metro - Los Angeles,60-13122,60,Metro Local Line
+1077,5235,Long Beach / Alondra,-118.20698200000001,33.888988,Metro - Los Angeles,60-13122,60,Metro Local Line
+1078,5236,Long Beach / Bennett,-118.205301,33.883355,Metro - Los Angeles,60-13122,60,Metro Local Line
+1079,5238,Long Beach / Greenleaf,-118.20468000000001,33.881257,Metro - Los Angeles,60-13122,60,Metro Local Line
+1080,5239,Long Beach / Myrrh,-118.20758700000002,33.892669,Metro - Los Angeles,60-13122,60,Metro Local Line
+1081,5527,Santa Fe / 11th,-118.229875,34.023804999999996,Metro - Los Angeles,60-13122,60,Metro Local Line
+1082,5528,Santa Fe / 15th,-118.230003,34.020964,Metro - Los Angeles,60-13122,60,Metro Local Line
+1083,5530,Santa Fe / 25th,-118.230181,34.015099,Metro - Los Angeles,60-13122,60,Metro Local Line
+1084,5531,Santa Fe / 27th,-118.230148,34.01269,Metro - Los Angeles,60-13122,60,Metro Local Line
+1085,5532,Santa Fe / 30th,-118.23011799999999,34.009843,Metro - Los Angeles,60-13122,60,Metro Local Line
+1086,5533,Santa Fe / 38th,-118.230099,34.007892,Metro - Los Angeles,60-13122,60,Metro Local Line
+1087,5534,Santa Fe / 8th,-118.229789,34.029452,Metro - Los Angeles,60-13122,60,Metro Local Line
+1088,5537,Santa Fe / Olympic,-118.22975600000001,34.025943,Metro - Los Angeles,60-13122,60,Metro Local Line
+1089,5541,Santa Fe / Violet,-118.229844,34.032851,Metro - Los Angeles,60-13122,60,Metro Local Line
+1090,7380,7th / Broadway,-118.253114,34.045206,Metro - Los Angeles,60-13122,60,Metro Local Line
+1091,7398,7th / Olive,-118.25569399999999,34.046877,Metro - Los Angeles,60-13122,60,Metro Local Line
+1092,9697,Long Beach / 4th,-118.189178,33.771567,Metro - Los Angeles,60-13122,60,Metro Local Line
+1093,9757,7th / Central,-118.240879,34.036762,Metro - Los Angeles,60-13122,60,Metro Local Line
+1094,9884,Compton / Santa Fe,-118.216117,33.896146,Metro - Los Angeles,60-13122,60,Metro Local Line
+1095,9886,Santa Fe / Compton,-118.215686,33.896301,Metro - Los Angeles,60-13122,60,Metro Local Line
+1096,10254,Pacific / Santa Fe,-118.22999899999999,34.004096999999994,Metro - Los Angeles,60-13122,60,Metro Local Line
+1097,11494,Long Beach Bl Station Lo,-118.20973000000001,33.924444,Metro - Los Angeles,60-13122,60,Metro Local Line
+1098,12390,Santa Fe / Elm,-118.215971,33.900645000000004,Metro - Los Angeles,60-13122,60,Metro Local Line
+1099,12392,Santa Fe / Palmer,-118.21580300000001,33.898208000000004,Metro - Los Angeles,60-13122,60,Metro Local Line
+1100,12394,Santa Fe / Rosecrans,-118.21616499999999,33.903205,Metro - Los Angeles,60-13122,60,Metro Local Line
+1101,14555,Palm & Seville Terminal,-118.222972,33.963456,Metro - Los Angeles,60-13122,60,Metro Local Line
+1102,15750,7th / Hope,-118.25743999999999,34.048013,Metro - Los Angeles,60-13122,60,Metro Local Line
+1103,16919,Acacia / Walnut,-118.224944,33.876197,Metro - Los Angeles,60-13122,60,Metro Local Line
+1104,16920,Artesia / Acacia,-118.224429,33.874409,Metro - Los Angeles,60-13122,60,Metro Local Line
+1105,16923,Long Beach / 6th,-118.18921200000001,33.774653,Metro - Los Angeles,60-13122,60,Metro Local Line
+1106,16928,Figueroa / Sunset,-118.24643600000002,34.062108,Metro - Los Angeles,60-13122,60,Metro Local Line
+1107,17302,Compton / Alameda,-118.219683,33.896134,Metro - Los Angeles,60-13122,60,Metro Local Line
+1108,17377,Rosecrans / Mayo,-118.213173,33.903301,Metro - Los Angeles,60-13122,60,Metro Local Line
+1109,17378,Rosecrans / Mayo,-118.21333899999999,33.903557,Metro - Los Angeles,60-13122,60,Metro Local Line
+1110,30009,MLK Transit Center,-118.223171,33.898034,Metro - Los Angeles,60-13122,60,Metro Local Line
+1111,30014,Artesia Station,-118.22283200000001,33.875981,Metro - Los Angeles,60-13122,60,Metro Local Line
+1112,142415,Long Beach / Palm,-118.22503,33.964461,Metro - Los Angeles,60-13122,60,Metro Local Line
+1113,6000001,Long Beach / 5th,-118.18921100000001,33.773070000000004,Metro - Los Angeles,60-13122,60,Metro Local Line
+1114,485,Long Beach / Alondra,-118.207102,33.888339,Metro - Los Angeles,60-13122,60,Metro Local Line
+1115,922,Compton / Willowbrook,-118.223072,33.895793,Metro - Los Angeles,60-13122,60,Metro Local Line
+1116,1161,Downtown Long Beach Station,-118.19003500000001,33.768152,Metro - Los Angeles,60-13122,60,Metro Local Line
+1117,1350,Compton / Alameda,-118.21951399999999,33.895879,Metro - Los Angeles,60-13122,60,Metro Local Line
+1118,1357,Compton / Spring,-118.218351,33.896148,Metro - Los Angeles,60-13122,60,Metro Local Line
+1119,1359,Compton / Willow,-118.21726299999999,33.895891,Metro - Los Angeles,60-13122,60,Metro Local Line
+1120,1425,Pacific / Florence,-118.225444,33.973948,Metro - Los Angeles,60-13122,60,Metro Local Line
+1121,2000,Cesar E Chavez / Grand,-118.24408100000001,34.060624,Metro - Los Angeles,60-13122,60,Metro Local Line
+1122,2397,Grand / 2nd,-118.25021299999999,34.054321,Metro - Los Angeles,60-13122,60,Metro Local Line
+1123,2940,Grand / Temple,-118.246923,34.057963,Metro - Los Angeles,60-13122,60,Metro Local Line
+1124,3698,Long Beach / 3rd,-118.18955700000001,33.770234,Metro - Los Angeles,60-13122,60,Metro Local Line
+1125,3710,Artesia / Long Beach,-118.203049,33.874417,Metro - Los Angeles,60-13122,60,Metro Local Line
+1126,3913,Santa Fe / Elm,-118.216228,33.900908,Metro - Los Angeles,60-13122,60,Metro Local Line
+1127,3916,Santa Fe / Palmer,-118.216057,33.898471,Metro - Los Angeles,60-13122,60,Metro Local Line
+1128,3918,Santa Fe / Rosecrans,-118.216396,33.903112,Metro - Los Angeles,60-13122,60,Metro Local Line
+1129,8653,Acacia / Artesia,-118.22469299999999,33.874807000000004,Metro - Los Angeles,60-13122,60,Metro Local Line
+1130,8742,Artesia / Harbor,-118.20745,33.874393,Metro - Los Angeles,60-13122,60,Metro Local Line
+1131,9749,7th / Ceres,-118.243412,34.038178,Metro - Los Angeles,60-13122,60,Metro Local Line
+1132,9750,7th / Decatur,-118.235203,34.034634999999994,Metro - Los Angeles,60-13122,60,Metro Local Line
+1133,9751,7th / Maple,-118.249104,34.042167,Metro - Los Angeles,60-13122,60,Metro Local Line
+1134,9753,7th / Mateo,-118.232459,34.03447,Metro - Los Angeles,60-13122,60,Metro Local Line
+1135,9754,7th / Alameda,-118.238801,34.034977000000005,Metro - Los Angeles,60-13122,60,Metro Local Line
+1136,9759,7th / Central,-118.24101399999999,34.036525,Metro - Los Angeles,60-13122,60,Metro Local Line
+1137,9761,7th / Main,-118.25163799999999,34.043939,Metro - Los Angeles,60-13122,60,Metro Local Line
+1138,9763,7th / San Pedro,-118.247004,34.040707,Metro - Los Angeles,60-13122,60,Metro Local Line
+1139,9764,7th / Santa Fe,-118.230225,34.034422,Metro - Los Angeles,60-13122,60,Metro Local Line
+1140,9884,Compton / Santa Fe,-118.216117,33.896146,Metro - Los Angeles,60-13122,60,Metro Local Line
+1141,9886,Santa Fe / Compton,-118.215686,33.896301,Metro - Los Angeles,60-13122,60,Metro Local Line
+1142,11489,Long Beach / Martin Luther King Jr,-118.21371699999999,33.937036,Metro - Los Angeles,60-13122,60,Metro Local Line
+1143,11490,Long Beach / Marcelle,-118.20645800000001,33.88623,Metro - Los Angeles,60-13122,60,Metro Local Line
+1144,11491,Long Beach Memorial Hospital,-118.18949199999999,33.807093,Metro - Los Angeles,60-13122,60,Metro Local Line
+1145,11493,Long Beach Blvd Station,-118.210154,33.925273,Metro - Los Angeles,60-13122,60,Metro Local Line
+1146,11496,Long Beach / Burton,-118.20943500000001,33.915986,Metro - Los Angeles,60-13122,60,Metro Local Line
+1147,11497,Long Beach / Cass,-118.22416100000001,33.961698,Metro - Los Angeles,60-13122,60,Metro Local Line
+1148,11498,Long Beach / Cedar,-118.209558,33.917803,Metro - Los Angeles,60-13122,60,Metro Local Line
+1149,11499,Long Beach / La Reina,-118.189536,33.776094,Metro - Los Angeles,60-13122,60,Metro Local Line
+1150,11500,Long Beach / 9th,-118.189548,33.777908000000004,Metro - Los Angeles,60-13122,60,Metro Local Line
+1151,11501,Long Beach / Euclid,-118.209189,33.912401,Metro - Los Angeles,60-13122,60,Metro Local Line
+1152,11504,Long Beach / Firestone,-118.22061399999998,33.955934,Metro - Los Angeles,60-13122,60,Metro Local Line
+1153,11507,Long Beach / Imperial,-118.211643,33.930189,Metro - Los Angeles,60-13122,60,Metro Local Line
+1154,11510,Long Beach / Independence,-118.22273700000001,33.959398,Metro - Los Angeles,60-13122,60,Metro Local Line
+1155,11511,Long Beach / Josephine,-118.209795,33.921396,Metro - Los Angeles,60-13122,60,Metro Local Line
+1156,11512,Long Beach / Kansas,-118.21737399999999,33.948778999999995,Metro - Los Angeles,60-13122,60,Metro Local Line
+1157,11513,Long Beach / Michigan,-118.21536299999998,33.94238,Metro - Los Angeles,60-13122,60,Metro Local Line
+1158,11514,Long Beach / Norton,-118.212461,33.932977,Metro - Los Angeles,60-13122,60,Metro Local Line
+1159,11515,Long Beach / Sanborn,-118.21113400000002,33.928582,Metro - Los Angeles,60-13122,60,Metro Local Line
+1160,11517,Long Beach / Palm,-118.22533600000001,33.964323,Metro - Los Angeles,60-13122,60,Metro Local Line
+1161,11518,Long Beach / Southern,-118.21855500000001,33.952536,Metro - Los Angeles,60-13122,60,Metro Local Line
+1162,11519,Long Beach / State,-118.21466799999999,33.940123,Metro - Los Angeles,60-13122,60,Metro Local Line
+1163,11520,Long Beach / Tweedy,-118.21636000000001,33.945544,Metro - Los Angeles,60-13122,60,Metro Local Line
+1164,12197,Long Beach / 5th,-118.18951899999999,33.772377,Metro - Los Angeles,60-13122,60,Metro Local Line
+1165,12198,Long Beach / 67th,-118.20369099999999,33.876940999999995,Metro - Los Angeles,60-13122,60,Metro Local Line
+1166,12199,Long Beach / 69th,-118.204305,33.879020000000004,Metro - Los Angeles,60-13122,60,Metro Local Line
+1167,12201,Long Beach / Anaheim,-118.18954199999999,33.782332000000004,Metro - Los Angeles,60-13122,60,Metro Local Line
+1168,12204,Long Beach / Artesia,-118.20278799999998,33.873994,Metro - Los Angeles,60-13122,60,Metro Local Line
+1169,12206,Long Beach / Barclay,-118.200672,33.866911,Metro - Los Angeles,60-13122,60,Metro Local Line
+1170,12207,Long Beach / Bixby,-118.189467,33.826457,Metro - Los Angeles,60-13122,60,Metro Local Line
+1171,12212,Long Beach / Compton,-118.20810900000001,33.895756,Metro - Los Angeles,60-13122,60,Metro Local Line
+1172,12214,Long Beach / Elm,-118.20848500000001,33.900949,Metro - Los Angeles,60-13122,60,Metro Local Line
+1173,12216,Long Beach / Hill,-118.18953799999998,33.796867999999996,Metro - Los Angeles,60-13122,60,Metro Local Line
+1174,12217,Long Beach / Market,-118.196623,33.853984000000004,Metro - Los Angeles,60-13122,60,Metro Local Line
+1175,12219,Long Beach / Pacific Coast Highway,-118.189548,33.789592,Metro - Los Angeles,60-13122,60,Metro Local Line
+1176,12221,Long Beach / Palmer,-118.20823999999999,33.898062,Metro - Los Angeles,60-13122,60,Metro Local Line
+1177,12222,Long Beach / Peck,-118.20878400000001,33.905972,Metro - Los Angeles,60-13122,60,Metro Local Line
+1178,12223,Long Beach / Pine,-118.20905800000001,33.910371000000005,Metro - Los Angeles,60-13122,60,Metro Local Line
+1179,12225,Long Beach / Rosecrans,-118.20861299999999,33.903617,Metro - Los Angeles,60-13122,60,Metro Local Line
+1180,12228,Long Beach / San Antonio,-118.189498,33.834252,Metro - Los Angeles,60-13122,60,Metro Local Line
+1181,12231,Long Beach / Wardlow,-118.189443,33.818642,Metro - Los Angeles,60-13122,60,Metro Local Line
+1182,12232,Long Beach / Willow,-118.18950900000002,33.804134000000005,Metro - Los Angeles,60-13122,60,Metro Local Line
+1183,12237,Long Beach / Del Amo,-118.193875,33.846429,Metro - Los Angeles,60-13122,60,Metro Local Line
+1184,12390,Santa Fe / Elm,-118.215971,33.900645000000004,Metro - Los Angeles,60-13122,60,Metro Local Line
+1185,12392,Santa Fe / Palmer,-118.21580300000001,33.898208000000004,Metro - Los Angeles,60-13122,60,Metro Local Line
+1186,12394,Santa Fe / Rosecrans,-118.21616499999999,33.903205,Metro - Los Angeles,60-13122,60,Metro Local Line
+1187,12681,Pacific / RR-Xing,-118.228072,34.003823,Metro - Los Angeles,60-13122,60,Metro Local Line
+1188,12696,Pacific / 55th,-118.22537,33.993076,Metro - Los Angeles,60-13122,60,Metro Local Line
+1189,12697,Pacific / 57th,-118.22536200000002,33.991238,Metro - Los Angeles,60-13122,60,Metro Local Line
+1190,12698,Pacific / Belgrave,-118.225348,33.987365999999994,Metro - Los Angeles,60-13122,60,Metro Local Line
+1191,12701,Pacific / Broadway,-118.22533500000002,33.966414,Metro - Los Angeles,60-13122,60,Metro Local Line
+1192,12702,Pacific / Clarendon,-118.225326,33.982582,Metro - Los Angeles,60-13122,60,Metro Local Line
+1193,12703,Pacific / 46th,-118.22548,34.001908,Metro - Los Angeles,60-13122,60,Metro Local Line
+1194,12705,Pacific / Fruitland,-118.22538,33.996475,Metro - Los Angeles,60-13122,60,Metro Local Line
+1195,12707,Pacific / Grand,-118.225343,33.969313,Metro - Los Angeles,60-13122,60,Metro Local Line
+1196,12708,Pacific / Leonis,-118.225394,33.999564,Metro - Los Angeles,60-13122,60,Metro Local Line
+1197,12709,Pacific / Live Oak,-118.22535900000001,33.971804999999996,Metro - Los Angeles,60-13122,60,Metro Local Line
+1198,12710,Pacific / Randolph,-118.22534099999999,33.985698,Metro - Los Angeles,60-13122,60,Metro Local Line
+1199,12711,Pacific / Santa Fe,-118.229735,34.003840000000004,Metro - Los Angeles,60-13122,60,Metro Local Line
+1200,12712,Pacific / Florence,-118.22531000000001,33.975561,Metro - Los Angeles,60-13122,60,Metro Local Line
+1201,12714,Pacific / Slauson,-118.22535400000001,33.989427,Metro - Los Angeles,60-13122,60,Metro Local Line
+1202,12715,Pacific / Zoe,-118.22531000000001,33.978092,Metro - Los Angeles,60-13122,60,Metro Local Line
+1203,13131,Artesia / Santa Fe,-118.214872,33.87438,Metro - Los Angeles,60-13122,60,Metro Local Line
+1204,13560,Grand / 3rd,-118.251572,34.052881,Metro - Los Angeles,60-13122,60,Metro Local Line
+1205,13561,Grand / 5th,-118.254268,34.05007,Metro - Los Angeles,60-13122,60,Metro Local Line
+1206,13684,Long Beach / Bennett,-118.205441,33.882761,Metro - Los Angeles,60-13122,60,Metro Local Line
+1207,13687,Long Beach / Myrrh,-118.20788,33.892514,Metro - Los Angeles,60-13122,60,Metro Local Line
+1208,13915,Santa Fe / 11th,-118.230189,34.023684,Metro - Los Angeles,60-13122,60,Metro Local Line
+1209,13916,Santa Fe / 15th,-118.230337,34.021274,Metro - Los Angeles,60-13122,60,Metro Local Line
+1210,13918,Santa Fe / 25th,-118.230488,34.014996999999994,Metro - Los Angeles,60-13122,60,Metro Local Line
+1211,13919,Santa Fe / 27th,-118.230456,34.012964000000004,Metro - Los Angeles,60-13122,60,Metro Local Line
+1212,13920,Santa Fe / 30th,-118.23042199999999,34.010117,Metro - Los Angeles,60-13122,60,Metro Local Line
+1213,13921,Santa Fe / 38th,-118.23040400000001,34.008249,Metro - Los Angeles,60-13122,60,Metro Local Line
+1214,13926,Santa Fe / Olympic,-118.23006200000002,34.0258,Metro - Los Angeles,60-13122,60,Metro Local Line
+1215,13930,Santa Fe / Violet,-118.230144,34.032708,Metro - Los Angeles,60-13122,60,Metro Local Line
+1216,14555,Palm & Seville Terminal,-118.222972,33.963456,Metro - Los Angeles,60-13122,60,Metro Local Line
+1217,15741,7th / Broadway,-118.25363600000001,34.045227000000004,Metro - Los Angeles,60-13122,60,Metro Local Line
+1218,15754,7th / Olive,-118.25581899999999,34.046634999999995,Metro - Los Angeles,60-13122,60,Metro Local Line
+1219,16924,Long Beach / 6th,-118.189549,33.773866,Metro - Los Angeles,60-13122,60,Metro Local Line
+1220,16928,Figueroa / Sunset,-118.24643600000002,34.062108,Metro - Los Angeles,60-13122,60,Metro Local Line
+1221,16931,Santa Fe / 8th,-118.230096,34.029724,Metro - Los Angeles,60-13122,60,Metro Local Line
+1222,17302,Compton / Alameda,-118.219683,33.896134,Metro - Los Angeles,60-13122,60,Metro Local Line
+1223,17377,Rosecrans / Mayo,-118.213173,33.903301,Metro - Los Angeles,60-13122,60,Metro Local Line
+1224,17378,Rosecrans / Mayo,-118.21333899999999,33.903557,Metro - Los Angeles,60-13122,60,Metro Local Line
+1225,30009,MLK Transit Center,-118.223171,33.898034,Metro - Los Angeles,60-13122,60,Metro Local Line
+1226,30014,Artesia Station,-118.22283200000001,33.875981,Metro - Los Angeles,60-13122,60,Metro Local Line
+1227,140842,Pacific / Gage,-118.22531699999999,33.980461,Metro - Los Angeles,60-13122,60,Metro Local Line
+1228,141092,Long Beach / Greenleaf,-118.204936,33.881058,Metro - Los Angeles,60-13122,60,Metro Local Line
+1229,6000003,Palm / Long Beach,-118.224877,33.964062,Metro - Los Angeles,60-13122,60,Metro Local Line
+1230,585,Canoga / Burbank,-118.597283,34.173159999999996,Metro - Los Angeles,601-13122,601,Metro Local Line
+1231,973,De Soto / Burbank,-118.588356,34.17175,Metro - Los Angeles,601-13122,601,Metro Local Line
+1232,974,De Soto / Burbank,-118.58840900000001,34.173577,Metro - Los Angeles,601-13122,601,Metro Local Line
+1233,3603,Owensmouth / Canyon Creek,-118.60138500000001,34.190075,Metro - Los Angeles,601-13122,601,Metro Local Line
+1234,3605,Burbank / Warner Ranch,-118.59523100000001,34.173404,Metro - Los Angeles,601-13122,601,Metro Local Line
+1235,3614,Owensmouth / Victory,-118.601404,34.188156,Metro - Los Angeles,601-13122,601,Metro Local Line
+1236,3615,Canoga / Vanowen,-118.597631,34.193360999999996,Metro - Los Angeles,601-13122,601,Metro Local Line
+1237,4185,Warner Center Transit Hub,-118.60138400000001,34.179778000000006,Metro - Los Angeles,601-13122,601,Metro Local Line
+1238,9168,Canoga / Ventura Freeway Off Ramp,-118.597248,34.170128999999996,Metro - Los Angeles,601-13122,601,Metro Local Line
+1239,12653,Oxnard / Canoga,-118.59778,34.179384000000006,Metro - Los Angeles,601-13122,601,Metro Local Line
+1240,15337,Ventura / Alhama,-118.59303799999999,34.167132,Metro - Los Angeles,601-13122,601,Metro Local Line
+1241,15348,Canoga / Ventura,-118.59725700000001,34.168137,Metro - Los Angeles,601-13122,601,Metro Local Line
+1242,15393,Ventura / De Soto,-118.589127,34.16662,Metro - Los Angeles,601-13122,601,Metro Local Line
+1243,15457,Canoga Station,-118.596471,34.190453999999995,Metro - Los Angeles,601-13122,601,Metro Local Line
+1244,15701,Warner Center Transit Hub,-118.601348,34.181669,Metro - Los Angeles,601-13122,601,Metro Local Line
+1245,974,De Soto / Burbank,-118.58840900000001,34.173577,Metro - Los Angeles,601-13122,601,Metro Local Line
+1246,1734,Oxnard / Canoga,-118.59774499999999,34.179128999999996,Metro - Los Angeles,601-13122,601,Metro Local Line
+1247,3592,Burbank / Canoga,-118.59693899999999,34.173196000000004,Metro - Los Angeles,601-13122,601,Metro Local Line
+1248,3594,Warner Center / Burbank,-118.591311,34.173727,Metro - Los Angeles,601-13122,601,Metro Local Line
+1249,3604,Owensmouth / Canyon Creek,-118.601735,34.190049,Metro - Los Angeles,601-13122,601,Metro Local Line
+1250,7105,Owensmouth / Victory,-118.601644,34.187471,Metro - Los Angeles,601-13122,601,Metro Local Line
+1251,12647,Owensmouth / Vanowen,-118.601672,34.193358,Metro - Los Angeles,601-13122,601,Metro Local Line
+1252,12665,Oxnard / Owensmouth,-118.60116699999999,34.179123,Metro - Los Angeles,601-13122,601,Metro Local Line
+1253,15185,Vanowen / Canoga,-118.597808,34.193898,Metro - Los Angeles,601-13122,601,Metro Local Line
+1254,15457,Canoga Station,-118.596471,34.190453999999995,Metro - Los Angeles,601-13122,601,Metro Local Line
+1255,43426,Warner Center Transit Hub,-118.60163500000002,34.181098999999996,Metro - Los Angeles,601-13122,601,Metro Local Line
+1256,38,5th / Colorado,-118.490199,34.013884000000004,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1257,1210,6th / Central,-118.24074499999999,34.039356,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1258,1212,6th / Central,-118.23953799999998,34.038677,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1259,1214,6th / Main,-118.24976299999999,34.045051,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1260,1215,6th / San Pedro,-118.245057,34.042024,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1261,1295,Wilshire / La Cienega,-118.37575700000001,34.064968,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1262,2809,Wilshire / Cloverdale,-118.34633600000001,34.062162,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1263,3033,5th / Colorado,-118.491174,34.014736,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1264,3120,5th / Santa Monica,-118.49448999999998,34.017546,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1265,3553,Wilshire / Rodeo,-118.401823,34.066959000000004,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1266,5702,Vermont / Wilshire,-118.291474,34.062079,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1267,6063,Wilshire / Santa Monica,-118.41121100000001,34.066966,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1268,7368,6th / Witmer,-118.265459,34.055319,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1269,8275,Whittier / Atlantic,-118.15698799999998,34.020232,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1270,8284,Whittier / Herbert,-118.18350500000001,34.023802,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1271,8311,Whittier / Arizona,-118.166839,34.022301,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1272,8323,Whittier / Hoefner,-118.150154,34.018792,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1273,8327,Whittier / Lorena,-118.20074,34.027546,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1274,8339,Whittier / Soto,-118.215305,34.034062,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1275,8377,Wilshire / 14th,-118.488897,34.026604,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1276,8383,Wilshire / 26th,-118.477218,34.036032,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1277,8387,Wilshire / Alvarado,-118.275668,34.057709,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1278,8393,Wilshire / Crenshaw,-118.318649,34.06159,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1279,8394,Wilshire / Fairfax,-118.360882,34.062804,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1280,8408,Wilshire / Beverly Glen,-118.428968,34.066722,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1281,8411,Wilshire / Bundy,-118.467203,34.044136,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1282,8437,Wilshire / Normandie,-118.30019899999999,34.061626000000004,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1283,8444,Wilshire / Rexford,-118.39406799999999,34.066946,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1284,8447,Wilshire / Robertson,-118.382999,34.066762,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1285,8454,Wilshire / Western,-118.308843,34.061583,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1286,8464,Wilshire / Vermont,-118.291397,34.061681,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1287,8469,Wilshire / Westwood,-118.44353000000001,34.058756,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1288,8473,Wilshire / Vermont Station,-118.28949399999999,34.062257,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1289,9750,7th / Decatur,-118.235203,34.034634999999994,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1290,15710,6th / Broadway,-118.25185,34.046426000000004,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1291,15718,6th / Hope,-118.25589199999999,34.049031,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1292,16672,Wilshire / Bonsall,-118.455164,34.054401,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1293,16770,Veteran Federal Building,-118.447281,34.057021999999996,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1294,32149,Whittier / Indiana,-118.192504,34.023912,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1295,104705,Wilshire / 6th,-118.49643200000001,34.020481,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1296,104707,Wilshire / Barrington,-118.460943,34.049274,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1297,145000,Commerce Center,-118.154087,34.018609000000005,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1298,38,5th / Colorado,-118.490199,34.013884000000004,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1299,1212,6th / Central,-118.23953799999998,34.038677,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1300,1213,Central / 6th,-118.239787,34.039201,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1301,1218,7th / Decatur,-118.234847,34.034867,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1302,3163,4th / Santa Monica,-118.49490700000001,34.016085,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1303,3179,4th / Arizona,-118.49701499999999,34.017922999999996,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1304,8467,Wilshire / Western,-118.308745,34.061836,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1305,8473,Wilshire / Vermont Station,-118.28949399999999,34.062257,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1306,9737,5th / San Pedro,-118.243627,34.044165,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1307,14360,Santa Monica / 4th,-118.49468,34.016649,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1308,14396,4th / Broadway,-118.49288100000001,34.014362,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1309,15688,5th / Grand,-118.25413700000001,34.050463,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1310,15689,5th / Broadway,-118.250875,34.048353999999996,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1311,16577,Whittier / Goodrich,-118.154063,34.019878000000006,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1312,16584,Whittier / Atlantic,-118.15749299999999,34.020599,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1313,16592,Whittier / Herbert,-118.183967,34.024054,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1314,16612,Whittier / Arizona,-118.16721299999999,34.022642,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1315,16625,Whittier / Indiana,-118.19256499999999,34.024225,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1316,16628,Whittier / Lorena,-118.20110600000001,34.028,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1317,16637,Whittier / Soto,-118.21603300000001,34.034682000000004,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1318,16664,Wilshire / Crescent Heights,-118.364924,34.063501,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1319,16675,Wilshire / 14th,-118.48886599999999,34.026977,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1320,16682,Wilshire / 26th,-118.47743700000001,34.036207,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1321,16686,Wilshire / Alvarado,-118.275348,34.057888,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1322,16691,Wilshire / Crenshaw,-118.31961399999999,34.061879,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1323,16702,Wilshire / Barrington,-118.461277,34.049352,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1324,16704,Wilshire / Beverly Glen,-118.42868899999999,34.067136,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1325,16711,Wilshire / Cloverdale,-118.34633000000001,34.062418,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1326,16739,Wilshire / Spaulding,-118.358056,34.062752,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1327,16743,Wilshire / Rexford,-118.39431699999999,34.067201000000004,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1328,16746,Wilshire / Robertson,-118.38426899999999,34.067186,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1329,16747,Wilshire / Rodeo,-118.40182,34.067217,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1330,16762,Wilshire / Santa Monica,-118.40898100000001,34.06722,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1331,16763,Wilshire / Bonsall,-118.45549799999999,34.054579,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1332,16769,Wilshire / Vermont,-118.291299,34.061934,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1333,16770,Veteran Federal Building,-118.447281,34.057021999999996,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1334,16777,Wilshire / Westwood,-118.44425,34.058839,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1335,16995,Wilshire / Normandie,-118.3002,34.061882000000004,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1336,104702,Wilshire / Bundy,-118.46771100000001,34.044076000000004,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1337,104703,5th / Main,-118.248203,34.046606,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1338,140711,Wilshire / La Cienega,-118.376773,34.065483,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1339,145000,Commerce Center,-118.154087,34.018609000000005,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1340,72000003,6th / Witmer,-118.265321,34.055547,Metro - Los Angeles,720-13122,720,Metro Rapid Line
+1341,3976,Vermont / Sunset,-118.29160800000001,34.098433,Metro - Los Angeles,754-13122,754,Metro Rapid Line
+1342,5635,Vermont / Exposition,-118.29138600000002,34.018622,Metro - Los Angeles,754-13122,754,Metro Rapid Line
+1343,5679,Vermont / 8th,-118.291472,34.057625,Metro - Los Angeles,754-13122,754,Metro Rapid Line
+1344,5686,Vermont / Adams,-118.29138300000001,34.033045,Metro - Los Angeles,754-13122,754,Metro Rapid Line
+1345,5694,Vermont / Manchester,-118.291513,33.960306,Metro - Los Angeles,754-13122,754,Metro Rapid Line
+1346,5695,Vermont / Olympic,-118.29145,34.052324,Metro - Los Angeles,754-13122,754,Metro Rapid Line
+1347,5702,Vermont / Wilshire,-118.291474,34.062079,Metro - Los Angeles,754-13122,754,Metro Rapid Line
+1348,7248,Vermont / 120th,-118.291321,33.924002,Metro - Los Angeles,754-13122,754,Metro Rapid Line
+1349,11247,Vermont / Martin Luther King Jr,-118.29138600000002,34.011137,Metro - Los Angeles,754-13122,754,Metro Rapid Line
+1350,12442,Vermont / Hollywood - North,-118.291606,34.099848,Metro - Los Angeles,754-13122,754,Metro Rapid Line
+1351,140930,Vermont / Washington,-118.291402,34.040426000000004,Metro - Los Angeles,754-13122,754,Metro Rapid Line
+1352,140945,Vermont / Century,-118.29141299999999,33.945784,Metro - Los Angeles,754-13122,754,Metro Rapid Line
+1353,140947,Vermont / 3rd,-118.2915,34.069334000000005,Metro - Los Angeles,754-13122,754,Metro Rapid Line
+1354,140948,Vermont / Santa Monica,-118.29158899999999,34.091149,Metro - Los Angeles,754-13122,754,Metro Rapid Line
+1355,140956,Vermont / Florence,-118.291445,33.975043,Metro - Los Angeles,754-13122,754,Metro Rapid Line
+1356,140957,Vermont / Jefferson,-118.29137800000001,34.025923,Metro - Los Angeles,754-13122,754,Metro Rapid Line
+1357,140958,Vermont / Beverly,-118.291532,34.076753000000004,Metro - Los Angeles,754-13122,754,Metro Rapid Line
+1358,140963,Vermont / Pico,-118.29144099999999,34.047678000000005,Metro - Los Angeles,754-13122,754,Metro Rapid Line
+1359,140968,Vermont / Venice,-118.291423,34.044523,Metro - Los Angeles,754-13122,754,Metro Rapid Line
+1360,140970,Vermont / Melrose,-118.291552,34.083411,Metro - Los Angeles,754-13122,754,Metro Rapid Line
+1361,13000138,Vermont / Athens Station,-118.29142,33.928775,Metro - Los Angeles,754-13122,754,Metro Rapid Line
+1362,13000146,Vermont / Vernon,-118.29139099999999,34.003981,Metro - Los Angeles,754-13122,754,Metro Rapid Line
+1363,20400032,Vermont / Slauson,-118.291302,33.988959,Metro - Los Angeles,754-13122,754,Metro Rapid Line
+1364,3970,Vermont / Melrose,-118.29186100000001,34.083795,Metro - Los Angeles,754-13122,754,Metro Rapid Line
+1365,7248,Vermont / 120th,-118.291321,33.924002,Metro - Los Angeles,754-13122,754,Metro Rapid Line
+1366,7888,Vermont / Olympic,-118.291757,34.052269,Metro - Los Angeles,754-13122,754,Metro Rapid Line
+1367,12439,Vermont / Beverly,-118.291835,34.076477000000004,Metro - Los Angeles,754-13122,754,Metro Rapid Line
+1368,12442,Vermont / Hollywood - North,-118.291606,34.099848,Metro - Los Angeles,754-13122,754,Metro Rapid Line
+1369,14017,Vermont / Exposition,-118.291692,34.018511,Metro - Los Angeles,754-13122,754,Metro Rapid Line
+1370,14021,Vermont / Venice,-118.29173200000001,34.043973,Metro - Los Angeles,754-13122,754,Metro Rapid Line
+1371,14032,Vermont / 120th,-118.291941,33.923421000000005,Metro - Los Angeles,754-13122,754,Metro Rapid Line
+1372,14042,Vermont / 3rd,-118.291802,34.068783,Metro - Los Angeles,754-13122,754,Metro Rapid Line
+1373,14064,Vermont / 8th,-118.29178300000001,34.057899,Metro - Los Angeles,754-13122,754,Metro Rapid Line
+1374,14067,Vermont / 92nd,-118.292025,33.953959999999995,Metro - Los Angeles,754-13122,754,Metro Rapid Line
+1375,14072,Vermont / Adams,-118.29168500000002,34.032495000000004,Metro - Los Angeles,754-13122,754,Metro Rapid Line
+1376,14081,Vermont / Manchester,-118.291824,33.959814,Metro - Los Angeles,754-13122,754,Metro Rapid Line
+1377,15431,Vermont / Martin Luther King Jr,-118.291693,34.011053000000004,Metro - Los Angeles,754-13122,754,Metro Rapid Line
+1378,140950,Vermont / Washington,-118.291707,34.039738,Metro - Los Angeles,754-13122,754,Metro Rapid Line
+1379,140951,Vermont / Jefferson,-118.291683,34.025234999999995,Metro - Los Angeles,754-13122,754,Metro Rapid Line
+1380,140952,Vermont / Vernon,-118.291696,34.003431,Metro - Los Angeles,754-13122,754,Metro Rapid Line
+1381,140953,Vermont / Slauson,-118.29160900000001,33.988876,Metro - Los Angeles,754-13122,754,Metro Rapid Line
+1382,140954,Vermont / Century,-118.29203700000001,33.945233,Metro - Los Angeles,754-13122,754,Metro Rapid Line
+1383,140959,Vermont / Sunset,-118.291909,34.09766,Metro - Los Angeles,754-13122,754,Metro Rapid Line
+1384,140965,Vermont / Florence,-118.291753,33.974410999999996,Metro - Los Angeles,754-13122,754,Metro Rapid Line
+1385,140967,Vermont / Pico,-118.29174599999999,34.047017,Metro - Los Angeles,754-13122,754,Metro Rapid Line
+1386,13000139,Vermont / Santa Monica,-118.291894,34.090626,Metro - Los Angeles,754-13122,754,Metro Rapid Line
+1387,13000140,Vermont / Wilshire,-118.291784,34.061969,Metro - Los Angeles,754-13122,754,Metro Rapid Line
+1388,13000141,Vermont / Athens Station,-118.292092,33.928765000000006,Metro - Los Angeles,754-13122,754,Metro Rapid Line
+1389,15313,Pierce College Station,-118.570213,34.186873,Metro - Los Angeles,901-13122,901,Metro Orange Line (901)
+1390,15416,Reseda Station,-118.53523999999999,34.180339000000004,Metro - Los Angeles,901-13122,901,Metro Orange Line (901)
+1391,15432,Canoga Station,-118.596236,34.190974,Metro - Los Angeles,901-13122,901,Metro Orange Line (901)
+1392,15436,Tampa Station,-118.55271200000001,34.180964,Metro - Los Angeles,901-13122,901,Metro Orange Line (901)
+1393,15453,De Soto Station,-118.58766100000001,34.188568,Metro - Los Angeles,901-13122,901,Metro Orange Line (901)
+1394,15458,Canoga Station,-118.59681599999999,34.190603,Metro - Los Angeles,901-13122,901,Metro Orange Line (901)
+1395,15516,Balboa Station,-118.50031100000001,34.18588,Metro - Los Angeles,901-13122,901,Metro Orange Line (901)
+1396,15539,Sepulveda Station,-118.46871999999999,34.180684,Metro - Los Angeles,901-13122,901,Metro Orange Line (901)
+1397,15568,Chatsworth Station,-118.59933000000001,34.252067,Metro - Los Angeles,901-13122,901,Metro Orange Line (901)
+1398,15570,Van Nuys Station,-118.44783600000001,34.180505,Metro - Los Angeles,901-13122,901,Metro Orange Line (901)
+1399,15575,Nordhoff Station,-118.597326,34.234688,Metro - Los Angeles,901-13122,901,Metro Orange Line (901)
+1400,15584,Woodman Station,-118.42943799999999,34.178849,Metro - Los Angeles,901-13122,901,Metro Orange Line (901)
+1401,15590,Roscoe Station,-118.59728999999999,34.219046999999996,Metro - Los Angeles,901-13122,901,Metro Orange Line (901)
+1402,15600,Sherman Way Station,-118.597205,34.200276,Metro - Los Angeles,901-13122,901,Metro Orange Line (901)
+1403,15606,Woodley Station,-118.482854,34.186192999999996,Metro - Los Angeles,901-13122,901,Metro Orange Line (901)
+1404,15617,Laurel Canyon Station,-118.395677,34.16847,Metro - Los Angeles,901-13122,901,Metro Orange Line (901)
+1405,15624,Valley College Station,-118.42178700000001,34.171665000000004,Metro - Los Angeles,901-13122,901,Metro Orange Line (901)
+1406,15684,North Hollywood Station,-118.377987,34.168463,Metro - Los Angeles,901-13122,901,Metro Orange Line (901)
+1407,15312,Pierce College Station,-118.57166200000002,34.187471,Metro - Los Angeles,901-13122,901,Metro Orange Line (901)
+1408,15415,Reseda Station,-118.536804,34.180445,Metro - Los Angeles,901-13122,901,Metro Orange Line (901)
+1409,15435,Tampa Station,-118.55418700000001,34.181562,Metro - Los Angeles,901-13122,901,Metro Orange Line (901)
+1410,15438,De Soto Station,-118.589246,34.188736,Metro - Los Angeles,901-13122,901,Metro Orange Line (901)
+1411,15444,Canoga Station,-118.59614499999999,34.191235999999996,Metro - Los Angeles,901-13122,901,Metro Orange Line (901)
+1412,15458,Canoga Station,-118.59681599999999,34.190603,Metro - Los Angeles,901-13122,901,Metro Orange Line (901)
+1413,15515,Balboa Station,-118.50071799999999,34.185972,Metro - Los Angeles,901-13122,901,Metro Orange Line (901)
+1414,15535,Sepulveda Station,-118.469026,34.180896999999995,Metro - Los Angeles,901-13122,901,Metro Orange Line (901)
+1415,15546,Van Nuys Station,-118.44825700000001,34.180638,Metro - Los Angeles,901-13122,901,Metro Orange Line (901)
+1416,15568,Chatsworth Station,-118.59933000000001,34.252067,Metro - Los Angeles,901-13122,901,Metro Orange Line (901)
+1417,15583,Woodman Station,-118.42960500000001,34.179164,Metro - Los Angeles,901-13122,901,Metro Orange Line (901)
+1418,15588,Woodley Station,-118.48443200000001,34.186288,Metro - Los Angeles,901-13122,901,Metro Orange Line (901)
+1419,15601,Sherman Way Station,-118.597059,34.200573999999996,Metro - Los Angeles,901-13122,901,Metro Orange Line (901)
+1420,15607,Roscoe Station,-118.597171,34.220493,Metro - Los Angeles,901-13122,901,Metro Orange Line (901)
+1421,15608,Nordhoff Station,-118.59719399999999,34.236129,Metro - Los Angeles,901-13122,901,Metro Orange Line (901)
+1422,15611,Laurel Canyon Station,-118.397301,34.168571,Metro - Los Angeles,901-13122,901,Metro Orange Line (901)
+1423,15661,Valley College Station,-118.422917,34.172878000000004,Metro - Los Angeles,901-13122,901,Metro Orange Line (901)
+1424,15684,North Hollywood Station,-118.377987,34.168463,Metro - Los Angeles,901-13122,901,Metro Orange Line (901)
+1425,70,El Monte Busway / Alameda - Union Station,-118.237358,34.05449,Metro - Los Angeles,910-13122,910/950,Metro Silver Line (910/950)
+1426,931,Cal State LA Busway Station,-118.16798899999999,34.062495,Metro - Los Angeles,910-13122,910/950,Metro Silver Line (910/950)
+1427,2315,Harbor Transitway / 37th St / Usc,-118.279922,34.017657,Metro - Los Angeles,910-13122,910/950,Metro Silver Line (910/950)
+1428,2320,Harbor Transitway / Manchester,-118.280556,33.959801,Metro - Los Angeles,910-13122,910/950,Metro Silver Line (910/950)
+1429,2321,Harbor Transitway / Rosecrans,-118.28640700000001,33.901752,Metro - Los Angeles,910-13122,910/950,Metro Silver Line (910/950)
+1430,2322,Harbor Transitway / Slauson,-118.280197,33.988689,Metro - Los Angeles,910-13122,910/950,Metro Silver Line (910/950)
+1431,3124,Harbor Beacon Park Ride - Nb,-118.280318,33.745739,Metro - Los Angeles,910-13122,910/950,Metro Silver Line (910/950)
+1432,3153,Beacon / 1st,-118.28031100000001,33.743645,Metro - Los Angeles,910-13122,910/950,Metro Silver Line (910/950)
+1433,3821,Pacific / 1st,-118.28773000000001,33.743138,Metro - Los Angeles,910-13122,910/950,Metro Silver Line (910/950)
+1434,4994,Figueroa / 23rd,-118.274042,34.030962,Metro - Los Angeles,910-13122,910/950,Metro Silver Line (910/950)
+1435,5040,Figueroa / Olympic,-118.263651,34.045131,Metro - Los Angeles,910-13122,910/950,Metro Silver Line (910/950)
+1436,5041,Figueroa / Pico,-118.26771699999999,34.040803000000004,Metro - Los Angeles,910-13122,910/950,Metro Silver Line (910/950)
+1437,5049,Figueroa / Washington,-118.27174,34.034572,Metro - Los Angeles,910-13122,910/950,Metro Silver Line (910/950)
+1438,5377,1st / Hill,-118.246958,34.054415999999996,Metro - Los Angeles,910-13122,910/950,Metro Silver Line (910/950)
+1439,5395,Pacific / 11th,-118.287774,33.734092,Metro - Los Angeles,910-13122,910/950,Metro Silver Line (910/950)
+1440,5396,Pacific / 15th,-118.287791,33.730465,Metro - Los Angeles,910-13122,910/950,Metro Silver Line (910/950)
+1441,5397,Pacific / 17th,-118.287802,33.728654,Metro - Los Angeles,910-13122,910/950,Metro Silver Line (910/950)
+1442,5408,Pacific / 3rd,-118.28773500000001,33.741766999999996,Metro - Los Angeles,910-13122,910/950,Metro Silver Line (910/950)
+1443,5410,Pacific / 7th,-118.28775700000001,33.737728000000004,Metro - Los Angeles,910-13122,910/950,Metro Silver Line (910/950)
+1444,10855,Harbor Transitway / Harbor Fwy Station,-118.280823,33.92873,Metro - Los Angeles,910-13122,910/950,Metro Silver Line (910/950)
+1445,11917,Spring / 1st - City Hall,-118.24346399999999,34.053886999999996,Metro - Los Angeles,910-13122,910/950,Metro Silver Line (910/950)
+1446,13460,HOV Roadway / Adams,-118.27464499999999,34.028542,Metro - Los Angeles,910-13122,910/950,Metro Silver Line (910/950)
+1447,15029,USC Medical Ctr Busway Station,-118.21096999999999,34.055671000000004,Metro - Los Angeles,910-13122,910/950,Metro Silver Line (910/950)
+1448,15713,6th / Flower,-118.257228,34.049896000000004,Metro - Los Angeles,910-13122,910/950,Metro Silver Line (910/950)
+1449,15715,Olive / 5th,-118.25296100000001,34.049246000000004,Metro - Los Angeles,910-13122,910/950,Metro Silver Line (910/950)
+1450,30005,Harbor Gateway Transit Center,-118.28730800000001,33.869339000000004,Metro - Los Angeles,910-13122,910/950,Metro Silver Line (910/950)
+1451,30019,El Monte Station - Upper Level,-118.04513200000001,34.072191,Metro - Los Angeles,910-13122,910/950,Metro Silver Line (910/950)
+1452,141012,Pacific / 21st Layover,-118.288128,33.724933,Metro - Los Angeles,910-13122,910/950,Metro Silver Line (910/950)
+1453,141079,Harbor Fwy / Pacific Coast Highway,-118.281893,33.790656,Metro - Los Angeles,910-13122,910/950,Metro Silver Line (910/950)
+1454,141080,Harbor Fwy / Carson,-118.28718799999999,33.831921,Metro - Los Angeles,910-13122,910/950,Metro Silver Line (910/950)
+1455,65300038,Figueroa / Victoria,-118.281379,33.86323,Metro - Los Angeles,910-13122,910/950,Metro Silver Line (910/950)
+1456,65300042,Figueroa / 7th,-118.25960400000001,34.049473,Metro - Los Angeles,910-13122,910/950,Metro Silver Line (910/950)
+1457,70500012,Olive / General Thaddeus Kosciuszko,-118.249154,34.053257,Metro - Los Angeles,910-13122,910/950,Metro Silver Line (910/950)
+1458,378,Harbor Beacon Park Ride - Sb,-118.280473,33.746895,Metro - Los Angeles,910-13122,910/950,Metro Silver Line (910/950)
+1459,1813,Flower / 23rd,-118.273023,34.030324,Metro - Los Angeles,910-13122,910/950,Metro Silver Line (910/950)
+1460,2324,Harbor Transitway / Harbor Fwy Station,-118.280708,33.92873,Metro - Los Angeles,910-13122,910/950,Metro Silver Line (910/950)
+1461,2377,Flower / Pico,-118.267103,34.039881,Metro - Los Angeles,910-13122,910/950,Metro Silver Line (910/950)
+1462,2378,Flower / Washington,-118.27106699999999,34.033640000000005,Metro - Los Angeles,910-13122,910/950,Metro Silver Line (910/950)
+1463,2603,Beacon / 1st,-118.280511,33.74343,Metro - Los Angeles,910-13122,910/950,Metro Silver Line (910/950)
+1464,3674,Flower / 7th,-118.25906100000002,34.048546,Metro - Los Angeles,910-13122,910/950,Metro Silver Line (910/950)
+1465,5048,USC Medical Ctr Busway Station,-118.21099,34.055644,Metro - Los Angeles,910-13122,910/950,Metro Silver Line (910/950)
+1466,5411,Pacific / 7th,-118.28806100000001,33.738002,Metro - Los Angeles,910-13122,910/950,Metro Silver Line (910/950)
+1467,9129,El Monte Busway / Alameda - Union Station,-118.23714299999999,34.054361,Metro - Los Angeles,910-13122,910/950,Metro Silver Line (910/950)
+1468,9480,Cal State LA Busway Station,-118.167993,34.062839000000004,Metro - Los Angeles,910-13122,910/950,Metro Silver Line (910/950)
+1469,10846,Harbor Transitway / Rosecrans,-118.286827,33.902027000000004,Metro - Los Angeles,910-13122,910/950,Metro Silver Line (910/950)
+1470,10848,Harbor Transitway / 37th St / Usc,-118.280305,34.017818,Metro - Los Angeles,910-13122,910/950,Metro Silver Line (910/950)
+1471,10853,Harbor Transitway / Manchester,-118.28103600000001,33.959641,Metro - Los Angeles,910-13122,910/950,Metro Silver Line (910/950)
+1472,10994,Harbor Transitway / Slauson,-118.280731,33.988865000000004,Metro - Los Angeles,910-13122,910/950,Metro Silver Line (910/950)
+1473,12304,Pacific / 1st,-118.288032,33.743028,Metro - Los Angeles,910-13122,910/950,Metro Silver Line (910/950)
+1474,12416,Spring / Temple,-118.24335900000001,34.054253,Metro - Los Angeles,910-13122,910/950,Metro Silver Line (910/950)
+1475,13496,Flower / Olympic,-118.262722,34.044685,Metro - Los Angeles,910-13122,910/950,Metro Silver Line (910/950)
+1476,13560,Grand / 3rd,-118.251572,34.052881,Metro - Los Angeles,910-13122,910/950,Metro Silver Line (910/950)
+1477,13561,Grand / 5th,-118.254268,34.05007,Metro - Los Angeles,910-13122,910/950,Metro Silver Line (910/950)
+1478,13802,Pacific / 11th,-118.288074,33.734369,Metro - Los Angeles,910-13122,910/950,Metro Silver Line (910/950)
+1479,13803,Pacific / 15th,-118.288095,33.730739,Metro - Los Angeles,910-13122,910/950,Metro Silver Line (910/950)
+1480,13804,Pacific / 17th,-118.288105,33.728929,Metro - Los Angeles,910-13122,910/950,Metro Silver Line (910/950)
+1481,13805,Pacific / 19th,-118.288122,33.727104,Metro - Los Angeles,910-13122,910/950,Metro Silver Line (910/950)
+1482,13817,Pacific / 3rd,-118.28804199999999,33.741217,Metro - Los Angeles,910-13122,910/950,Metro Silver Line (910/950)
+1483,14073,Harbor Fwy / Carson,-118.28758400000001,33.831269,Metro - Los Angeles,910-13122,910/950,Metro Silver Line (910/950)
+1484,15612,1st / Hill,-118.24677700000001,34.054621999999995,Metro - Los Angeles,910-13122,910/950,Metro Silver Line (910/950)
+1485,15820,Flower / Adams,-118.27508999999999,34.027429,Metro - Los Angeles,910-13122,910/950,Metro Silver Line (910/950)
+1486,30005,Harbor Gateway Transit Center,-118.28730800000001,33.869339000000004,Metro - Los Angeles,910-13122,910/950,Metro Silver Line (910/950)
+1487,30019,El Monte Station - Upper Level,-118.04513200000001,34.072191,Metro - Los Angeles,910-13122,910/950,Metro Silver Line (910/950)
+1488,141012,Pacific / 21st Layover,-118.288128,33.724933,Metro - Los Angeles,910-13122,910/950,Metro Silver Line (910/950)
+1489,142216,Harbor Fwy / Pacific Coast Highway,-118.282191,33.790366999999996,Metro - Los Angeles,910-13122,910/950,Metro Silver Line (910/950)
+1490,65300039,Figueroa / 190th,-118.28168899999999,33.862404999999995,Metro - Los Angeles,910-13122,910/950,Metro Silver Line (910/950)

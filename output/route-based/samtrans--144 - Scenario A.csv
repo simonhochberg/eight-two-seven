@@ -1,0 +1,66 @@
+,stop_id,stop_name,stop_lon,stop_lat,agency,route_id,route_short_name,route_long_name
+0,332019,Daly City BART-Bay 3,-122.468737,37.706122,SamTrans,120-168,120,Colma BART - Brunswick/Templeton
+1,332048,Brunswick St & Templeton Ave,-122.453043,37.707179,SamTrans,120-168,120,Colma BART - Brunswick/Templeton
+2,332172,John Daly Blvd & Park Plaza Dr,-122.48153300000001,37.702202,SamTrans,120-168,120,Colma BART - Brunswick/Templeton
+3,332173,John Daly Blvd & Poncetta Dr,-122.476102,37.703814,SamTrans,120-168,120,Colma BART - Brunswick/Templeton
+4,332192,Lake Merced Blvd & John Daly Blvd,-122.484481,37.700947,SamTrans,120-168,120,Colma BART - Brunswick/Templeton
+5,332194,Lake Merced Blvd & Southgate Ave,-122.48311100000001,37.698083000000004,SamTrans,120-168,120,Colma BART - Brunswick/Templeton
+6,332218,Mission St & Crocker Ave,-122.458554,37.706692,SamTrans,120-168,120,Colma BART - Brunswick/Templeton
+7,332221,Mission St & Evergreen Ave-Daly City,-122.456534,37.707388,SamTrans,120-168,120,Colma BART - Brunswick/Templeton
+8,332263,Serramonte Blvd & Callan Blvd,-122.475177,37.669532000000004,SamTrans,120-168,120,Colma BART - Brunswick/Templeton
+9,332267,Serramonte Blvd & Hwy 1,-122.478321,37.669354999999996,SamTrans,120-168,120,Colma BART - Brunswick/Templeton
+10,332270,Serramonte Blvd & Saint Francis Blvd,-122.47978700000002,37.669154,SamTrans,120-168,120,Colma BART - Brunswick/Templeton
+11,332311,Southgate Ave & Lakeshire Dr,-122.483779,37.676195,SamTrans,120-168,120,Colma BART - Brunswick/Templeton
+12,332314,Southgate Ave & Lincoln Ave,-122.486823,37.678619,SamTrans,120-168,120,Colma BART - Brunswick/Templeton
+13,332320,Southgate Ave & Westmoor Ave,-122.487004,37.682697999999995,SamTrans,120-168,120,Colma BART - Brunswick/Templeton
+14,332323,Southgate Ave & Windsor Dr,-122.48547099999999,37.697275,SamTrans,120-168,120,Colma BART - Brunswick/Templeton
+15,332325,Southgate Ave & Crestline Ave,-122.487077,37.685484,SamTrans,120-168,120,Colma BART - Brunswick/Templeton
+16,332326,Southgate Ave & Creston Ave,-122.49110300000001,37.693431,SamTrans,120-168,120,Colma BART - Brunswick/Templeton
+17,332329,Southgate Ave & Lakewood Dr,-122.490669,37.696991,SamTrans,120-168,120,Colma BART - Brunswick/Templeton
+18,332330,Southgate Ave & Montrose Ave,-122.48892,37.689248,SamTrans,120-168,120,Colma BART - Brunswick/Templeton
+19,332331,Southgate Ave & Westridge Ave,-122.490936,37.691621000000005,SamTrans,120-168,120,Colma BART - Brunswick/Templeton
+20,332340,Saint Francis Blvd & San Miguel Ave,-122.48005400000001,37.674456,SamTrans,120-168,120,Colma BART - Brunswick/Templeton
+21,332342,Saint Francis Blvd & Clarinada Ave,-122.48003200000001,37.670994,SamTrans,120-168,120,Colma BART - Brunswick/Templeton
+22,332345,Saint Francis Blvd & Southgate Ave,-122.47969499999999,37.675538,SamTrans,120-168,120,Colma BART - Brunswick/Templeton
+23,332517,Westmoor Ave & Baldwin Ave,-122.48418899999999,37.68463,SamTrans,120-168,120,Colma BART - Brunswick/Templeton
+24,332536,Serramonte Shopping Ctr-Bay 3,-122.472082,37.670609999999996,SamTrans,120-168,120,Colma BART - Brunswick/Templeton
+25,332544,Mission St & Wellington Ave,-122.461347,37.705753,SamTrans,120-168,120,Colma BART - Brunswick/Templeton
+26,333018,Junipero Serra Blvd & Serra Ctr,-122.466633,37.673072999999995,SamTrans,120-168,120,Colma BART - Brunswick/Templeton
+27,333506,Colma BART-Bay 6,-122.46620300000001,37.684878999999995,SamTrans,120-168,120,Colma BART - Brunswick/Templeton
+28,333513,Junipero Serra Blvd & Colma Blvd,-122.469724,37.677014,SamTrans,120-168,120,Colma BART - Brunswick/Templeton
+29,333516,El Camino Real & F St,-122.463807,37.682941,SamTrans,120-168,120,Colma BART - Brunswick/Templeton
+30,331430,Mission St & Sickles Ave,-122.453277,37.708708,SamTrans,120-168,120,Colma BART - Brunswick/Templeton
+31,332014,Daly City BART-Bay 1,-122.46885400000001,37.70622,SamTrans,120-168,120,Colma BART - Brunswick/Templeton
+32,332048,Brunswick St & Templeton Ave,-122.453043,37.707179,SamTrans,120-168,120,Colma BART - Brunswick/Templeton
+33,332175,John Daly Blvd & Sheffield Dr,-122.475953,37.704135,SamTrans,120-168,120,Colma BART - Brunswick/Templeton
+34,332186,Junipero Serra Blvd & Serramonte Blvd,-122.46466299999999,37.671175,SamTrans,120-168,120,Colma BART - Brunswick/Templeton
+35,332225,Mission St & Goethe St,-122.457104,37.707404,SamTrans,120-168,120,Colma BART - Brunswick/Templeton
+36,332227,Mission St & John Daly Blvd,-122.46234299999999,37.705271999999994,SamTrans,120-168,120,Colma BART - Brunswick/Templeton
+37,332247,Park Plaza Dr & John Daly Blvd,-122.481733,37.701105,SamTrans,120-168,120,Colma BART - Brunswick/Templeton
+38,332264,Serramonte Blvd & Callan Blvd,-122.474849,37.669331,SamTrans,120-168,120,Colma BART - Brunswick/Templeton
+39,332266,Serramonte Blvd & Hwy 1,-122.478029,37.669171999999996,SamTrans,120-168,120,Colma BART - Brunswick/Templeton
+40,332269,Serramonte Blvd & Saint Francis Blvd,-122.47968600000002,37.669003000000004,SamTrans,120-168,120,Colma BART - Brunswick/Templeton
+41,332309,Southgate Ave & Glenrose Ave,-122.491398,37.694583,SamTrans,120-168,120,Colma BART - Brunswick/Templeton
+42,332310,Southgate Ave & Lake Merced Blvd,-122.483476,37.697631,SamTrans,120-168,120,Colma BART - Brunswick/Templeton
+43,332312,Southgate Ave & Lakeshire Dr,-122.48312299999999,37.676035,SamTrans,120-168,120,Colma BART - Brunswick/Templeton
+44,332313,Southgate Ave & Lakewood Dr,-122.49077700000001,37.697112,SamTrans,120-168,120,Colma BART - Brunswick/Templeton
+45,332315,Southgate Ave & Lincoln Ave,-122.486999,37.678768,SamTrans,120-168,120,Colma BART - Brunswick/Templeton
+46,332317,Southgate Ave & Montrose Ave,-122.48884199999999,37.688902,SamTrans,120-168,120,Colma BART - Brunswick/Templeton
+47,332318,Southgate Ave & Ocean Grove Ave,-122.487284,37.685676,SamTrans,120-168,120,Colma BART - Brunswick/Templeton
+48,332319,Southgate Ave & Westmoor Ave,-122.487173,37.682757,SamTrans,120-168,120,Colma BART - Brunswick/Templeton
+49,332321,Southgate Ave & Westridge Ave,-122.49101999999999,37.691114,SamTrans,120-168,120,Colma BART - Brunswick/Templeton
+50,332322,Southgate Ave & Maddux Dr,-122.486269,37.697412,SamTrans,120-168,120,Colma BART - Brunswick/Templeton
+51,332336,Saint Francis Blvd & Clarinada Ave,-122.480246,37.671014,SamTrans,120-168,120,Colma BART - Brunswick/Templeton
+52,332339,Saint Francis Blvd & Belhaven Ave,-122.480258,37.67349,SamTrans,120-168,120,Colma BART - Brunswick/Templeton
+53,332344,Saint Francis Blvd & Southgate Ave,-122.479872,37.675585999999996,SamTrans,120-168,120,Colma BART - Brunswick/Templeton
+54,332406,San Jose Ave & Bepler St,-122.461502,37.706065,SamTrans,120-168,120,Colma BART - Brunswick/Templeton
+55,332538,Serramonte Shopping Ctr-Bay 1,-122.47211899999999,37.67028,SamTrans,120-168,120,Colma BART - Brunswick/Templeton
+56,333014,Junipero Serra Blvd & Colma Blvd,-122.46960200000001,37.677298,SamTrans,120-168,120,Colma BART - Brunswick/Templeton
+57,333015,Junipero Serra Blvd & Colma Park N Ride,-122.470576,37.682534999999994,SamTrans,120-168,120,Colma BART - Brunswick/Templeton
+58,333017,Junipero Serra Blvd & Serra Ctr,-122.46641499999998,37.673362,SamTrans,120-168,120,Colma BART - Brunswick/Templeton
+59,333510,Colma BART-Bay 10,-122.46556799999999,37.68464,SamTrans,120-168,120,Colma BART - Brunswick/Templeton
+60,333516,El Camino Real & F St,-122.463807,37.682941,SamTrans,120-168,120,Colma BART - Brunswick/Templeton
+61,335162,SFO Airport Terminal 3-Lower Level,-122.38828500000001,37.616675,SamTrans,120-168,120,Colma BART - Brunswick/Templeton
+62,335503,SFO Airport Terminal 2-Lower Level,-122.384193,37.616795,SamTrans,120-168,120,Colma BART - Brunswick/Templeton
+63,335620,SFO Airport Terminal G-Lower Level,-122.390399,37.615823999999996,SamTrans,120-168,120,Colma BART - Brunswick/Templeton
+64,335637,SFO Airport Terminal A-Lower Level,-122.389293,37.615019000000004,SamTrans,120-168,120,Colma BART - Brunswick/Templeton
