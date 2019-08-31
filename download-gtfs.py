@@ -1,5 +1,14 @@
-import pandas as pd, numpy as np, csv, requests, datetime, time, zipfile
-import os, shutil
+# This script downloads all GTFS data available on transitfeeds.com via API
+# This script is still a work in progress
+
+import csv
+import datetime
+import json
+import os
+import requests 
+import shutil
+import time
+import zipfile
 
 # this interaction checks to make sure that the user really wants to delete already existing GTFS data
 # I kept accidentally deleting files I wanted -- hence, this step
