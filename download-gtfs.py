@@ -10,23 +10,39 @@ import shutil
 import time
 import zipfile
 
-# this interaction checks to make sure that the user really wants to delete already existing GTFS data
-# I kept accidentally deleting files I wanted -- hence, this step
-deleteGTFS = input("Do you want to delete existing GTFS data? Y/N ")
-if deleteGTFS.upper() == "Y":
-    try:
-        shutil.rmtree("gtfs/")
-    except FileNotFoundError:
-        pass
-else:
-    pass
-    
 # download list of agency IDs from transit feeds
 
 listOfAgencyIDs = []
 api_key = "94413ac9-aec7-4720-a731-640e98d65763" # this is my API key; replace with your own
 r_url = "https://api.transitfeeds.com/v1/getFeeds?key={}&location=67&descendants=1&limit=100".format(api_key)
 r = requests.get(r_url)
+
+# This sequence checks to see if a JSON with the last update times exists
+# if it does, the JSON is loaded and any additional feeds are added to the file
+# if it does not, the JSON is created
+
+last_update_times_exists = os.path.exists("last_update_times.json")
+
+if last_update_times_exists:
+    with open('last_update_times.json', 'r') as fp:
+        last_update_times = json.load(fp)
+        for feed in r.json()["results"]["feeds"]:
+            if feed["id"] not in last_update_times:
+                last_update_times[feed["id"]] = feed["latest"]["ts"]
+            else:
+                pass
+        with open('last_update_times.json', 'w') as fp:
+            json.dump(last_update_times, fp)
+else:
+    # Build the last_update_times.json file
+    last_update_times = {}
+    for feed in r.json()["results"]["feeds"]:
+        try:
+            last_update_times[feed["id"]] = feed["latest"]["ts"]
+        except KeyError:
+            last_update_times[feed["id"]] = 0
+    with open('last_update_times.json', 'w') as fp:
+        json.dump(last_update_times, fp)
 
 numPages = r.json()["results"]["numPages"] # capture all gtfs feeds 
 
